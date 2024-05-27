@@ -2,6 +2,9 @@ name: Sync Fork and Modify Content
 
 on:
   workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/sync_and_merge.yaml'
   schedule:
     - cron: '0 16 * * *'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
 
@@ -40,7 +43,12 @@ jobs:
       - name: Modify Files Excluding Markdown Files
         run: |
           find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
-
+          # 用Surge中的WeChat替换Clash中WeChat文件
+          cat rule/Surge/WeChat/WeChat.list | sed '/^#/d' > temp.yaml
+          echo "# Total count: $(wc -l < temp.yaml)" > rule/Clash/WeChat/WeChat.yaml
+          echo "payload:" >> rule/Clash/WeChat/WeChat.yaml
+          cat temp.yaml | sed -r "s/(.*)/ - \1/g" >> rule/Clash/WeChat/WeChat.yaml
+          
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
         run: |
