@@ -48,6 +48,7 @@ jobs:
           echo "# Total count: $(wc -l < temp.yaml)" > rule/Clash/WeChat/WeChat.yaml
           echo "payload:" >> rule/Clash/WeChat/WeChat.yaml
           cat temp.yaml | sed -r "s/(.*)/ - \1/g" >> rule/Clash/WeChat/WeChat.yaml
+          rm -rf temp.yaml
           
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
