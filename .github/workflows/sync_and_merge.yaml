@@ -44,11 +44,11 @@ jobs:
         run: |
           find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
           # 用Surge中的WeChat替换Clash中WeChat文件
-          sed -i '/IP-ASN/d' rule/Surge/WeChat/WeChat.list
           cat rule/Surge/WeChat/WeChat.list | sed '/^#/d' > temp.yaml
+          sed -i '/IP-ASN/d' temp.yaml
           echo "# Total count: $(wc -l < temp.yaml)" > rule/Clash/WeChat/WeChat.yaml
           echo "payload:" >> rule/Clash/WeChat/WeChat.yaml
-          cat temp.yaml | sed -r "s/(.*)/ - \1/g" >> rule/Clash/WeChat/WeChat.yaml
+          cat temp.yaml | sed -r "s/(.*)/  - \1/g" >> rule/Clash/WeChat/WeChat.yaml
           rm -rf temp.yaml
           
       # Step 7: Check for changes and commit if any
