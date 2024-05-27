@@ -5,7 +5,6 @@
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 233
 # DOMAIN-SUFFIX: 22
-# IP-ASN: 1
 # IP-CIDR: 3
 # IP-CIDR6: 64
 # USER-AGENT: 2
@@ -339,6 +338,5 @@ IP-CIDR6,240e:f7:4f00:1f10::/60,no-resolve
 IP-CIDR6,240e:f7:a070:100::/60,no-resolve
 IP-CIDR6,240e:ff:9018:100::/60,no-resolve
 IP-CIDR6,240e:ff:f100::/44,no-resolve
-IP-ASN,132203,no-resolve
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
