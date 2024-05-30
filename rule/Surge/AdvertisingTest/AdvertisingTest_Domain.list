@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-29 02:09:11
+# UPDATED: 2024-05-30 02:09:08
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 3
 # DOMAIN: 12845
 # DOMAIN-KEYWORD: 283
-# DOMAIN-SUFFIX: 153092
+# DOMAIN-SUFFIX: 153123
 # IP-CIDR: 469
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 166705
+# TOTAL: 166736
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -11314,6 +11314,7 @@
 .adsandcomputer.com
 .adsapi.manhuaren.com
 .adsapi.snapchat.com
+.adsarcade.com
 .adsassets-ipv6.waze.com
 .adsassets.waze.com
 .adsassure.com
@@ -12383,6 +12384,7 @@
 .ae4.ifeng.com
 .ae7c783736eb2ff.com
 .ae888vip.com
+.aeaw.cn
 .aeb92e4b9d.com
 .aebadu.com
 .aebvay.mesinspirationsculinaires.com
@@ -17587,6 +17589,7 @@
 .arks.red
 .arkunexpectedtrousers.com
 .arlbper.cn
+.arleavannya.com
 .arlime.com
 .arlyreven.top
 .armadillo.axeneo7.qc.ca
@@ -19926,6 +19929,7 @@
 .b8pfulzbyj7h.com
 .b8zk2cl6bjs92j7ah8k2kzi92jf8ck9vj7v0z5bv2v3cj2azlp0c8z5vb7dt.me
 .b90.yahoo.co.jp
+.b903c2.xyz
 .b91.yahoo.co.jp
 .b92.putniktravel.com
 .b92.yahoo.co.jp
@@ -24947,6 +24951,7 @@
 .bs50tds.com
 .bs7li.cn
 .bsanciv.top
+.bsantycbjnf.com
 .bsanvietnam.online
 .bsaq5.cn
 .bsbaswq.cn
@@ -25045,6 +25050,7 @@
 .btjbppltrdpyjsj.com
 .btjpdvqocspo.com
 .btkbei.courir.com
+.btkwlsfvc.com
 .btlaunch.baidu.com
 .btloader.com
 .btmean.cardosystems.com
@@ -27835,11 +27841,13 @@
 .ce-marketing.fr
 .ce.paliercleaned.com
 .ce.wlaoc.cn
+.ce.x-opt.io
 .ce0dc8aa55.com
 .ce1e674f2f.3897e90a2e.com
 .ce22d.cn
 .ce2c208e9f.com
 .ce33m7.com
+.ce357c.xyz
 .ce59e12e0e.b2b9a56b6a.com
 .cea9d3d4f74fb831.com
 .ceafdgcdfcheibdfabf.ru
@@ -31168,6 +31176,7 @@
 .collect.babybus.com
 .collect.banggood.com
 .collect.bannercrowd.net
+.collect.biomedcentral.com
 .collect.blishtech.co
 .collect.breakit.se
 .collect.cap.ch
@@ -32484,6 +32493,7 @@
 .cooeyeddarbs.com
 .cooflin.hveris.website
 .coofumberty.digital
+.coogauwoupto.com
 .coogoocy.com
 .coogumak.com
 .cooguo.com
@@ -34160,6 +34170,7 @@
 .cszz.ru
 .ct-dev.taskhuman.com
 .ct.5.p2l.info
+.ct.beslist.nl
 .ct.capterra.com
 .ct.corpusapp.com
 .ct.eid.co.nz
@@ -58385,6 +58396,7 @@
 .grippertureen.space
 .gripping-bread.com
 .gripqueer.com
+.gripspigyard.com
 .grirault.net
 .grirkd215r4d22.7k11547nc.com
 .grirtouy.com
@@ -62268,6 +62280,7 @@
 .hpymkg.air-austral.com
 .hpyrdr.com
 .hpyue.com
+.hpzktd.xyz
 .hpzosbx.cn
 .hpzyl.com
 .hq390.xyz
@@ -62630,6 +62643,7 @@
 .hueadsxml.com
 .hueekqx.cn
 .huehinge.com
+.hufaztjist.com
 .huffingtopost.fr
 .huffson-delivery.com
 .hufkzv.xyz
@@ -71686,6 +71700,7 @@
 .kepler-37b.com
 .keppendragoon.top
 .keptafd.cn
+.keptoojals.xyz
 .keqglr.panvel.com
 .keqii.com
 .keqrd.top
@@ -73743,6 +73758,7 @@
 .lajna.fr
 .lajouly.com
 .lake.joongang.co.kr
+.lake.studydrive.net
 .lakequincy.com
 .lakerspreferences.gleague.nba.com
 .lakerspreferences.nba.com
@@ -77894,6 +77910,7 @@
 .looksmartppc.com
 .looksthrilled.com
 .lookszone.ru
+.looktotheright.com
 .looktt.xyz
 .lookujie.net
 .lookup-domain.com
@@ -77967,6 +77984,7 @@
 .lorcgnziipstq.com
 .lordhelpuswithssl.com
 .lordofads.com
+.lordofthesuperfrogs.com
 .lore.circulate.com
 .lorenop.icu
 .lorenzourban.com
@@ -86859,6 +86877,7 @@
 .mnhncf.cn
 .mniam.mannam.bond
 .mnifdlax.top
+.mninoq.xyz
 .mniumlapsers.com
 .mnjhrleahonkq.com
 .mnjxvtknnlai.com
@@ -88015,6 +88034,7 @@
 .mpzwsvueph.com
 .mq65.top
 .mqabjtgli.xyz
+.mqaoweu.icu
 .mqaqtwkbwcqty.xyz
 .mqarrenothanca.xyz
 .mqcjqjhy.com
@@ -89033,6 +89053,7 @@
 .mybetterck.com
 .mybetterdl.com
 .mybettermb.com
+.mybgrea97.shop
 .mybinaryoptionsrobot.com
 .mybjjg.vlan.be
 .mybloglog.com
@@ -91081,7 +91102,6 @@
 .ngyxtr.ripcurl.com
 .nh.5.p2l.info
 .nh.miaozhu66.com
-.nh.rimoseantdom.com
 .nhamformane.com
 .nhan-tienvidientu247.com
 .nhan.design
@@ -95401,6 +95421,7 @@
 .orlotalers.com
 .orlowedonhisdhilt.info
 .orlqtz.lampenwelt.ch
+.ormolusapiary.com
 .ormolustuke.top
 .orner.fr
 .ornery-animal.pro
@@ -97938,6 +97959,7 @@
 .paushoow.net
 .pausingeoedwe.xyz
 .paussidsipage.com
+.pausteegohoa.net
 .pauwhajo.xyz
 .pauzajoo.net
 .pauzooty.xyz
@@ -107032,6 +107054,7 @@
 .refinance.shengen.ru
 .refinedads.com
 .refineminx.top
+.refinerfiery.com
 .refl3alea.com
 .reflectingscoopcourse.com
 .reflectionseldomnorth.com
@@ -108547,6 +108570,7 @@
 .rimfranklyscaffold.com
 .riminghoggoofy.com
 .rimnow.fr
+.rimoseantdom.com
 .rims.aig.com
 .rimsha.viralof.online
 .rimwigckagz.com
@@ -112347,6 +112371,7 @@
 .sdhzstone.net
 .sdjbcjsbdjk.com
 .sdjbvjsbvjz.com
+.sdjbvskjvds.com
 .sdjjr.com
 .sdjkbcjksbdsvv.com
 .sdjqhxmg.com
@@ -113221,6 +113246,7 @@
 .sendelven.com
 .sendgrid.employeelinkapp.com
 .sendhtml.net
+.sendingspire.com
 .sendingurl.com
 .sendingurl.net
 .sendlane.com
@@ -116184,6 +116210,7 @@
 .slopeac.com
 .slopeaota.com
 .slopesoap.com
+.slopingunrein.com
 .sloppycalculator.com
 .sloppyearthquake.com
 .sloppyegotistical.com
@@ -129007,6 +129034,7 @@
 .teho.visma.fi
 .tehous.com
 .tehras.com
+.teiankythes.top
 .teicdn.com
 .teiidsfortune.com
 .teijgy.herveleger.com
@@ -143084,6 +143112,7 @@
 .w4vecl1cks.com
 .w55c.net
 .w5sac788c1.360doc.cn
+.w6.chabad.org
 .w6061.move7.com
 .w65mymobile.com
 .w65p.com
@@ -151054,6 +151083,7 @@
 .ysesials.net
 .ysgekq.xyz
 .ysgsq.cn
+.yshhfig.com
 .yshlor.icu
 .ysjweb.com
 .ysjwj.com
@@ -153091,6 +153121,7 @@
 .zxqrdm.vinomofo.com
 .zxr9gpxf7j.com
 .zxrcfw.com
+.zxrfzxb.com
 .zxrnfc.drinco.jp
 .zxrrop.musely.com
 .zxrtb.com
