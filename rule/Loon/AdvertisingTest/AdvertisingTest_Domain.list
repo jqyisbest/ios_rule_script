@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-05-31 02:10:07
+# UPDATED: 2024-06-01 02:09:50
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12846
 # DOMAIN-KEYWORD: 283
-# DOMAIN-SUFFIX: 153191
+# DOMAIN-SUFFIX: 153225
 # IP-CIDR: 469
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 166802
+# TOTAL: 166836
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -266,6 +266,7 @@
 .06fgej.com
 .070880.com
 .07171.com
+.072551.xyz
 .0728w.cn
 .0729a1e027.84284a87a4.com
 .072c4580e8.com
@@ -1867,6 +1868,7 @@
 .2tyne.ic
 .2tyne.icu
 .2u3v4w5x6y.com
+.2ucz3ymr1.com
 .2under.ru
 .2v0ni.cn
 .2v6624.myrebo.com
@@ -6864,6 +6866,7 @@
 .abackchain.com
 .abackframe.com
 .abacksoda.com
+.abadit5rckb.com
 .abakus.freenet.de
 .abamatoyer.com
 .abandonedaction.com
@@ -10118,6 +10121,7 @@
 .adpinion.com
 .adpionier.de
 .adplay.it
+.adplay.ru
 .adplay.tudou.com
 .adplex.co.kr
 .adplexo.com
@@ -22259,6 +22263,7 @@
 .bfjk360.com
 .bfjoyp.plus.nl
 .bfjpbw.herrenausstatter.de
+.bfjsliv.top
 .bfjszxzfvf.com
 .bflybplr.xyz
 .bfmio.com
@@ -27617,6 +27622,7 @@
 .cdn.logrocket.com
 .cdn.logsnag.com
 .cdn.manga9.co
+.cdn.mcnn.pl
 .cdn.mdigital.co.il
 .cdn.mediatradecraft.com
 .cdn.metalocator.com
@@ -41029,6 +41035,7 @@
 .dffrahax.com
 .dfg6.top
 .dfgbalon.com
+.dfgfdffg.cn
 .dfggq.com
 .dfghaqea.xyz
 .dfgpifa.com
@@ -45526,6 +45533,7 @@
 .ecefyu.geox.com
 .ecestats.theglobeandmail.com
 .ecffmhajfgxw.com
+.echaruropygi.com
 .echatu.com
 .echehalids.guru
 .echevintrunnel.top
@@ -51224,6 +51232,7 @@
 .fiercedental.com
 .fiercefacetwidely.com
 .fiercequips.com
+.fieryinjure.com
 .fierymint.com
 .fierysolemncow.com
 .fieslobwg.com
@@ -54941,6 +54950,7 @@
 .geethaihoa.com
 .geethaiw.xyz
 .geethoap.com
+.geewooheene.net
 .gefkkw.cyberport.de
 .gefun.net
 .gegbeiaojmfgnkw.com
@@ -56458,6 +56468,7 @@
 .glurdoat.com
 .glursihi.net
 .gluteinavarch.com
+.glutenmuttsensuous.com
 .gluttonstayaccomplishment.com
 .gluttonybrand.com
 .gluttonybuzzingtroubled.com
@@ -58587,6 +58598,7 @@
 .grupkxfhi.com
 .gruponn.com
 .grurawho.com
+.grushoungy.com
 .grussreenter.com
 .gruvirxita.com
 .gruwalom.xyz
@@ -59139,6 +59151,7 @@
 .gxqjvuhsk.com
 .gxqzz.7766.org
 .gxssjz.com
+.gxtmsmni.com
 .gxuhoeynwghjd.com
 .gxunj.com
 .gxusko.pinkpanda.hu
@@ -59616,6 +59629,7 @@
 .handsomehose.com
 .handsomeindustry.com
 .handsomelyhealth.com
+.handsomelythumb.com
 .handsomepinchingconsultation.com
 .handsomeyam.com
 .handspiketha.xyz
@@ -73413,6 +73427,7 @@
 .kydcwp.landwirt.com
 .kydzfldt.xyz
 .kyefakwa.com
+.kyemwo.xyz
 .kygcfvtjrawv.com
 .kygfocnbvlaa.com
 .kygftx.xyz
@@ -73525,6 +73540,7 @@
 .l.du.coach
 .l.e.domain.com.au
 .l.engage.canva.com
+.l.erodatalabs.com
 .l.fairblocker.com
 .l.ffsagami.com
 .l.ffx.io
@@ -74071,6 +74087,7 @@
 .lathilusted.top
 .latinchiniks.digital
 .latinnathathem.com
+.latinwayy.com
 .lationwordsi.club
 .latkelotong.top
 .latonaheyday.space
@@ -91813,6 +91830,7 @@
 .nokaut.link
 .nokontoken.com
 .noksauxi.com
+.noktaglaik.com
 .nol.yahoo.com
 .nollolofgulmof.com
 .nolrougn.com
@@ -97164,6 +97182,7 @@
 .parolropmo.xyz
 .paronymtethery.com
 .parrable.com
+.parrallforums.top
 .parrecleftne.com
 .parrecleftne.xyz
 .parronnotandone.info
@@ -98714,6 +98733,7 @@
 .persianrank.ir
 .persianstat.com
 .persianstat.ir
+.persicrejolt.com
 .persistarcticthese.com
 .persistbrittle.com
 .persistentadequate.com
@@ -102221,6 +102241,7 @@
 .prod-defaulting-subscriptiontool.gismart.xyz
 .prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 .prod-events.nykaa.com
+.prod-live-chat.sprinklr.com
 .prod-mhaa.mhtr.be
 .prod-pdx-beacon-1406086907.us-west-2.elb.amazonaws.com
 .prod-sponsoredads.mkt.zappos.com
@@ -103239,6 +103260,7 @@
 .pubimgs.com
 .pubimgs.sapo.pt
 .publi.atresmediapublicidad.com
+.publi.elliberal.com.ar
 .publiads.com
 .public.adgger.jp
 .public.app.autohome.com.cn
@@ -103883,6 +103905,7 @@
 .pvykihatcb.com
 .pvzdrx.cn
 .pw.gigazine.net
+.pw2ct1.asia
 .pw321.com
 .pwa.telephoneannuaire.fr
 .pwbmdalngizhz.com
@@ -105251,6 +105274,7 @@
 .queergatewayeasier.com
 .queersodadults.com
 .queersynonymlunatic.com
+.queerygenets.com
 .queiajowan.com
 .quelea.igotcha.de
 .quellaplentyresolute.com
@@ -105737,6 +105761,7 @@
 .r0.mradx.net
 .r023m83skv5v.com
 .r0wa9z6t8t.ru
+.r1.ati.su
 .r1.ritikajoshi.com
 .r1.romeflirt.com
 .r1ztni.oui.sncf
@@ -107575,6 +107600,7 @@
 .reoilspinors.top
 .reomanager.pl
 .reonews.pl
+.reopensnews.com
 .reople.co.kr
 .reoreexpresi.com
 .reoreexpresi.xyz
@@ -116305,6 +116331,7 @@
 .slumid.com
 .slumpyclueing.com
 .slumsynchs.tech
+.slurpsbeets.com
 .slushdevastating.com
 .slut2fuck.net
 .slutshouse.com
@@ -134830,6 +134857,7 @@
 .tracksurf.daooda.com
 .tracksy.com
 .tracksystem.online
+.trackszn.median.eu
 .tracktds.com
 .tracktds.live
 .tracktilldeath.club
@@ -136626,6 +136654,7 @@
 .tubgirl.me
 .tubgirl.org
 .tuboaxen.com
+.tubqwqvsfusjqq.com
 .tubr8.fr
 .tubroaffs.org
 .tubsougn.com
@@ -138142,6 +138171,7 @@
 .umrstfl.cn
 .umrvmb.net.anwalt.de
 .umsns.com
+.umtudo.com
 .umtzwr.adidas.co.kr
 .umuotov.com
 .umv0.com
@@ -138915,6 +138945,7 @@
 .upstandingmoscow.com
 .upstats.ru
 .upstory.it
+.upsups.click
 .upsweephalms.com
 .upswingmethyl.com
 .upt.graphiq.com
@@ -139381,6 +139412,7 @@
 .usvkfwth.xyz
 .uswardwot.com
 .usxuyr.icu
+.usyliet.top
 .usylkoifiwa.com
 .usyyzz.winparts.nl
 .uszaodwya.com
@@ -149534,6 +149566,7 @@
 .xwbspx.xyz
 .xwcfvvnegv.com
 .xwcumrmfkdkbv.com
+.xwdjnj.xyz
 .xwdplfo.com
 .xwdsp.com
 .xwell.ru
@@ -150003,6 +150036,7 @@
 .ycembr.net-a-porter.com
 .yceml.net
 .ycgkol.icu
+.ycgmnpp.icu
 .ycgy8888.com
 .ych168.cn
 .ychap.com
