@@ -1,16 +1,16 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-05 02:09:49
+# UPDATED: 2024-06-06 02:09:04
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # AND: 3
 # DOMAIN: 12853
 # DOMAIN-KEYWORD: 283
-# DOMAIN-SUFFIX: 153671
+# DOMAIN-SUFFIX: 153701
 # IP-CIDR: 469
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 167292
+# TOTAL: 167322
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -2917,6 +2917,7 @@
 .5581.4puuqeh41.com
 .5596.34gwl8v1a.com
 .559gp.com
+.55cc9d.xyz
 .55ebf493c42.com
 .55labs.com
 .55lotte.com
@@ -3221,6 +3222,7 @@
 .628536nyv.com
 .629de87520.f983cf2155.com
 .62b70ac32d4614b.com
+.62ca04e27a.com
 .62f9bb0bbc.com
 .62h.site
 .62kjjhg.com
@@ -12463,7 +12465,6 @@
 .ae.cobweb.com
 .ae064ae81c.com
 .ae1a1e258b8b016.com
-.ae2a82cf20.62ca04e27a.com
 .ae4.ifeng.com
 .ae7c783736eb2ff.com
 .ae888vip.com
@@ -18211,6 +18212,7 @@
 .asrety.com
 .asricewaterho.com
 .asrntiljustetyerec.info
+.asrop.xyz
 .asrowjkagg.com
 .asryrzpu.xyz
 .assagaiwooable.com
@@ -20037,6 +20039,7 @@
 .b7tp47v2nb3x-a.akamaihd.net
 .b8118ff927.806cb9d130.com
 .b81oidrmy82w.com
+.b82978.xyz
 .b833f917de.com
 .b852e3606e.com
 .b88392.top
@@ -21298,6 +21301,7 @@
 .bd4.chuiyue.com
 .bd4.idgdmgroup.com.cn
 .bd4travel.com
+.bd5a57.xyz
 .bd742.com
 .bd888.qizuang.com
 .bd9wv.icu
@@ -22526,6 +22530,7 @@
 .biallo3.de
 .biancasunlit.com
 .biancfdaslkljdsfkw.shop
+.biancitiao.com
 .biandaosheng.com
 .bianxianmao.com
 .bianxianwu.com
@@ -22795,6 +22800,7 @@
 .bineukdwithmef.info
 .bing0.ru
 .bing001.shop
+.bing003.shop
 .bing005.shop
 .bingads.microsoft.com
 .bingdianhuanyuan.cn
@@ -25319,6 +25325,7 @@
 .bugits.com
 .bugjyl.jkattire.co.uk
 .bugleczmoidgxo.com
+.buglesembarge.top
 .bugly.qq.com
 .bugraubs.com
 .bugrdl.hifiklubben.se
@@ -27681,7 +27688,6 @@
 .cdn.asdb.xyz
 .cdn.asdfix.com
 .cdn.asdnow.xyz
-.cdn.asrop.xyz
 .cdn.assets.craveonline.com
 .cdn.assets.gorillanation.com
 .cdn.attn.tv
@@ -30702,7 +30708,6 @@
 .cmn1lsm2.beliefnet.com
 .cmnepalslma.com
 .cmntjzf.cn
-.cmoa.pro
 .cmon.congress.gov
 .cmoneba.ru
 .cmop.mgtv.com
@@ -33919,6 +33924,7 @@
 .creditorapido.xyz
 .creditperformance.com.br
 .creditsoffer.blogspot.com
+.credotrigona.com
 .credulityicicle.com
 .creedaileenboiler.com
 .creedoverwork.com
@@ -42699,6 +42705,7 @@
 .dlisuq.wbw-nail.com
 .dljdgn.e-lens.com.br
 .dljuejfp.com
+.dljzcl.cn
 .dlkdfuun.com
 .dlkjgjmy.com
 .dlmate15.online
@@ -51718,6 +51725,7 @@
 .finead.cn
 .finead.o00.kr
 .fineboost-loghub.ap-southeast-1.log.aliyuncs.com
+.finedbawrel.com
 .finedintersection.com
 .finednothue.com
 .finema.net
@@ -61093,6 +61101,7 @@
 .hfjk3wa.com
 .hfjoksuriyy.com
 .hfjsbf.xyz
+.hfjsliu.top
 .hfjuki.com
 .hfjvuxuwasf.com
 .hfk128dfs-dsfbheuoys.xyz
@@ -68556,6 +68565,7 @@
 .ithergrouter.website
 .ithinkthereforeiam.net
 .ithlmmwluh.com
+.ithoughtsustache.info
 .itienlo.top
 .itikiab.com
 .itim.vn
@@ -70765,6 +70775,7 @@
 .js.bxwns.com
 .js.bxwxtxt.com
 .js.cdjqjy.com
+.js.cmoa.pro
 .js.cncrk.com
 .js.cnmo.com
 .js.duotegame.com
@@ -75591,6 +75602,7 @@
 .libertycdn.com
 .libertystmedia.com
 .libfre.obs.cn-east-3.myhuaweicloud.com
+.libhzf.xyz
 .libihimu.com
 .librariandemocrattoss.com
 .librariessunflower.com
@@ -90070,6 +90082,7 @@
 .nang-han-muc-vip-vpbank.com
 .nang-hang-ca-nhan-vib-mrk1.com
 .nang-hang-tin-dung-ca-nhan.com
+.nangalupeose.com
 .nangelsaidthe.info
 .nanghanmuc-thetindung.com
 .nanghanmuc-tindungvn.com
@@ -93246,6 +93259,7 @@
 .nyhnx.com
 .nyhpyq.com
 .nyhrgss.com
+.nyihcpzdloe.com
 .nyittc.com
 .nykcksdpo.com
 .nykkky.com
@@ -93591,6 +93605,7 @@
 .oasismarketing.oasisadvantage.com
 .oasqrthubiub.com
 .oassis.zmh.zope.com
+.oastoamox.com
 .oataltaul.com
 .oatbcxnhacfjnc.com
 .oatchelt.com
@@ -95575,6 +95590,7 @@
 .oponixa.com
 .opootsoa.net
 .oposfcjfav.com
+.opositeasysemblyjus.info
 .opossum.roleup.com
 .opossum.stephanieharari.com
 .opoxv.com
@@ -103079,6 +103095,7 @@
 .prosecutorcommaeligible.com
 .prosecutorkettle.com
 .prosedisavow.com
+.proselyaltars.com
 .proseoverlook.com
 .prositzapas.com
 .prosmazke.ru
@@ -105345,6 +105362,7 @@
 .qpcoeyfwqdltkk.com
 .qpcvlbp.cn
 .qpemoqauwc.com
+.qpesok.xyz
 .qpielh.kfhi.or.kr
 .qpixxezhwwoc.com
 .qpkdnupzke.com
@@ -112342,6 +112360,7 @@
 .sbpb1.chuiyue.com
 .sbpb1.qulishi.com
 .sbpzeq.lululemon.com.au
+.sbqptosht.com
 .sbrakepads.com
 .sbrands.lookfantastic.com
 .sbroiughttohi.xyz
@@ -114079,6 +114098,7 @@
 .sephor.fr
 .sephora-qa.branchstaging.com
 .sephur.com
+.sepianshap.com
 .sepstough.com
 .septemberautomobile.com
 .septfd2em64eber.com
@@ -128625,6 +128645,7 @@
 .tainiesonline.stream
 .tainosapiece.com
 .taintvistacredulous.com
+.taipeivermeil.top
 .taiphanmemfull.com
 .taiphanmempc.net
 .taipsuwa.com
@@ -137639,6 +137660,7 @@
 .typiconrices.com
 .typierknyaz.website
 .typiol.com
+.typojesuit.com
 .typsxumcsjw.com
 .tyqptghilt.com
 .tyract.com
@@ -140041,6 +140063,7 @@
 .uuvtpqi.cn
 .uuvzmba.cn
 .uuxfznnf.xyz
+.uuysiaq.com
 .uuzlytbpmmhfm.com
 .uuzsfpju.xyz
 .uuzu.com
@@ -141288,6 +141311,7 @@
 .vfmahn.slevomat.cz
 .vfo.voyage-prive.co.uk
 .vfo4.carrefour-banque.fr
+.vfphbh.xyz
 .vfqnhif.cn
 .vfreecams.com
 .vfsdgjrr.xyz
@@ -144198,6 +144222,7 @@
 .waycash.net
 .waycloud.info
 .wayfarerspoutpraise.com
+.wayfgwbipgiz.com
 .waygatecrowbar.com
 .waykingroup.com
 .waymarkgentiin.com
@@ -146250,6 +146275,7 @@
 .wkjava.top
 .wkjhd.com
 .wkjoehzlkl.com
+.wkjyxcheng.top
 .wkkjfcgjofbix.ru
 .wkktnbxxum.xyz
 .wklwyt.springer.com
@@ -148539,6 +148565,7 @@
 .xbaiv.com
 .xbasfbno.info
 .xbaxfy.minrevi.jp
+.xbbhwggj.icu
 .xbc8fsvo5w75wwx8.pro
 .xbcnvj2mdk1dn1.com
 .xbcrohmposa.com
@@ -150157,6 +150184,7 @@
 .xyrkl.com
 .xyrkotsqhaf.com
 .xyryjt.xyz
+.xysefte.icu
 .xysgfqnara.xyz
 .xysk5eeyj0j5n.xyz
 .xyssp.com
@@ -150453,6 +150481,7 @@
 .ybtkzjm.com
 .ybuduzpe.com
 .ybujfcuqya.com
+.ybutoakqkct.com
 .ybwcvhcnulrgbvy.com
 .ybx.yahoo.co.jp
 .ybxkfivvpmofh.com
@@ -153443,6 +153472,7 @@
 .ztfjtn.liujo.com
 .ztfzizpkjrmhbc.com
 .ztgblo.vidaxl.lt
+.zthxobgk.icu
 .ztidu.com
 .ztnibpbkl.com
 .ztpdcg.stroilioro.com
