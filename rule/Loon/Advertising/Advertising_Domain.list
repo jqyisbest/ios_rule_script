@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-06 02:08:03
+# UPDATED: 2024-06-08 02:09:30
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16392
 # DOMAIN-KEYWORD: 278
-# DOMAIN-SUFFIX: 134345
+# DOMAIN-SUFFIX: 134391
 # IP-CIDR: 447
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 151475
+# TOTAL: 151521
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -6957,6 +6957,7 @@
 .ad.digitimes.com.tw
 .ad.directmirror.com
 .ad.dl.mainpost.de
+.ad.dl.mz.de
 .ad.dline.com.tr
 .ad.dnoticias.pt
 .ad.docer.wps.cn
@@ -13196,6 +13197,7 @@
 .analytics.joincambridge.com
 .analytics.jslib.win
 .analytics.jst.ai
+.analytics.junia.ai
 .analytics.kaggle.io
 .analytics.kaltura.com
 .analytics.kapost.com
@@ -13740,6 +13742,7 @@
 .ancientconspicuousuniverse.com
 .ancientsend.com
 .ancree.fr
+.ancxeftgyu.top
 .ancznewozw.com
 .andall.servicesql.info
 .andappjaxzfo.com
@@ -19123,6 +19126,7 @@
 .bd3.jobui.com
 .bd4.chuiyue.com
 .bd4travel.com
+.bd5a57.xyz
 .bd742.com
 .bd888.qizuang.com
 .bd9wv.icu
@@ -20216,6 +20220,7 @@
 .biallo2.de
 .biallo3.de
 .biancasunlit.com
+.biancitiao.com
 .biandaosheng.com
 .bianxianmao.com
 .bianxianwu.com
@@ -20470,6 +20475,7 @@
 .bing001.shop
 .bing003.shop
 .bing005.shop
+.binga01.shop
 .bingads.microsoft.com
 .bingdianhuanyuan.cn
 .bingdiantao.com
@@ -22777,6 +22783,7 @@
 .bugits.com
 .bugjyl.jkattire.co.uk
 .bugleczmoidgxo.com
+.buglesembarge.top
 .bugly.qq.com
 .bugraubs.com
 .bugrdl.hifiklubben.se
@@ -24541,6 +24548,7 @@
 .cbbvi.com
 .cbc.pnc.com
 .cbcare.fr
+.cbcgqs.xyz
 .cbcvou.xyz
 .cbd2dd06ba.com
 .cbdatatracker.com
@@ -26117,6 +26125,7 @@
 .ciimar.icu
 .ciimg.com
 .ciiycode.com
+.ciizxsdr.com
 .cijianggun.com
 .cike666.com
 .ciksolre.net
@@ -30071,6 +30080,7 @@
 .creditorapido.xyz
 .creditperformance.com.br
 .creditsoffer.blogspot.com
+.credotrigona.com
 .credulityicicle.com
 .creedaileenboiler.com
 .creedoverwork.com
@@ -32405,6 +32415,7 @@
 .dacnmevunbtu.com
 .dacoloment.pro
 .dacounter.com
+.dacpibaqwsa.com
 .dacronblanchi.guru
 .dacyh.cyou
 .dad-api.dcard.tw
@@ -32548,6 +32559,7 @@
 .dajiurlgcfvgpt.com
 .dajiyuan.com
 .dajiyuan.org
+.dajkqqpz.top
 .dakang-energy.com
 .dakawm.cc
 .dake.net.cn
@@ -32766,6 +32778,7 @@
 .dasistnews.net
 .daskm.com
 .daslethv.com
+.dasljfoq.top
 .dasperdolus.com
 .daspic.top
 .dasterx.ru
@@ -33675,6 +33688,7 @@
 .de.verintsystemsinc.com
 .de093o.cn
 .de17a.com
+.de214f.xyz
 .de2nsnw1i3egd.cloudfront.net
 .deacon.ghfkk.com
 .deadlinefunnel.com
@@ -34057,6 +34071,7 @@
 .deligrassdull.com
 .delikatsov.com
 .delikoko.openapp.link
+.deliman.net
 .deline-sunction.com
 .deliquencydeliquencyeyesight.com
 .deliquencydeliquencygangenemies.com
@@ -35921,6 +35936,7 @@
 .dlink.upperinc.com
 .dlisuq.wbw-nail.com
 .dljuejfp.com
+.dljzcl.cn
 .dlkdfuun.com
 .dlkjgjmy.com
 .dlmewheniyv.xyz
@@ -38341,6 +38357,7 @@
 .eb.prout.be
 .eb13489b89db.com
 .eb1a6329bb.com
+.eb36c9bf12.com
 .eb5232b35d.com
 .ebaayshopping.site
 .ebank.hlug1k.com
@@ -42456,6 +42473,7 @@
 .f4.p0y.com
 .f40f89d54b8.com
 .f4235693e4.com
+.f43f5a2390.com
 .f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
 .f4823894ba.com
 .f48d1c06e4.com
@@ -43887,6 +43905,7 @@
 .fine-wealth.pro
 .finead.cn
 .finead.o00.kr
+.finedbawrel.com
 .finedintersection.com
 .finednothue.com
 .finema.net
@@ -44553,6 +44572,7 @@
 .fnlojkpbe.com
 .fnlvhy.wowma.jp
 .fnnmnupevx.com
+.fnnvyvxiu.com
 .fnnzr.cn
 .fnofnbdkfwnvguu.com
 .fnoqgg.roninwear.com
@@ -51781,6 +51801,7 @@
 .hehadinqu.info
 .hehighursoo.com
 .hehmy.cn
+.hehnpryefuq.com
 .hehongmei.top
 .hehuren.cn
 .heiad.com
@@ -52091,6 +52112,7 @@
 .hfjk3wa.com
 .hfjoksuriyy.com
 .hfjsbf.xyz
+.hfjsliu.top
 .hfjuki.com
 .hfjvuxuwasf.com
 .hfk128dfs-dsfbheuoys.xyz
@@ -53497,6 +53519,7 @@
 .hrnhmral.com
 .hrnkdr.xyz
 .hrnpiyimmgdfjn.xyz
+.hrnvfp.xyz
 .hrogrpee.de
 .hrotonafk.xyz
 .hrprwf.proteinocean.com
@@ -54764,6 +54787,7 @@
 .ifigent.com
 .ifjbtjf.com
 .ifjhkbmewdny.com
+.ifjslio.top
 .ifkgdxhpt.com
 .ifknittedhurtful.com
 .iflgybyab.com
@@ -60390,6 +60414,7 @@
 .journera.com
 .journey.cisco.com
 .journeyembankmentsubjects.com
+.journeymv.com
 .journeys.journeyed.com
 .journity.com
 .jourohun.xyz
@@ -60785,6 +60810,7 @@
 .jtdujjsk.com
 .jtdxz.top
 .jteatfaqvwqf.com
+.jtezxmpb.xyz
 .jtfqyewsaflnp.com
 .jtgdssrlha.com
 .jtienla.top
@@ -64890,6 +64916,7 @@
 .libertycdn.com
 .libertystmedia.com
 .libfre.obs.cn-east-3.myhuaweicloud.com
+.libhzf.xyz
 .libihimu.com
 .librariandemocrattoss.com
 .librariessunflower.com
@@ -73727,6 +73754,7 @@
 .metrics.steinhafels.com
 .metrics.stockhead.com.au
 .metrics.store.irobot.com
+.metrics.streaks.jp
 .metrics.striderite.com
 .metrics.strokeawareness.com
 .metrics.stubhub.co.uk
@@ -77391,6 +77419,7 @@
 .nang-han-muc-vip-vpbank.com
 .nang-hang-ca-nhan-vib-mrk1.com
 .nang-hang-tin-dung-ca-nhan.com
+.nangalupeose.com
 .nangelsaidthe.info
 .nanghanmuc-thetindung.com
 .nanghanmuc-tindungvn.com
@@ -79201,6 +79230,7 @@
 .nlvnht.miror.jp
 .nlvwdlnhfnnw.com
 .nlwjdxsa.com
+.nlxgjwye.icu
 .nlyjs2015.com
 .nlyxqpeo.com
 .nlzq888.com
@@ -80599,6 +80629,7 @@
 .oasismarketing.oasisadvantage.com
 .oasqrthubiub.com
 .oassis.zmh.zope.com
+.oastoamox.com
 .oataltaul.com
 .oatbcxnhacfjnc.com
 .oatchelt.com
@@ -88732,6 +88763,7 @@
 .prosecutorcommaeligible.com
 .prosecutorkettle.com
 .prosedisavow.com
+.proselyaltars.com
 .proseoverlook.com
 .prositzapas.com
 .prosmazke.ru
@@ -90699,6 +90731,7 @@
 .qpcoeyfwqdltkk.com
 .qpcvlbp.cn
 .qpemoqauwc.com
+.qpesok.xyz
 .qpixxezhwwoc.com
 .qpkdnupzke.com
 .qpl9.destinia.dk
@@ -90799,6 +90832,7 @@
 .qrkhwe.xyz
 .qrkwvoomrbjoj.top
 .qrlsx.com
+.qrmozsc.icu
 .qroagwadndwy.com
 .qrovwu.xyz
 .qrpenodnn.com
@@ -91278,6 +91312,7 @@
 .qwmamh.icu
 .qwmdnlzitsys.com
 .qwnmfiti.xyz
+.qwoofao.top
 .qwoyfys.com
 .qwqeifbsbxqozy.com
 .qwrdj.xyz
@@ -94776,6 +94811,7 @@
 .rpzbfftekjdz.com
 .rqakljxbs.com
 .rqauutf.icu
+.rqazepammrl.com
 .rqbdyk.evo.com
 .rqbugumvsprr.com
 .rqctubqtcbgeug.com
@@ -98408,6 +98444,7 @@
 .sephor.fr
 .sephora-qa.branchstaging.com
 .sephur.com
+.sepianshap.com
 .sepstough.com
 .septemberautomobile.com
 .septfd2em64eber.com
@@ -119504,6 +119541,7 @@
 .tsbntfjyijlx.com
 .tsccqvlqjpchjcl.com
 .tscounter.com
+.tsdfxv.xyz
 .tsdlp.com
 .tse.telerama.fr
 .tseda1.icu
@@ -120178,6 +120216,7 @@
 .typiconrices.com
 .typierknyaz.website
 .typiol.com
+.typojesuit.com
 .typsxumcsjw.com
 .tyqptghilt.com
 .tyract.com
@@ -122345,6 +122384,7 @@
 .uuvm.pornpics.com
 .uuvzmba.cn
 .uuxfznnf.xyz
+.uuysiaq.com
 .uuzlytbpmmhfm.com
 .uuzsfpju.xyz
 .uuzu.com
@@ -123456,6 +123496,7 @@
 .vfmahn.slevomat.cz
 .vfo.voyage-prive.co.uk
 .vfo4.carrefour-banque.fr
+.vfphbh.xyz
 .vfreecams.com
 .vfsdgjrr.xyz
 .vfsvv1.com
@@ -127944,6 +127985,7 @@
 .wkjava.top
 .wkjhd.com
 .wkjoehzlkl.com
+.wkjyxcheng.top
 .wkkjfcgjofbix.ru
 .wkktnbxxum.xyz
 .wklwyt.springer.com
@@ -129728,6 +129770,7 @@
 .wxcqdnf.com
 .wxebye.aboutyou.hu
 .wxejroeeteesr.com
+.wxemjmxevy.com
 .wxfdmri.xyz
 .wxfkanv.cn
 .wxgctz.com
@@ -131262,6 +131305,7 @@
 .xyrkl.com
 .xyrkotsqhaf.com
 .xyryjt.xyz
+.xysefte.icu
 .xysgfqnara.xyz
 .xyssp.com
 .xytcboyz.icu
@@ -133948,6 +133992,7 @@
 .zpe.klre.18183.com
 .zpfqolj.cn
 .zpgetworker11.com
+.zphgadwnjro.com
 .zplayer-trk.zdn.vn
 .zplayer.trk.zapps.vn
 .zpmkwufagp.com
@@ -134073,6 +134118,7 @@
 .ztfjtn.liujo.com
 .ztfzizpkjrmhbc.com
 .ztgblo.vidaxl.lt
+.zthxobgk.icu
 .ztidu.com
 .ztnibpbkl.com
 .ztqdkzn.cn
