@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-10 02:08:45
+# UPDATED: 2024-06-11 02:09:59
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12851
 # DOMAIN-KEYWORD: 283
-# DOMAIN-SUFFIX: 153864
+# DOMAIN-SUFFIX: 153878
 # IP-CIDR: 470
 # URL-REGEX: 12
-# TOTAL: 167480
+# TOTAL: 167494
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -2444,6 +2444,7 @@
 .4207008.com
 .420909.cn
 .420a797395.95cf5beb64.com
+.420db600.xyz
 .4219.sosqboh85.com
 .4223.4puuqeh41.com
 .422680d506.7d2d5e588a.com
@@ -18938,6 +18939,7 @@
 .auiehechoulh.ru
 .auirbnb.fr
 .auisaoa.top
+.auislq.top
 .aujaujoa.net
 .aujooxoo.com
 .aukalerim.com
@@ -39884,6 +39886,7 @@
 .davedbux.ir
 .davidhuynh.fr
 .davjdaauvlp.com
+.davtvd.xyz
 .dawangde.me
 .dawanjiahn.com
 .dawdlealmonry.com
@@ -46387,6 +46390,7 @@
 .efilli.com
 .efinauknceiwou.info
 .efizobj.cn
+.efjsliw.top
 .efklkkkvkukf.com
 .eflbruwqt.ru
 .efm.verintsystemsinc.com
@@ -55909,6 +55913,7 @@
 .gfbxgrfnljmxs.com
 .gfd80.com
 .gfdfhdh5t5453.com
+.gfdgfhh.cn
 .gfdh56.site
 .gfdrkskillso.xyz
 .gfeede.theminda.com
@@ -61826,6 +61831,7 @@
 .hkosgxn.cn
 .hkowhqtenjfud.com
 .hkoxlirf.com
+.hkpeghqu.icu
 .hkrpg-log-upload-os.hoyoverse.com
 .hkrpg-log-upload.mihoyo.com
 .hkrytf.xyz
@@ -69771,6 +69777,7 @@
 .jghjhtz.com
 .jgidskia.top
 .jgkto.com
+.jglgjz.xyz
 .jglinks.cn
 .jgmlink.cn
 .jgmywh.icu
@@ -71762,6 +71769,7 @@
 .kaizenplatform.net
 .kaizzz.xyz
 .kak-bit-new.ru
+.kak17p.xyz
 .kakam.info
 .kakappp.com
 .kakbik.info
@@ -75850,6 +75858,7 @@
 .ligatessuspend.top
 .ligatus.com
 .ligatus.de
+.ligfdjnfd.cn
 .lighes.com
 .lightblue.red
 .lightcast.leadscoringcenter.com
@@ -96964,6 +96973,7 @@
 .ozwolnonnotv.com
 .ozwvd.com
 .ozwwawcaxoxh.com
+.ozykeor.icu
 .ozzruxazcoxc.com
 .p-advg.com
 .p-aw2-adapt-beacon.awsprodops.movetv.com
@@ -101296,6 +101306,7 @@
 .po.funshion.com
 .po.ponant.com
 .po18.in
+.po2qgo.xyz
 .poacauceecoz.com
 .poacawhe.net
 .poachfelonry.top
@@ -129041,6 +129052,7 @@
 .tapproveofchild.info
 .tappx.com
 .tapresearch.com
+.taproximo.com
 .taprtopcldfa.co
 .taprtopcldfard.co
 .taprtopcldfb.co
@@ -137658,6 +137670,7 @@
 .twovqti.com
 .twpasol.com
 .twpfa.cn
+.twqtf.boats
 .twrank.com
 .twrencesprin.info
 .twrkcbs.cn
@@ -152133,6 +152146,7 @@
 .yxiqqh.dealchecker.co.uk
 .yxjad.com
 .yxjnzydc.com
+.yxkbgg.xyz
 .yxkfaskdaybakf.com
 .yxkhpk.com
 .yxkzip.brastemp.com.br
