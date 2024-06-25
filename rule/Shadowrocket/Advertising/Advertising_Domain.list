@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-23 02:08:08
+# UPDATED: 2024-06-25 02:08:29
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 16391
 # DOMAIN-KEYWORD: 275
-# DOMAIN-SUFFIX: 135044
+# DOMAIN-SUFFIX: 135111
 # IP-CIDR: 448
 # URL-REGEX: 12
-# TOTAL: 152170
+# TOTAL: 152237
 .0.code.cotsta.ru
 .0.net.easyjet.com
 .0.nextyourcontent.com
@@ -2019,6 +2019,7 @@
 .48a16802.site
 .48c5d27faef8b635e99e00ef9b5fd0cd.com
 .48cf8d95a3.com
+.48d8e4d6.xyz
 .48da4009ba.com
 .48z7wyjdsywu.www.revistaferramental.com.br
 .4901967b4b.com
@@ -7004,6 +7005,7 @@
 .ad.donanimhaber.com
 .ad.doorigo.co.kr
 .ad.doubanio.com
+.ad.douga-kan.com
 .ad.download.cnet.com
 .ad.doyouad.com
 .ad.dqwjzm.com
@@ -8135,6 +8137,7 @@
 .adhref.pl
 .adhslx.com
 .adhub.digital
+.adhub.mobifone.vn
 .adhub.ru
 .adhudg.nec-lavie.jp
 .adhunt.net
@@ -17806,6 +17809,7 @@
 .azdxypf.cn
 .azejckiv.com
 .azelaiclawyer.com
+.azenka.one
 .azera-s014.com
 .azeriondigital.com
 .azfitn.com
@@ -20987,6 +20991,7 @@
 .blbazybajjevv.top
 .blbazybajvzvw.top
 .blbesnuff.digital
+.blciqbk.icu
 .bldr.mkt.samsung.com
 .bldvxzxdpsrjla.com
 .ble.ubm-licensing.com
@@ -26320,6 +26325,7 @@
 .cision.com
 .cisiwa.site
 .cismqdx.icu
+.cissoidentera.top
 .ciststoquets.space
 .ciszhp.finanzfrage.net
 .ciszhp.motorradfrage.net
@@ -30539,6 +30545,7 @@
 .cskh-vib.ho-tro-tin-dung-ca-nhan.com
 .cskh-vib.nang-han-muc-the-visa.com
 .cskh.onlinecrm.vn
+.cskhcanhanhd.com
 .cskhdienmayxanh.com
 .cskhdienmayxanhvn.com
 .cskhmayxanh.com
@@ -31193,6 +31200,7 @@
 .cyclobenzaprine.ourtablets.com
 .cycndlhot.xyz
 .cycsfe.com
+.cycvyo.xyz
 .cydippeespy.com
 .cydoor.com
 .cyesesprerich.com
@@ -32531,6 +32539,7 @@
 .da5h676k6d22w.cloudfront.net
 .da6555.com
 .da77842b9c.com
+.da8975.com
 .daadr.cn
 .daailynews.com
 .daartads.com
@@ -32810,6 +32819,7 @@
 .dangkytruyenhinhcap.com
 .dangkyvay-bank247.net
 .dangkyvaybidv.com
+.dangnhaphoso.com
 .danilidi.ru
 .danitemalus.life
 .dankestass.com
@@ -32845,6 +32855,7 @@
 .dapperdeal.pro
 .dapperdiscussion.com
 .dapperfloor.com
+.dapro.cloud
 .dapsotsares.com
 .daptault.com
 .daptem.com
@@ -35963,6 +35974,7 @@
 .dkjwbv.xyz
 .dklkxb.xyz
 .dkm6b5q0h53z4.cloudfront.net
+.dkmjxh.info
 .dkmnn.top
 .dkmvyl.kidsahoi.ch
 .dkno.netpartnering.com
@@ -36772,6 +36784,7 @@
 .dougou88.com
 .douhooke.net
 .doujs01.xyz
+.doujs02.xyz
 .doukekan.cn
 .doukoula.com
 .doumaibiji.cn
@@ -37682,6 +37695,7 @@
 .duxqonqkcaum.com
 .duxumpou.com
 .duyendangaodaivietnam2021.weebly.com
+.duyetdonlazada.com
 .duyihu.net
 .duyvtanrheje.xyz
 .duz64ud8y8urc.cloudfront.net
@@ -38756,6 +38770,7 @@
 .ecipientconcertain.info
 .ecircle-ag.com
 .ecirque.fr
+.ecishh.info
 .ecityonatallcol.info
 .eckosport.fr
 .eclatedpewy.com
@@ -38973,6 +38988,7 @@
 .edomz.com
 .edomz.net
 .edonorprog.biz
+.edoshbw.top
 .edoumeph.com
 .edoumoosseg.com
 .edoutoam.net
@@ -41028,6 +41044,7 @@
 .eraseficins.website
 .erate.co.il
 .eraudseen.xyz
+.eravesofefineg.info
 .eravprvvqqc.xyz
 .eraygc.xyz
 .erb.tremblant.ca
@@ -42708,6 +42725,7 @@
 .f7e5bf5ed8.com
 .f7e8aa0821.com
 .f7fe0.cyou
+.f816e81d.xyz
 .f8260adbf8558d6.com
 .f8272.com
 .f83d8a9867.com
@@ -43555,6 +43573,7 @@
 .feewuvoo.net
 .fefgvh.xyz
 .fefoasoa.xyz
+.fefqkn.org
 .fegortius.com
 .fegsbatak.uno
 .fehaishu.com
@@ -46716,6 +46735,7 @@
 .galpkthjpeoe.com
 .galsajoo.xyz
 .galumbor.com
+.galvanize26.fun
 .gam3ah.com
 .gamadsnews.com
 .gamadspro.com
@@ -48102,6 +48122,7 @@
 .giaodichquettindungpos247-online.com
 .giaodichquettindungvn-online.com
 .giaodichquocte-wumoney365.weebly.com
+.giaodichquoctes.com
 .giaodichtiente247ipay.weebly.com
 .giaodichvidientu.com.vn
 .giaothuongvietnhat.org
@@ -49520,6 +49541,7 @@
 .goge365-baidu.com
 .gogetlinks.net
 .goggle.com
+.gogglebox26.fun
 .gogglemessenger.com
 .gogglerespite.com
 .goghen.com
@@ -50237,6 +50259,7 @@
 .gridsumdissector.cn
 .gridsumdissector.com
 .griecemae.top
+.griefcube.cc
 .grievedclaimed.com
 .grievethereafter.com
 .griffintardant.guru
@@ -53322,6 +53345,7 @@
 .hongyangbg.com
 .hongze.info
 .honitonchyazic.com
+.honknl.xyz
 .honolulu.app.ur.gcion.com
 .honorablehall.com
 .honorablehalt.com
@@ -53455,6 +53479,7 @@
 .hosentombe.top
 .hoseve.com
 .hoseyy.prettylittlething.com
+.hosierygossans.com
 .hosieryplum.com
 .hosierypressed.com
 .hosieryweapons.com
@@ -56373,6 +56398,7 @@
 .imperturbableclothes.com
 .imperturbableresponsive.com
 .imperturbablesum.com
+.impetremondial.com
 .impishelizabethjumper.com
 .impit.tradedouble.com
 .implementedinstalled.com
@@ -58897,6 +58923,7 @@
 .ismatlab.com
 .ismlks.com
 .ismscoldnesfspl.info
+.ismuwcm.icu
 .isna.top
 .isnconcfiplu.xyz
 .isnd.top
@@ -65076,7 +65103,6 @@
 .lexemeowhere.digital
 .lexicoggeegaw.website
 .lexip.4pcdn.de
-.lexip.4players.de
 .lexity.com
 .lexozfldkklgvc.com
 .lexvek.gap.ae
@@ -65276,6 +65302,7 @@
 .libertycdn.com
 .libertystmedia.com
 .libfre.obs.cn-east-3.myhuaweicloud.com
+.libgetgrocers.top
 .libhzf.xyz
 .libihimu.com
 .librariandemocrattoss.com
@@ -67685,6 +67712,7 @@
 .lonfilliongin.com
 .long-space.com
 .long-thanh.com
+.long1x.xyz
 .long8590.com
 .long88.app
 .longchampstockholm.com.se
@@ -69494,6 +69522,7 @@
 .maimeehu.com
 .maimspeller.com
 .main-boost.com
+.main-card-vib.com
 .main-ti-cod.com
 .main.jiukang.org
 .main.vodonet.net
@@ -71695,6 +71724,7 @@
 .mbd.weathercn.com
 .mbdfidszzlo.com
 .mbdippex.com
+.mbdk99.com
 .mbdkb.com
 .mbdlog.iqiyi.com
 .mbekgac.xyz
@@ -71805,6 +71835,7 @@
 .mclick.simba.taobao.com
 .mcloudglobal.com
 .mclude.com
+.mcnodes.zapto.org
 .mcnt.jp
 .mconedh.cn
 .mcontigo.com
@@ -75286,6 +75317,7 @@
 .mlb.did.ijinshan.com
 .mlc.martela.se
 .mlclick.com
+.mldfckinkpyhwk.com
 .mldxqrntd.xyz
 .mldzwmt.xyz
 .mlefigaro.fr
@@ -76013,6 +76045,7 @@
 .moneyraid.com
 .moneysyst.biz
 .moneytatorone.com
+.moneytracking137.com
 .moneytrap.ru
 .moneyveo.vn
 .moneyvi.xyz
@@ -77805,6 +77838,7 @@
 .nanesbewail.com
 .nanfleshturtle.com
 .nang-cap-hang-vvip-vib.com
+.nang-cap-ocare-vib.com
 .nang-cap-online-vpbank.com
 .nang-cap-vip-vpbank.com
 .nang-han-muc-ido-vpbank.com
@@ -79318,6 +79352,7 @@
 .nicholassemicircledomesticated.com
 .nichools.com
 .nichtfaeroe.top
+.nicibelite.com
 .nickarini.com
 .nickeeha.net
 .nickeleavesdropping.com
@@ -79516,6 +79551,7 @@
 .njhuashidai.cn
 .njhvalu.cn
 .njih.net
+.njjavt.xyz
 .njjebgkvrniwmr.com
 .njjmp.com
 .njjrlf.com
@@ -81781,6 +81817,7 @@
 .ok365.com
 .ok8867s.com
 .ok9ydq.ru
+.okagcw.xyz
 .okaks.com
 .okanjo.com
 .okapiropp.top
@@ -82496,6 +82533,7 @@
 .onpsrrejx.com
 .onrbsceloko.com
 .onsafelink.com
+.onscormation.info
 .onscribedpastrong.info
 .onscroll.com
 .onseleauks.org
@@ -83938,6 +83976,7 @@
 .ozationsuchasric.org
 .ozayvgkqpymt.com
 .ozdpxc.com
+.ozdq.cn
 .ozectynptd.com
 .ozelmedikal.com
 .ozesrbglrp.com
@@ -84057,6 +84096,7 @@
 .p0w2r.cyou
 .p0y.cn
 .p1.18zhongyao.com
+.p1.360soucha.com
 .p1.chinakaoyan.com
 .p1.danskebank.co.uk
 .p1.danskebank.dk
@@ -84539,6 +84579,7 @@
 .pantrydivergegene.com
 .pantslayerboxoffice.com
 .pantsurplus.com
+.pantuz.xyz
 .panuelobriard.com
 .panwenjun.top
 .panyarspan.com
@@ -90667,6 +90708,7 @@
 .qbqzbzbzzzjjb.top
 .qbrrrlawwrvbv.top
 .qbse.intuit.com
+.qbsfnbdqinnay.com
 .qbsvafnpgfwpca.com
 .qbswezw.cn
 .qbtd.xyz
@@ -92477,6 +92519,7 @@
 .rcbsrm.fivefoxes.co.jp
 .rccnyh.airportrentalcars.com
 .rcdjkdesdn.com
+.rceqdysdjfhy.com
 .rcerrohatfad.com
 .rcesigojtwh.com
 .rcevcm.lyst.co.uk
@@ -92853,6 +92896,7 @@
 .recognisetorchfreeway.com
 .recoiltravellingbreach.com
 .recollectionchicken.com
+.recombssuu.com
 .recomendedsite.com
 .recommendation.24.com
 .recommendationfurnace.com
@@ -93783,6 +93827,7 @@
 .rerwe.cn
 .reryn2ce.com
 .reryn3ce.com
+.rerynjia.com
 .rerynjie.com
 .res-backup.com
 .res-ga.smzdm.com
@@ -94347,6 +94392,7 @@
 .rg-be.ru
 .rgauwvaznptsx.com
 .rgbnqmz.com
+.rgbppxtvieoytnoej.org
 .rgbvgxfcp.xyz
 .rgbvncnqzlvwr.com
 .rgcxmzrmcvbxem.com
@@ -96661,6 +96707,7 @@
 .saec-metrics.base.be
 .saec-metrics.telenet.be
 .saemmvhnn.xyz
+.saeo.cn
 .saf588.com
 .safarlysins.com
 .safe-click.net
@@ -97875,6 +97922,7 @@
 .scrooge.wnbc.com
 .scrookie.nl
 .scrtbhmtmplg.xyz
+.scru.cn
 .scrubheiress.com
 .scruboutdoorsoffensive.com
 .scrubswim.com
@@ -98046,6 +98094,7 @@
 .sdo8357.com
 .sdofp9c.cddrhx.cn
 .sdome.underarmour.co.jp
+.sdoshbb.top
 .sdpimt.lostgolfballs.com
 .sdprsvbnj.xyz
 .sdqoi2d.com
@@ -98746,6 +98795,7 @@
 .sendmepixel.com
 .sendmepush.com
 .sendmoney.americanexpress.co.uk
+.sendotv.com
 .sendovip.com
 .sendovn.com
 .sendsay.ru
@@ -99946,6 +99996,7 @@
 .shop-pharmaccie.fr
 .shop.admin.yinyuetai.com
 .shop.anu-cosme.com
+.shop.global-selling.top
 .shop.iwantclips.com
 .shop.lids.ca
 .shop.myaeon2go.com
@@ -106036,6 +106087,7 @@
 .sp0.baidu.com
 .sp1.baidu.com
 .sp15569p.com
+.sp1663p.com
 .sp2.baidu.com
 .sp3.baidu.com
 .sp3.cndm.com
@@ -112296,6 +112348,7 @@
 .talrahot.net
 .talsauve.com
 .talsindustrateb.info
+.talyrt.xyz
 .talysu.info
 .tamaraoolympic.life
 .tamechangekn.info
@@ -112984,6 +113037,7 @@
 .tdkd07.com
 .tdkd08.com
 .tdkkjueowqb.com
+.tdkt00.com
 .tdkt01.com
 .tdljuuw.xyz
 .tdlyfz.xyz
@@ -113842,6 +113896,7 @@
 .thangetsoam.com
 .thanhphomomo.com
 .thanhtoanlienquan.com
+.thanhtrapcrt.online
 .thaninncoos.com
 .thank-you.io
 .thankful-conference.pro
@@ -114265,6 +114320,7 @@
 .thisinhthanhlich.cf
 .thisinhthanhlich.com
 .thisinhthanhlich2022.com
+.thisinhthanhlich2024.com
 .thisiswaldo.com
 .thisisyourprize.site
 .thislaboratory.com
@@ -114792,6 +114848,7 @@
 .tinchap-techcombank.store
 .tinchaphd.com
 .tinchapluong-techcombank.xyz
+.tinchapshinhan.online
 .tinchapvcb-vn.com
 .tinchapvietcombank24h.com
 .tindung-online.com
@@ -115556,6 +115613,7 @@
 .tokyodrift.ga
 .tokyokumbuk.com
 .tokyoredcirce.com
+.tokyueiklbphqgupc.org
 .tolacdn.online
 .toldclassifiedhardware.com
 .toldyouso.lol
@@ -124214,6 +124272,7 @@
 .viaxmr.com
 .vib-bank.com
 .vib-mydiamon-khcn-uutien-vnc1.com
+.vib-nangcap.com
 .vib-tindung-khcn.com
 .vib-tindung.click
 .vib-tindung.online
@@ -125350,6 +125409,7 @@
 .vn88khuyenmai.site
 .vn88khuyenmai.space
 .vn88khuyenmai.store
+.vn999mall.vip
 .vnadssb.com
 .vnah567.com
 .vnambzuon36sc.vip
@@ -125710,6 +125770,7 @@
 .vpb-nanghanmuc.online
 .vpbank-vaytien.com
 .vpbank.appvest.vn
+.vpbank.chamsockhachhang-uudaithecanhan-tructuyen.online
 .vpbankvn.com
 .vpbban.com
 .vpbbank.com
@@ -125928,6 +125989,7 @@
 .vtipshop.today
 .vtizr.com
 .vtjfplukwxolkgw.xyz
+.vtlyrj.xyz
 .vtneexam.quantresear.ch
 .vtnmxx.xyz
 .vtochku.net
@@ -130891,6 +130953,7 @@
 .xfytjx.cn
 .xfywn.com
 .xfyxtg.buyautoparts.com
+.xfzbrfmffnpqd.com
 .xfzcds.netprint.ru
 .xfztgxt.com
 .xfzyun.com
@@ -131871,6 +131934,7 @@
 .xxwkjl.com
 .xxx-babes.org
 .xxx-hunt-er.xyz
+.xxx.sdtraff.com
 .xxxa.aikeapp.com
 .xxxadu.com
 .xxxbannerswap.com
@@ -132200,6 +132264,7 @@
 .ycctxwachqke.com
 .ycembr.net-a-porter.com
 .yceml.net
+.ycgfdf.cn
 .ycgkol.icu
 .ycgmnpp.icu
 .ycgy8888.com
@@ -133569,6 +133634,7 @@
 .yzgbsg.xyz
 .yzgid.cn
 .yzh360.com
+.yzihdppw.xyz
 .yziwoidi.icu
 .yzjihang.cn
 .yzjlsb.com
@@ -134426,6 +134492,7 @@
 .zkxggrwzswhpgn.com
 .zkzpgz.icu
 .zl588.com
+.zla653.top
 .zla963.top
 .zlacraft.com
 .zlauk.cn
