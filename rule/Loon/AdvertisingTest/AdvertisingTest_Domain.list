@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-06-27 02:09:32
+# UPDATED: 2024-06-28 02:09:18
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 12852
+# DOMAIN: 12853
 # DOMAIN-KEYWORD: 280
-# DOMAIN-SUFFIX: 155403
+# DOMAIN-SUFFIX: 155435
 # IP-CIDR: 469
 # IP-CIDR6: 1
 # URL-REGEX: 12
-# TOTAL: 169017
+# TOTAL: 169050
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -3247,6 +3247,7 @@
 .5wapp.com
 .5wegfw6.79j68qav2.com
 .5wuefo9haif3.com
+.5wzgtq8dpk.com
 .5x0f.cn
 .5xanz2dxcn.ru
 .5xd3jfwl9e8v.com
@@ -3387,6 +3388,7 @@
 .65fsgsv.com
 .65mjvw6i1z.com
 .65oml.cn
+.65spy7rgcu.com
 .65tgh.com
 .65vk1fba34.com
 .66-trk-srv.com
@@ -10525,6 +10527,7 @@
 .ads-api.stuff.co.nz
 .ads-api.tiktok.com
 .ads-api.twitter.com
+.ads-apitwitter.com
 .ads-au.onelouder.com
 .ads-b-480313385.us-west-1.elb.amazonaws.com
 .ads-backend.chaincliq.com
@@ -12113,6 +12116,7 @@
 .adtm.chip.de
 .adtng.com
 .adtoadd.com
+.adtodate.ir
 .adtol.com
 .adtoll.com
 .adtology.com
@@ -19457,6 +19461,7 @@
 .avinekernish.digital
 .avis-verifies.com
 .avismarketing.gr
+.avivid.likr.tw
 .avjbjbeeraebj.top
 .avjbjbeeramzv.top
 .avjockjpiduc.com
@@ -29820,6 +29825,7 @@
 .cl.inhaabit.com
 .cl.sexstories-all.com
 .cl.t3n.de
+.cl.turkishairlines.com
 .cl.xzqxzs.com
 .cl0udh0st1ng.com
 .cl247.me
@@ -31755,7 +31761,6 @@
 .collector-medium.lightstep.com
 .collector-px0py5pczn.octopart.com
 .collector-px8fcgygk4.px-cloud.net
-.collector-pxfqtaw5et.px-client.net
 .collector-pxrf8vapwa.px-cdn.net
 .collector-pxrf8vapwa.px-cloud.net
 .collector-pxrf8vapwa.pxchk.net
@@ -32262,6 +32267,7 @@
 .condescendingcertainly.com
 .conditionchange.com
 .conditioncrush.com
+.conditioneavesdroppingbarter.com
 .condles-temark.com
 .condodgy.com
 .condofeijoa.top
@@ -34143,6 +34149,7 @@
 .crakbanner.com
 .crakmedia.com
 .cralp.cn
+.crambidnonutilitybayadeer.com
 .crampcrossroadbaptize.com
 .crampformationparticularly.com
 .crampincompetent.com
@@ -46707,6 +46714,7 @@
 .eegnacou.com
 .eegookiz.com
 .eegroosoad.com
+.eehhabacgieacfjeaacg.world
 .eehimeer.xyz
 .eehuzaih.com
 .eei.lobbycafe.cn
@@ -46872,6 +46880,7 @@
 .efgh.5lu.com
 .efglbp.baur.de
 .efhabjaabgfbbegjacj.ru
+.efhis.cn
 .efilgvz.cn
 .efilli.com
 .efinauknceiwou.info
@@ -50629,6 +50638,7 @@
 .f4823894ba.com
 .f48d1c06e4.com
 .f4961f1b2e.com
+.f4c9a0fb.xyz
 .f4cebacks.com
 .f4nfg.site
 .f5.track-mv-01.com
@@ -55963,6 +55973,7 @@
 .geo.wpforms.com
 .geo.xcel.io
 .geo.yahoo.com
+.geo.yanoo.com
 .geo2.adobe.com
 .geoaddicted.net
 .geoads.com
@@ -57003,6 +57014,7 @@
 .gjuet.com
 .gjwluizt.com
 .gjwos.org
+.gjwxy.cn
 .gjxczx.xyz
 .gjzbcvatvn.com
 .gk.gkservices.com
@@ -57334,6 +57346,7 @@
 .gloutanacard.com
 .gloutchi.com
 .glouxaih.net
+.glouzokrache.com
 .glovemall.cn
 .gloveroadmap.com
 .glovesusage.com
@@ -61775,6 +61788,7 @@
 .hfpwcx.supermercadosmas.com
 .hfqdipw.cn
 .hfqjfnswctf.xyz
+.hfr67jhqrw8.com
 .hfresgtyytjncvvh.com
 .hfs.t1linux.com
 .hfsteel.net
@@ -69595,7 +69609,6 @@
 .ixxljgh.com
 .ixxoo.asia
 .iy.com.cn
-.iy.micastpyridic.com
 .iy20.com
 .iy8yhpmgrcpwkcvh.pro
 .iyaixmbpaqc.com
@@ -70765,6 +70778,7 @@
 .jiuswcpdwgpwetf.com
 .jiutiao20221212.xyz
 .jiutou20230210.live
+.jivinggrazers.com
 .jivox.com
 .jivskpprocrkv.com
 .jivvjl.xyz
@@ -76330,6 +76344,7 @@
 .lhpzz.love
 .lhrzel.enterprise.com.tr
 .lhtnuop.xyz
+.lhtzfn.xyz
 .lhusy.com
 .lhzbdvm.com
 .lhzulh.tribeamrapali.com
@@ -80235,6 +80250,7 @@
 .lvefyfj.cn
 .lvehaisen.com
 .lveodaz.icu
+.lvhcqaku.com
 .lvidqa.unisportstore.de
 .lvietcombank.com
 .lvip.youku.com
@@ -85499,6 +85515,7 @@
 .metrics-broker.prod.p.tf1.fr
 .metrics-cbslocal-com.cdn.ampproject.org
 .metrics-dra.dt.hicloud.com
+.metrics-fe-na1.hubspot.com
 .metrics-go.experian.com
 .metrics-ieeexplore.ieee.org
 .metrics-logger.spot.im
@@ -87360,6 +87377,7 @@
 .mibook-10006092.cos.myqcloud.com
 .miboundwhiffet.com
 .mibsooks.net
+.micastpyridic.com
 .micastskangli.com
 .micechillyorchard.com
 .micfu.cyou
@@ -101469,6 +101487,7 @@
 .pjbncv.ode.co.kr
 .pjcdjtn.cn
 .pjcn.org
+.pjdthz.xyz
 .pjewriw.top
 .pjgaez.autouncle.at
 .pjh7.us.chantelle.com
@@ -103230,6 +103249,7 @@
 .prebidwrapper.com
 .precariousgrumpy.com
 .precedechampion.com
+.precedelaxative.com
 .precedenowadaysbarbecue.com
 .precedentadministrator.com
 .precedentbasepicky.com
@@ -104507,6 +104527,7 @@
 .psojeeng.com
 .psomtenga.net
 .psonstrentie.info
+.psoofaltoo.com
 .psoogaix.net
 .psoolikoagy.com
 .psoompou.xyz
@@ -110822,6 +110843,7 @@
 .rollmeout.xyz
 .rollobscurewoke.com
 .rollserver.xyz
+.rolpenszimocca.com
 .rolsoupouh.xyz
 .rolzox.com
 .rolzqwm.com
@@ -113087,6 +113109,7 @@
 .salesviewer.com
 .salesviewer.org
 .saletrybest.su
+.salicylurdee.com
 .salivamenupremise.com
 .salivanmobster.com
 .salivasboucle.top
@@ -114289,6 +114312,7 @@
 .sdkconf.avlyun.com
 .sdkconf.msstatic.com
 .sdkconfig.ad.india.xiaomi.com
+.sdkconfig.ad.int.xiaomi.com
 .sdkconfig.video.qq.com
 .sdkdm.com
 .sdkfjxjertertry.com
@@ -118069,6 +118093,7 @@
 .slizindy.top
 .sljkj.com
 .sljvpjtavn.com
+.slk594.com
 .slkdfg.com
 .slkdnlkfnskl.com
 .slkkbnsgn.com
@@ -127312,6 +127337,7 @@
 .sts.tour-europe.org
 .stscs.ditzo.nl
 .stserver.immomo.com
+.stsesc.xyz
 .stsoclk.sumatratonicshop.online
 .stswen.fr
 .stsywl.com
@@ -128935,6 +128961,7 @@
 .szddst.com
 .szdgl.cn
 .szdpk.cn
+.szdtf.cn
 .szdxw.cn
 .szdzbx.com
 .szdzn.cn
@@ -130709,6 +130736,7 @@
 .tba.smrtp.link
 .tbaffiliate.com
 .tbaia.com
+.tbao684tryo.com
 .tbaocdn.com
 .tbaqje.zadig-et-voltaire.com
 .tbazhaheii.top
@@ -132440,6 +132468,7 @@
 .thruport.com
 .thruss.com
 .thrustlumpypulse.com
+.thruudrad.com
 .thsdbj.com
 .thseaeing.fun
 .thshopee.com
@@ -139168,6 +139197,7 @@
 .tyhwheveeshngi.xyz
 .tyifdiff.xyz
 .tyingentered.com
+.tyisloi.top
 .tyjryuk.cn
 .tykor.net
 .tylcpcikj.com
@@ -139632,6 +139662,7 @@
 .udonjl.coopdeli.jp
 .udookrou.com
 .udorik.com
+.udoshbt.top
 .udpauawx.xyz
 .udpdmeb.cn
 .udpolimenew.baidu.com
@@ -152387,7 +152418,6 @@
 .yfznypugeuunng.com
 .yfzpxnb.xyz
 .yg.coehornjobbet.com
-.yg.jivinggrazers.com
 .yg10x.cn
 .yg592gpmrh0q.com
 .ygamey.com
@@ -153361,6 +153391,7 @@
 .ytmaksim.cn
 .ytndjaefvan.xyz
 .ytnkdhmtdubhk.com
+.ytoeyxz.icu
 .ytouvy.arezzo.com.br
 .ytoworkwi.org
 .ytpae.xyz
@@ -155504,6 +155535,7 @@
 .zzsqqx.shopjapan.co.jp
 .zzsssy.com
 .zzsx8.com
+.zztsxepxumxoyw.com
 .zzwflxs.com
 .zzwzsic.cn
 .zzxedr.xyz
@@ -155682,6 +155714,7 @@
 165a7c15380874ef3.com
 1665637157.rsc.cdn77.org
 167.206.10.148
+167.71.252.38
 167.99.31.227
 168logger.com
 1692923857.rsc.cdn77.org
