@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-05 02:09:43
+# UPDATED: 2024-07-06 02:09:51
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 12850
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 156447
+# DOMAIN-SUFFIX: 156474
 # IP-CIDR: 468
 # URL-REGEX: 12
-# TOTAL: 170040
+# TOTAL: 170067
 .0.101tubeporn.com
 .0.code.cotsta.ru
 .0.cosmicnewspulse.com
@@ -1455,6 +1455,7 @@
 .2023sb.net
 .2024.79j68qav2.com
 .2024114t.shop
+.2024jphatomenesys36.top
 .202m.com
 .2030e7a4e6.73e5c52d49.com
 .2036369798.com
@@ -4666,6 +4667,7 @@
 .97bike.com
 .97d73lsi.com
 .97e4ef7bf5.com
+.97ii.cn
 .97kuaixiu.com
 .97paa.com
 .9800.com
@@ -5168,7 +5170,6 @@
 .a.prigo.xyz
 .a.prisacom.com
 .a.publicmobile.ca
-.a.q88z1s3.com
 .a.qiao024.com
 .a.qinghua5.com
 .a.qncye.net
@@ -5221,7 +5222,6 @@
 .a.teencfnm.com
 .a.tellonym.me
 .a.telus.com
-.a.testda.homes
 .a.tf4srv.com
 .a.thefreethoughtproject.com
 .a.thelocal.com
@@ -16060,6 +16060,7 @@
 .apavskmykcm.xyz
 .apbbtddsamgit.com
 .apbieqqb.xyz
+.apcatcltoph.com
 .apcdp.apnews.com
 .apcilnf.cn
 .apcinfo.motorolasolutions.com
@@ -20748,6 +20749,8 @@
 .baijav.com
 .baijs02.xyz
 .baijs03.xyz
+.baijs05.xyz
+.baijs06.xyz
 .baikalize.com
 .baike.biz
 .baikogru.net
@@ -28141,7 +28144,6 @@
 .cdn.0i-i0.com
 .cdn.1vag.com
 .cdn.2024jphatomenesys35.top
-.cdn.2024jphatomenesys36.top
 .cdn.234doo.com
 .cdn.5bong.com
 .cdn.810236.com
@@ -29782,6 +29784,7 @@
 .cimm.top
 .cimoghuk.net
 .cinarra.com
+.cincherdatable.com
 .cincinnati-content.cresa.com
 .cindy17club.com
 .cinediagonal.fr
@@ -31862,6 +31865,7 @@
 .coldflownews.com
 .coldhardcash.com
 .coldnesfspubli.com
+.coldnessswarthyclinic.com
 .coldpacific.com
 .coldvain.com
 .colemalist.top
@@ -34463,6 +34467,7 @@
 .creative.stripchat.global
 .creative.strpjmp.com
 .creative.thefaplive.com
+.creative.tklivechat.com
 .creative.usasexcams.com
 .creative.ytboob.live
 .creativeassets.asosservices.com
@@ -43646,6 +43651,7 @@
 .dmmgjsymlrfp.com
 .dmmzkfd82wayn.cloudfront.net
 .dmnprx.com
+.dmnxkj.cn
 .dmoldsusvkpa.xyz
 .dmopqjaswvmvopm.com
 .dmouy.cn
@@ -44271,6 +44277,8 @@
 .doujs01.xyz
 .doujs02.xyz
 .doujs03.xyz
+.doujs05.xyz
+.doujs06.xyz
 .doukekan.cn
 .doukoula.com
 .doumaibiji.cn
@@ -45589,6 +45597,7 @@
 .dzhss.cn
 .dzienkudrow.com
 .dzigzdbqkc.com
+.dzijggsdx.com
 .dzisou.com
 .dzizsih.ru
 .dzjhok.teufelaudio.at
@@ -46892,6 +46901,7 @@
 .edtotigainare.info
 .edtp.de
 .edttfiou.com
+.edttmar.com
 .edu-lib.com
 .edu.jiukang.org
 .edu.quizdom.gr
@@ -51814,6 +51824,7 @@
 .fe.lea.lycos.co.uk
 .fe.lea.lycos.es
 .fe.lwcvn.com
+.fe30a5b4.xyz
 .fe4r7k22y68p.info
 .fe7qygqi2p2h.com
 .fe95a992e6afb.com
@@ -59987,6 +59998,7 @@
 .grussreenter.com
 .gruvirxita.com
 .gruwalom.xyz
+.gruwrebutnar.com
 .grv.media
 .grvmedia.com
 .grwp3.com
@@ -60459,6 +60471,7 @@
 .gw1jvhs.com
 .gw225.net.jumia.com.gh
 .gw2cddpt2hao.asia
+.gw2cddpt2hao.cloud
 .gw630.com
 .gwaaz.cn
 .gwallet.com
@@ -68725,6 +68738,7 @@
 .insuf.cn
 .insultingnoisysubjects.com
 .insultoccupyamazed.com
+.insultresignation.com
 .insumber.com
 .insurads.com
 .insuranc.club
@@ -72756,6 +72770,7 @@
 .jyhwt.cn
 .jyhxhsdgxbvcnj.com
 .jyigozm.cn
+.jyisloa.top
 .jyjhjopmq.com
 .jyjhkz.com
 .jyjmpatmgk.com
@@ -76785,6 +76800,7 @@
 .lflcbcb.com
 .lflili.com
 .lflucky.com
+.lfmetrics.loyalfans.com
 .lfmfkklhgqsk.com
 .lfmhcb.sefamerve.com
 .lfn.lfg.com
@@ -82175,6 +82191,7 @@
 .maijauta.xyz
 .maikashu.net
 .mail-ads.google.com
+.mail-count.matsui.co.jp
 .mail-en-marche.fr
 .mail-spinner.com
 .mail.academyforconsciousleadership.net
@@ -84848,6 +84865,7 @@
 .mcoreads.com
 .mcount.easebar.com
 .mcount.ru
+.mcovipqaxq.com
 .mcpdqfnvluhpwt.com
 .mcppqgaqci.com
 .mcppsh.com
@@ -93046,6 +93064,7 @@
 .newweb.top
 .newwedads.com
 .newwiesdom.com.cn
+.newwinner.life
 .newworld-news.com
 .newxry.com
 .newy.hifiliving.com
@@ -97660,6 +97679,7 @@
 .ortho-tri-cyclen.1.p2l.info
 .orthronsmatter.com
 .ortkrq.damyller.com.br
+.ortlisk.top
 .ortontotlejohn.com
 .orts.wixawin.com
 .ortwywr.cn
@@ -106471,6 +106491,7 @@
 .q777.sfchronicle.com
 .q7tl.icu
 .q88j2.top
+.q88z1s3.com
 .q8ntfhfngm.com
 .q99i1qi6.de
 .q9y39.cn
@@ -108054,6 +108075,7 @@
 .qzynbzjrkarma.top
 .qzzljx.com
 .qzzswl.com
+.qzzzzzzzzzqq.com
 .r-ad.linkshare.jp
 .r-ad.ne.jp
 .r-dev.urbansitter.net
@@ -113147,7 +113169,6 @@
 .s.pornox.site
 .s.pornworld.pro
 .s.ppjol.net
-.s.q88z1s3.com
 .s.qd.qingting.fm
 .s.qd.qingtingfm.com
 .s.qiangger.pw
@@ -124740,6 +124761,7 @@
 .srvng.xyz
 .srvpcn.com
 .srvpub.com
+.srvr.dmvs-apac.com
 .srvtrck.com
 .srvtrkxx1.com
 .srvtrkxx2.com
@@ -132485,6 +132507,7 @@
 .testcddc.atclouddev.net
 .testcentre.vn
 .testcommon.soundrussian.com
+.testda.homes
 .testedtouch.com
 .testensie.de
 .testfilter.com
@@ -142106,6 +142129,7 @@
 .urstats.de
 .urthdtcg.com
 .urtirepor.com
+.urtlist.top
 .urtracker.q-sis.de
 .urtyert.com
 .urueuah.cn
@@ -145748,6 +145772,7 @@
 .vsmokhklbw.com
 .vsnoon.com
 .vsnpfmoxb.xyz
+.vsqovxf.icu
 .vsqyaz.sweetwater.com
 .vssid.cc
 .vssid.govvvn.com
@@ -152623,6 +152648,7 @@
 .xuyanlong1.cn
 .xuymgm.hostgator.mx
 .xuzeez.com
+.xuzsdn.xyz
 .xvaeqgtbnunpkff.com
 .xvantage.ingrammicro.com
 .xvbcjh.xyz
@@ -156350,6 +156376,7 @@
 .zwjezmzbyerkj.top
 .zwkssb.com
 .zwlikv.cn
+.zwlxnj.xyz
 .zwmvyzyrlvava.top
 .zwnhufcwhaw.com
 .zwnoeqzsuz.com
