@@ -21,18 +21,18 @@
 
 ## 规则统计
 
-最后更新时间：2024-07-06 02:12:29
+最后更新时间：2024-07-09 02:12:15
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 449  | 
+| DOMAIN | 450  | 
 | DOMAIN-KEYWORD | 13  | 
-| DOMAIN-SUFFIX | 82822  | 
+| DOMAIN-SUFFIX | 82830  | 
 | IP-ASN | 1  | 
-| IP-CIDR | 12426  | 
+| IP-CIDR | 12427  | 
 | USER-AGENT | 65  | 
-| TOTAL | 95776  | 
+| TOTAL | 95786  | 
 
 
 ## Shadowrocket 
@@ -444,8 +444,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/BesTV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/CETV.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/SMG.list
-- https://ruleset.isagood.day/alibaba.conf
-- https://ruleset.isagood.day/sina.conf
 - https://raw.githubusercontent.com/missuo/ASN-China/main/IP.China.list
 
 

@@ -1,15 +1,15 @@
 name: AllInOne
-desc: 最后更新时间 2024-07-05 02:14:12
+desc: 最后更新时间 2024-07-09 02:14:12
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # domain: 5
 # http-request-script: 1
 # http-response-script: 25
 # redirect: 8
-# reject: 667
-# mitm: 702
+# reject: 669
+# mitm: 704
 # force-http-engine-hosts: 6
-# total: 1414
+# total: 1418
 
 
 
@@ -131,6 +131,7 @@ http:
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+    - ^https?:\/\/(commontgw|comapi)\.reader\.qq\.com\/(common\/adV|com-ad\/config) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/.+\d{4}-\d{4}\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/imgextra\/\w{2}\/[\w!]+-\d-tps-\d{3,4}-\d{4}\.jpg_(1\d{3}|9\d{2})x(1\d{3}|9\d{2})q90\.jpg_\.(heic|webp)$ - reject
@@ -356,6 +357,7 @@ http:
     - ^https?:\/\/clientaccess\.10086\.cn\/biz-orange\/DN\/init\/startInit - reject
     - ^https?:\/\/cloud\.189\.cn\/include\/splash\/ - reject
     - ^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/ - reject
+    - ^https?:\/\/cmt\.comp\.360os\.com\/adv - reject
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn\/ - reject
     - ^https?:\/\/comicapi\.manhuashe\.com\/v\d\/(ads\/adstrategys|public\/startupactivity) - reject
     - ^https?:\/\/compus\.xiaofubao\.com\/compus\/advertising - reject
@@ -915,6 +917,7 @@ http:
     - "*.ott.cibntv.net"
     - "*.peopleapp.com"
     - "*.qyfxgd.cn"
+    - "*.reader.qq.com"
     - "*.smkj33.top"
     - "*.tipatipa.xyz"
     - "*.tslt.xyz"
@@ -1157,6 +1160,7 @@ http:
     - "cloud.189.cn"
     - "cmsapi.dmall.com"
     - "cmsapi.wifi8.com"
+    - "cmt.comp.360os.com"
     - "cn-acs.m.cainiao.com"
     - "cn.ultraiso.net"
     - "coco-com.e.verystar.net"

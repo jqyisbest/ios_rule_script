@@ -1,11 +1,11 @@
 name: 复写去广告(严格版)
-desc: 最后更新时间 2024-07-05 02:14:29
+desc: 最后更新时间 2024-07-09 02:14:29
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
-# reject: 1093
-# mitm: 806
+# reject: 1097
+# mitm: 810
 # force-http-engine-hosts: 6
-# total: 1905
+# total: 1913
 
 
 
@@ -40,6 +40,7 @@ http:
     - ^https:\/\/api\.ulife\.group\/market\/frontEntrance\/getThirdAdvertising\?displayPort=1&type=15 - reject
     - ^https:\/\/api\.ulife\.group\/market\/memberCard\/listMemberCard\?isShowSecondaryCard=1 - reject
     - ^https:\/\/api\.ulife\.group\/signintask\/adServing - reject
+    - ^https:\/\/appapi\.caiyicloud\.com\/cyy_gatewayapi\/home\/pub\/v3\/banners\/app_start_page - reject
     - ^https:\/\/ccmsupport-sz\.tenpay\.com\/cgi-bin\/common\/ccm_page_element.cgi - reject
     - ^https:\/\/cdke\.youdao\.com\/course3\/recommend\/dict\/startup - reject
     - ^https:\/\/chat-live\.soulapp\.cn\/live\/planet\/recListV2 - reject
@@ -96,6 +97,7 @@ http:
     - ^https?:\/\/(api|api-bk\d+)\.tv\.sohu\.com\/agg\/api\/app\/config\/bootstrap - reject
     - ^https?:\/\/(api|b)\.zhuishushenqi\.com\/advert - reject
     - ^https?:\/\/(bdsp-x|dsp-x)\.jd\.com\/adx\/ - reject
+    - ^https?:\/\/(commontgw|comapi)\.reader\.qq\.com\/(common\/adV|com-ad\/config) - reject
     - ^https?:\/\/(ec|c)api\.lkcoffee\.com\/resource\/m\/eorder\/product\/popAppTagProductList - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/.+\.jpg_(9\d{2}|\d{4}) - reject
     - ^https?:\/\/(gw|heic)\.alicdn\.com\/\w{2}s\/[\w\/.-]+\.jpg_(9\d{2}|\d{4}) - reject
@@ -458,6 +460,7 @@ http:
     - ^https?:\/\/cms\.daydaycook\.com\.cn\/api\/cms\/advertisement\/ - reject
     - ^https?:\/\/cmsapi\.wifi8\.com\/v\d\/(emptyAd|adNew)\/ - reject
     - ^https?:\/\/cmsfile\.wifi8\.com\/uploads\/png\/ - reject
+    - ^https?:\/\/cmt\.comp\.360os\.com\/adv - reject
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.adkeyword\.get\.cn - reject
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.cncommunity\.my\.station\.query\.cn - reject
     - ^https?:\/\/cn-acs\.m\.cainiao\.com\/gw\/mtop\.cainiao\.guoguo\.nbnetflow\.ads\.(show|mshow)\.cn\/ - reject
@@ -972,6 +975,7 @@ http:
     - ^https?:\/\/staticlive\.douyucdn\.cn\/.+?\/getStartSend - reject
     - ^https?:\/\/staticlive\.douyucdn\.cn\/upload\/signs\/ - reject
     - ^https?:\/\/staticsns\.cdn\.bcebos\.com\/amis\/.+/banner.png - reject
+    - ^https?:\/\/statistic\.live\.126\.net\/statics\/report\/common\/form - reject
     - ^https?:\/\/status\.boohee\.com\/api\/v\d\/app_square\/start_up_with_ad - reject
     - ^https?:\/\/superapp\.xgimi\.com\/api/v1\/app\/ad\/configs\?_sort=createdAt:Adesc - reject
     - ^https?:\/\/support\.you\.163\.com\/appversync\/check.do - reject
@@ -1119,6 +1123,7 @@ http:
   mitm:
     - "*.beacon.qq.com"
     - "*.ott.cibntv.net"
+    - "*.reader.qq.com"
     - "*.tv.sohu.com"
     - "3g.csair.com"
     - "3gimg.qq.com"
@@ -1322,6 +1327,7 @@ http:
     - "app3.qdaily.com"
     - "appactive.1234567.com.cn"
     - "appapi.51job.com"
+    - "appapi.caiyicloud.com"
     - "appapi.huazhu.com"
     - "appconf.mail.163.com"
     - "appdmkj.5idream.net"
@@ -1402,6 +1408,7 @@ http:
     - "cms.daydaycook.com.cn"
     - "cmsapi.wifi8.com"
     - "cmsfile.wifi8.com"
+    - "cmt.comp.360os.com"
     - "cn-acs.m.cainiao.com"
     - "comicapi.manhuashe.com"
     - "compus.xiaofubao.com"
@@ -1816,6 +1823,7 @@ http:
     - "static01.versa-ai.com"
     - "staticlive.douyucdn.cn"
     - "staticsns.cdn.bcebos.com"
+    - "statistic.live.126.net"
     - "status.boohee.com"
     - "superapp.xgimi.com"
     - "support.you.163.com"
