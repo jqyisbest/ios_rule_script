@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-07-13 02:09:38
+# UPDATED: 2024-07-15 02:14:54
 # DOMAIN: 12848
 # DOMAIN-KEYWORD: 263
-# DOMAIN-SUFFIX: 157978
+# DOMAIN-SUFFIX: 158069
 # IP-CIDR: 467
 # IP-CIDR6: 1
-# TOTAL: 171557
+# TOTAL: 171648
 167.71.252.38
 213.8.137.51
 10.10.34.34
@@ -666,6 +666,7 @@ gtssl-aia.geotrust.com
 guangyukeji.com
 guanjia.qq.com
 guowaidiaocha.com
+gvod.aiseejapp.atianqi.com
 h1.xysibu.cn
 h163e.com
 h5.7vyou.com
@@ -10316,6 +10317,7 @@ tapffdskgjr.com
 targetctracker.com
 targeterra.info
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tattomedia.com
@@ -12819,7 +12821,6 @@ f4.market.xiaomi.com
 f5.market.mi-img.com
 f5.market.xiaomi.com
 g.dtv.cn.miaozhan.com
-gvod.aiseejapp.atianqi.com
 market.xiaomi.com
 milink.pandora.xiaomi.com
 ota.cdn.pandora.xiaomi.com
@@ -12829,7 +12830,6 @@ pandora.mi.com
 redirect.pandora.xiaomi.com
 rps.hpplay.cn
 staging.ai.api.xiaomi.com
-tat.pandora.xiaomi.com
 tv.weixin.pandora.xiaomi.com
 tvmanager.pandora.xiaomi.com
 tvmgr.pandora.xiaomi.com
@@ -12856,7 +12856,7 @@ webcast-open.douyin.com
 44.228.85.26
 45.32.105.134
 77.162.125.199
-.57573zubo36833.com
+.1c52e1e2.live
 .adfstat.yandex.ru
 .ads.youtube.com
 .amc.yandex.ru
@@ -12864,6 +12864,7 @@ webcast-open.douyin.com
 .api.sec.miui.com
 .app.chat.xiaomi.net
 .app.ssp.yahoo.com
+.app2up.info
 .appboy-images.com
 .apple-vn.shop
 .apple.analnoe24.com
@@ -12872,71 +12873,102 @@ webcast-open.douyin.com
 .applecare-icloud.com
 .appleservenumeric.com
 .applesometimes.com
-.artlikeratan.click
+.aunsaick.com
+.aurasport.net
+.awldcupu.com
 .awsync.yandex.ru
+.b3b526dee6.com
+.baohiemxahoi.vnagov.com
 .barbecueappledos.pw
 .beacon.search.yahoo.com
 .beap-bc.yahoo.com
-.beardyapii.com
 .blueduckredapple.com
 .c2shb.pubgw.yahoo.com
 .cappleacouchy.com
+.chamsockhachhang-uudai-the-truc-tuyen.online
+.chinhphu.cc
+.clankexpelledidentification.com
 .conceitedfedapple.com
 .dmg-dd.oss-accelerate.aliyuncs.com
-.dmnqfn.xyz
 .email-apple.support
-.equipmentapes.com
+.familiarpyromaniasloping.com
 .fmiphone-apple.com
 .fpb1.apple886.com
-.fpninv.xyz
-.frontendcodingtips.com
+.fttervlvoj.com
+.giaodichdaquocgia.us
+.giiao.hangtietkiem.com
+.gkypgw.xyz
+.gldrdr.com
+.gqfuf.com
+.groceryshootworld.com
+.hmxg5mhyx.com
 .https-apple.com
 .ib.snssdk.com
 .idapple.com
-.imgoss2255.top
-.izcqyy.xyz
+.ifulasaweatherc.info
+.intervention304.fun
 .jpaasne.e.shifen.com
 .juniorapplesconsonant.com
-.lmj8i.pro
+.krkstrk.com
+.kwiqcoh.icu
+.lajevt.xyz
+.lapdatinternet.net
 .log.strm.yandex.ru
 .login-applecare.com
-.marchesbragged.com
+.lyearsfoundhertob.com
+.lyislol.top
 .marketingsolutions.yahoo.com
 .mediaappletree.com
 .metrics.apple.com
+.mojgov.weebly.com
+.namjzoa.xyz
+.nang-hang-the-vip2-vib.com
+.neighborhood268.fun
 .noa.yahoo.com
-.paradizeconstruction.com
+.ogwkwcgmnarq.com
+.organiccopiedtranquilizer.com
+.paluinho.cloud
+.phetsaikrugi.com
 .pineappleconsideringpreference.com
 .pr.comet.yahoo.com
-.pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
+.psergete.com
+.quandoi-viettel.com
 .redpineapplemedia.com
-.rushoothulso.xyz
-.scoev.cn
+.renewpacificdistrict.com
+.rmshqa.com
+.sclimbwidower.top
 .securemvt.apple.com
 .settlepineapple.com
 .shackapple.com
 .share-apple.com
-.soupoleums.com
-.srtlisb.top
+.shopeesop.com
+.shrimpgenerator.com
+.sirec.in
 .stapplebecaps.top
 .stats.video.search.yahoo.com
 .sub.powerapple.com
-.swailcoigns.com
-.tdipsumi.top
+.successcuff.com
+.tcvnhomefic.com
+.tdkt07.com
+.tgrpzl.xyz
 .theapple.site
-.tupian88888.com
+.tikijaj2.com
+.tikt88.com
 .typicalappleashy.com
 .uaas.yandex.ru
-.vg876yuj.click
+.uudaikhachhang-tructuyen.com.vn
+.vgiao.hangtietkiem.com
+.vib-gold-card.shop
 .view-apple.com
 .visit.webhosting.yahoo.com
 .vn-apple.com
+.vnc69977s.com
+.vnc75635s.com
 .webc2s.pubgw.yahoo.com
 .wondefulapplend.com
 .wzjs1.oss-accelerate.aliyuncs.com
+.xxxvijmp.com
 .yajnagrapple.top
-.ykcsldm.icu
-.ytru4.pro
 .0.code.cotsta.ru
 .0001.best
 .0008d6ba2e.com
@@ -13029,6 +13061,7 @@ webcast-open.douyin.com
 .0757kd.cn
 .0760571ca9.com
 .07634.com
+.076f66b2.live
 .0776.red
 .07780778.com
 .0792gdst.com
@@ -14598,6 +14631,7 @@ webcast-open.douyin.com
 .5721b6baf3.com
 .5726303d87522d05.com
 .57558.com
+.57573zubo36833.com
 .576de58030.com
 .577682.com
 .5778d0b296.com
@@ -15486,6 +15520,7 @@ webcast-open.douyin.com
 .9af022123c.com
 .9akjsbjkdasd99.monster
 .9ba159e355.com
+.9bbbabcb26.com
 .9bbd72928f.com
 .9bc639da.xyz
 .9bc94f7305.com
@@ -18515,7 +18550,6 @@ webcast-open.douyin.com
 .ads.poconorecord.com
 .ads.pof.com
 .ads.powweb.com
-.ads.ppvmedien.de
 .ads.premiumnetwork.net
 .ads.pressdemo.com
 .ads.pricescan.com
@@ -19905,6 +19939,7 @@ webcast-open.douyin.com
 .affirmbereave.com
 .affistats.com
 .affiz.net
+.affjamohw.com
 .afflat3a1.com
 .afflat3d2.com
 .afflat3e1.com
@@ -22454,6 +22489,7 @@ webcast-open.douyin.com
 .artistspipe.top
 .artlessdeprivationunfriendly.com
 .artlessdevote.com
+.artlikeratan.click
 .artoas301endore.com
 .artonsbewasand.com
 .artoukfarepu.org
@@ -22528,6 +22564,7 @@ webcast-open.douyin.com
 .asdffe22.com
 .asdfg23.com
 .asdhit.com
+.asdji2.cn
 .asdpoi.com
 .asdqslnqmwwkc.com
 .asdqweq.com
@@ -24838,6 +24875,7 @@ webcast-open.douyin.com
 .bearagriculture.com
 .bearbanepant.com
 .beardinrather.com
+.beardyapii.com
 .bearerdarkfiscal.com
 .bearingpreoccupationadmonish.com
 .bearpawclouty.com
@@ -25051,6 +25089,7 @@ webcast-open.douyin.com
 .beknittykhana.life
 .belambre.fr
 .belamicash.com
+.belatedsafety.pro
 .belavoplay.com
 .belaya2shu1ba1.com
 .belazyelephant.com
@@ -25777,6 +25816,7 @@ webcast-open.douyin.com
 .bilezdq.cn
 .bilgebotchy.com
 .bilgerak.com
+.bilibilitool.site
 .bilicaxers.com
 .bilingualfestive.com
 .bilingualwalking.com
@@ -35644,6 +35684,7 @@ webcast-open.douyin.com
 .demand.supply
 .demandbase.com
 .demandedhalfmoon.com
+.demanding-application.pro
 .demandmedia.s3.amazonaws.com
 .demandzoo.com
 .demanier.com
@@ -35921,6 +35962,7 @@ webcast-open.douyin.com
 .deterrentpainscodliver.com
 .detestgaspdowny.com
 .detinetcallant.com
+.detmir-stats.ru
 .detour.click
 .detox-kit.com
 .detox.shengen.ru
@@ -37020,6 +37062,7 @@ webcast-open.douyin.com
 .dmmgjsymlrfp.com
 .dmmzkfd82wayn.cloudfront.net
 .dmnprx.com
+.dmnqfn.xyz
 .dmnxkj.cn
 .dmoldsusvkpa.xyz
 .dmopqjaswvmvopm.com
@@ -37572,6 +37615,7 @@ webcast-open.douyin.com
 .dpseympatijgpaw.com
 .dpsq2uzakdgqz.cloudfront.net
 .dpstack.com
+.dptwwmktgta.com
 .dpu.samsungelectronics.com
 .dpuz3hexyabm1.cloudfront.net
 .dpxynh.xyz
@@ -40140,6 +40184,7 @@ webcast-open.douyin.com
 .equatorroom.com
 .equesk.com
 .equilibriumindifferentsoak.com
+.equipmentapes.com
 .equiptbrotula.com
 .equiptmullein.top
 .equirekeither.xyz
@@ -40266,6 +40311,7 @@ webcast-open.douyin.com
 .ertgbme.com
 .erthmefeyauk.xyz
 .ertistsldahehu.com
+.ertlisw.top
 .ertopcu.com
 .erty0yx.com
 .ertya.com
@@ -40686,7 +40732,6 @@ webcast-open.douyin.com
 .events.ifunny.co
 .events.launchdarkly.com
 .events.lbesecapi.com
-.events.mapbox.com
 .events.mz.unity3d.com
 .events.niit-mts.com
 .events.popinfo.jp
@@ -43530,6 +43575,7 @@ webcast-open.douyin.com
 .fpjs.io
 .fpmef.com
 .fpmleqdb.com
+.fpninv.xyz
 .fpnpmcdn.net
 .fprnt.com
 .fptbdr.xyz
@@ -43920,6 +43966,7 @@ webcast-open.douyin.com
 .fromru.su
 .frondewame.com
 .frontcognizance.com
+.frontendcodingtips.com
 .fronthlpr.com
 .fronthlpric.com
 .frontier.musical.ly
@@ -49491,6 +49538,7 @@ webcast-open.douyin.com
 .housesfurniture.com
 .housewifecheeky.com
 .housewifehaunted.com
+.housewifereceiving.com
 .houstion.com
 .houthaub.xyz
 .houtouchekan.space
@@ -50900,7 +50948,6 @@ webcast-open.douyin.com
 .imarker.com
 .imarker.ru
 .imarkets.co.il
-.imarketservices.com
 .imassg.xyz
 .imathematica.org
 .imatrk.net
@@ -50948,6 +50995,7 @@ webcast-open.douyin.com
 .imgn.dt07.com
 .imgnewad.ytn.co.kr
 .imgopen.vip
+.imgoss2255.top
 .imgoss511.top
 .imgot.info
 .imgot.site
@@ -52787,6 +52835,7 @@ webcast-open.douyin.com
 .izatcloud.net
 .izavugne.com
 .izbmbmt.com
+.izcqyy.xyz
 .izdagda.ru
 .izdatra.ru
 .izea.com
@@ -55665,6 +55714,7 @@ webcast-open.douyin.com
 .kphcrjth.xyz
 .kphnncpx.xyz
 .kpiwgio.cn
+.kpjuilkzfi.com
 .kpkgkkbs.xyz
 .kplusd.far.ru
 .kpmose.xyz
@@ -56259,6 +56309,7 @@ webcast-open.douyin.com
 .laluvygy.com
 .lama-ole-nydahl.fr
 .lambangcap3giare.net
+.lambda-url.us-east-1.on.aws
 .lambdafoobar.de
 .lambedbarbal.website
 .lamberslucina.website
@@ -57975,7 +58026,6 @@ webcast-open.douyin.com
 .llzd2.com
 .lm1.wkpcw.cn
 .lm661.com
-.lma.npaw.com
 .lmadps.jp
 .lmaghokalqji.xyz
 .lmalyjywqlolv.top
@@ -57989,6 +58039,7 @@ webcast-open.douyin.com
 .lmfehr.xyz
 .lmht-membership.com
 .lmiutil.com
+.lmj8i.pro
 .lmjwqbjmkrzyw.top
 .lmknjb1.com
 .lmlmvip.com
@@ -59142,6 +59193,7 @@ webcast-open.douyin.com
 .lwmzoaf.cn
 .lwojitro.top
 .lwonclbench.com
+.lwprdv.xyz
 .lwpxhr.xyz
 .lwrohd.xyz
 .lwtqqq.com
@@ -59857,6 +59909,7 @@ webcast-open.douyin.com
 .marblemerises.guru
 .marchedrevolution.com
 .marcherfilippo.com
+.marchesbragged.com
 .marchgrinwimp.com
 .marchingdishonest.com
 .marchingpostal.com
@@ -66463,6 +66516,7 @@ webcast-open.douyin.com
 .odegumsane.com
 .odinkod.ru
 .odipjwipwwyus.xyz
+.odipsumk.top
 .odjweddfuh.com
 .odkfzmwfkjgzag.com
 .odlyccugg.com
@@ -66802,6 +66856,7 @@ webcast-open.douyin.com
 .ojpem.com
 .ojqbnqdwycws.com
 .ojrq.net
+.ojsxtysilofk.com
 .ojtarsdukk.com
 .ojtatygrl.xyz
 .ojuhfoa.com
@@ -67511,6 +67566,7 @@ webcast-open.douyin.com
 .oplpectation.xyz
 .opmnstr.com
 .opmuudn.com
+.opmxizgcacc.com
 .opnbwg.com
 .opohe.xyz
 .oponixa.com
@@ -67547,6 +67603,7 @@ webcast-open.douyin.com
 .opsookiz.net
 .opsoomet.net
 .opsoudaw.xyz
+.opsozouphy.com
 .opstag.com
 .opszt.com
 .opt-intelligence.com
@@ -68075,6 +68132,7 @@ webcast-open.douyin.com
 .outgateniceish.com
 .outgivefaculae.store
 .outglowkeysets.guru
+.outgratingknack.com
 .outgrinuntold.com
 .outhauzours.com
 .outheelrelict.com
@@ -68832,6 +68890,7 @@ webcast-open.douyin.com
 .paradiseannouncingnow.com
 .paradisemall.net
 .paradisenookminutes.com
+.paradizeconstruction.com
 .paradocs.ru
 .paradoxfactor.com
 .parafiaukta.pl
@@ -70095,6 +70154,7 @@ webcast-open.douyin.com
 .phosphatepossible.com
 .photo-ads.zaloapp.com
 .photo-cam.com
+.photo07.xyz
 .photofuturecrappy.com
 .photographcrushingsouvenirs.com
 .photographediblefiend.com
@@ -70927,6 +70987,7 @@ webcast-open.douyin.com
 .plutothejewel.com
 .plvfzatxvpfki.com
 .plvhsycor.com
+.plvwyoed.com
 .plx.eispop.com
 .plxnt.com
 .plxserve.com
@@ -72944,6 +73005,7 @@ webcast-open.douyin.com
 .pu1.biz
 .pu3.biz
 .pu5hk1n2020.com
+.pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev
 .pub.akadigital.vn
 .pub.chez.com
 .pub.club-internet.fr
@@ -73112,6 +73174,7 @@ webcast-open.douyin.com
 .puncol.com
 .punctualflopsubquery.com
 .punctuationceiling.com
+.pungar85.shop
 .pungentsmartlyhoarse.com
 .punishgrantedvirus.com
 .punishrwy.space
@@ -75111,6 +75174,7 @@ webcast-open.douyin.com
 .rdrsec.com
 .rdrtrk.com
 .rdsa2012.com
+.rdsgick.icu
 .rdsncyndhj.com
 .rdtjkwy.cn
 .rdtk.io
@@ -77687,6 +77751,7 @@ webcast-open.douyin.com
 .rusheemeso.digital
 .rushendroopt.uno
 .rushkolnik.ru
+.rushoothulso.xyz
 .rushpeeredlocate.com
 .rushpushy.com
 .ruskhw.cn
@@ -78686,6 +78751,7 @@ webcast-open.douyin.com
 .scnd-tr.com
 .scnet.tv
 .scobbypseudo.guru
+.scoev.cn
 .scoggerashrams.com
 .scoietegenerale.fr
 .sconceszeugite.com
@@ -80072,6 +80138,7 @@ webcast-open.douyin.com
 .shockedfoxed.top
 .shockgore.com
 .shocking-design.pro
+.shocking-profile.pro
 .shockinggrass.com
 .shockingrobes.com
 .shockingship.com
@@ -82239,6 +82306,7 @@ webcast-open.douyin.com
 .soundofhope.org
 .soundstocking.com
 .soupevents.com
+.soupoleums.com
 .soupteep.xyz
 .soupteewhish.com
 .souptightswarfare.com
@@ -82862,6 +82930,7 @@ webcast-open.douyin.com
 .srsihavelearn.xyz
 .srsotqdgln.com
 .srtb.msn.cn
+.srtlisb.top
 .srtlyye.com
 .srtrak.com
 .srumifuroqkuoi.com
@@ -84689,6 +84758,7 @@ webcast-open.douyin.com
 .swabscorves.digital
 .swaggydestroy.com
 .swagtraffcom.com
+.swailcoigns.com
 .swailsbondman.com
 .swalessidi.com
 .swallowaccidentdrip.com
@@ -85758,6 +85828,7 @@ webcast-open.douyin.com
 .tdhnxf.xyz
 .tdhserg.cn
 .tdid.m.qq.com
+.tdipsumi.top
 .tdjdpyrt.xyz
 .tdk.petsplace.nl
 .tdkd00.com
@@ -85994,7 +86065,6 @@ webcast-open.douyin.com
 .teledai.com
 .telefoniabologna.it
 .telegmcn.org
-.telegraf.detmir-stats.ru
 .telegram-china.org
 .telegram-cn.org
 .telegram-vip.com
@@ -89503,6 +89573,7 @@ webcast-open.douyin.com
 .tuoizbtl.xyz
 .tuotianxia.top
 .tupian6666.com
+.tupian88888.com
 .tupian9999.com
 .tuplzt.xyz
 .tupwiwm.com
@@ -91573,6 +91644,7 @@ webcast-open.douyin.com
 .uxwnqppdma.com
 .uxxsiyokw.com
 .uxzvjoj.cn
+.uyaeco.xyz
 .uyban.club
 .uycxhgrp.xyz
 .uydzfldt.xyz
@@ -92479,6 +92551,7 @@ webcast-open.douyin.com
 .vfzfrx.xyz
 .vfzqtgr.com
 .vg4u8rvq65t6.com
+.vg876yuj.click
 .vg99.co
 .vgbfurkmbjw.org
 .vgfeuwrewzzmc.com
@@ -95556,6 +95629,7 @@ webcast-open.douyin.com
 .whootascots.com
 .whootkhankah.com
 .whoppercreaky.com
+.whopping-sea.com
 .whopstriglot.com
 .whoptoorsaub.com
 .whorlysenior.top
@@ -96098,6 +96172,7 @@ webcast-open.douyin.com
 .wnpbdan.bid
 .wnrrhcyok.xyz
 .wnrusisedprivatedq.info
+.wnrvrwabnxa.com
 .wnt-s0me-push.net
 .wnt-some-psh.net
 .wnt-some-push.com
@@ -96677,6 +96752,7 @@ webcast-open.douyin.com
 .wvietcombank.com
 .wviietcombank.com
 .wvjzbijwbsegqq.com
+.wvkppzspqsy.com
 .wvnuubmothth.com
 .wvpfumotgpsfy.com
 .wvrgnlvzqmi.com
@@ -98898,6 +98974,7 @@ webcast-open.douyin.com
 .ykad-data.youku.com
 .ykakassg.com
 .ykbwiiafufwke.com
+.ykcsldm.icu
 .ykdwyf.com
 .ykgfcs.xyz
 .ykgkxcount.com
@@ -99274,6 +99351,7 @@ webcast-open.douyin.com
 .ysuchtjhwasp.info
 .ysxt9.com
 .ysxuehcerecoge.com
+.yszhtlsfvvf.com
 .yszpegh.xyz
 .yt-adblocker.com
 .yt.5.p2l.info
@@ -99303,6 +99381,7 @@ webcast-open.douyin.com
 .ytpae.xyz
 .ytqeavc.icu
 .ytqnzvqfsr.com
+.ytru4.pro
 .ytsa.net
 .yttompthree.com
 .ytunion.com
@@ -100184,6 +100263,7 @@ webcast-open.douyin.com
 .zoloft.1.p2l.info
 .zoloft.3.p2l.info
 .zoloft.4.p2l.info
+.zoltrl.xyz
 .zombiharshen.top
 .zombisarake.top
 .zomcz.cyou
@@ -118184,6 +118264,7 @@ webcast-open.douyin.com
 .codeice.xyz
 .codeym.dictall.com
 .coffee2play.com
+.coffeesidehustle.com
 .coin-hive-stratum-bqywuwxwij.now.sh
 .coin-hive-stratum-cilswgfvet.now.sh
 .coin-hive-stratum-fcwcduvpjs.now.sh
@@ -118253,6 +118334,7 @@ webcast-open.douyin.com
 .config.emb-api.com
 .config.gorgias.chat
 .config.mobilegamestats.com
+.configchain.com
 .confightencedtrk.com
 .configsvr.msf.3g.qq.com
 .configure.syscatec.com
@@ -122941,6 +123023,7 @@ webcast-open.douyin.com
 .fundingchoicesmessages.google.com
 .funletters.net
 .funmatrix.net
+.funoverbored.com
 .fuqcxz.tennis-point.it
 .furrnbb.cn
 .fusainswheeled.com
@@ -127296,6 +127379,7 @@ webcast-open.douyin.com
 .mim-event.mfg.macquarie.com
 .mim-survey.mfg.macquarie.com
 .mime.baidu.com
+.mindfulgem.com
 .mine.baidu.com
 .miner.nablabee.com
 .mingtians.top
@@ -128494,6 +128578,7 @@ webcast-open.douyin.com
 .oxmun.com
 .oxneww.co
 .oxo.jilinfurong.com
+.oxygenfuse.com
 .oyaiuwi.cn
 .oyecntg.cn
 .oykmil.cn
@@ -134433,6 +134518,7 @@ webcast-open.douyin.com
 .ulsynmlt.fun
 .ultimate-ad-eraser.com
 .ultimate-captcha.com
+.ultravalid.com
 .ultravpnoffers.com
 .umc.danuoyi.alicdn.com
 .umcpebi.cn
@@ -141069,6 +141155,7 @@ webcast-open.douyin.com
 .brmuvif.eccocar.com
 .brmuvon.eccocar.com
 .brnc.seidecor.com.br
+.broadstreet.ai
 .bronxvanilla.openapp.link
 .brooklynway.openapp.link
 .browser-intake-datadoghq.com
@@ -141835,6 +141922,7 @@ webcast-open.douyin.com
 .collector.mazeberry.com
 .collector.megaxh.com
 .collector.pi.spectrum.net
+.collector.quillbot.com
 .collector.schibsted.io
 .collector.sspinc.io
 .collector.taoxh.life
@@ -145230,6 +145318,7 @@ webcast-open.douyin.com
 .events.jotform.com
 .events.kangan.edu.au
 .events.limango.com
+.events.mapbox.com
 .events.marketingcube.com.au
 .events.matterport.com
 .events.mbrl.ae
@@ -145891,6 +145980,7 @@ webcast-open.douyin.com
 .g990421676.co
 .g993dvyzae.branch.salesfloor.net
 .ga-beacon.appspot.com
+.ga-tracker-dot-detmir-bonus.appspot.com
 .ga.groc.press
 .ga.nsimg.net
 .ga.webdigi.co.uk
@@ -147925,6 +148015,7 @@ webcast-open.douyin.com
 .impactradius-event.com
 .impress.vcita.com
 .impression-tracker-service-5eimuebuhq-lz.a.run.app
+.impressions.svc.abillion.com
 .improve.tempest.com
 .improving.wuzhuiso.com
 .imrworldwide.com
@@ -149563,7 +149654,6 @@ webcast-open.douyin.com
 .ladxxr.sonovente.com
 .lakerspreferences.gleague.nba.com
 .lakerspreferences.nba.com
-.lambda-url.us-east-1.on.aws
 .lan.landing.ni.com
 .landing-activemeetings.wolterskluwer.com
 .landing-annotext.wolterskluwer.com
@@ -150644,6 +150734,7 @@ webcast-open.douyin.com
 .lltrck.com
 .llwoyl.mirraw.com
 .lm.groc.press
+.lma.npaw.com
 .lmavci.eloquii.com
 .lmeniu.timberland.com.au
 .lmepbq.com
