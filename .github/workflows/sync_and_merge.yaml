@@ -51,7 +51,7 @@ jobs:
           cat temp.yaml | sed -r "s/(.*)/  - \1/g" >> rule/Clash/WeChat/WeChat.yaml
           rm -rf temp.yaml
           # 修正/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin中误杀的规则
-          sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/platflashbox - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
