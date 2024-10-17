@@ -809,7 +809,7 @@
 ^https?:\/\/mix-api\.camera360\.com\/v\d\/operational-positions - reject-200
 ^https?:\/\/mkt-gateway\.tuhu\.cn\/mkt-scene-marketing-service\/api\/scene\/queryScheme - reject-dict
 ^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?txnId=2PIC000001 - reject-200
-^https?:\/\/mlol\.qt\.qq\.com\/go\/recommend - reject
+^https?:\/\/mlol\.qt\.qq\.com\/go\/recommend\/platflashbox - reject
 ^https?:\/\/mmg\.aty\.sohu\.com\/mqs? - reject-img
 ^https?:\/\/mmg\.aty\.sohu\.com\/pvlog? - reject-img
 ^https?:\/\/mmgr\.gtimg\.com\/gjsmall\/qiantu\/upload\/ - reject-img
