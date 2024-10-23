@@ -53,7 +53,7 @@ jobs:
           # 修正/rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin中误杀的规则
           sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # 为rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list加上GEOIP,CN
-          echo -n “GEOIP,CN” >> rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list
+          echo -n "GEOIP,CN" >> rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list
           
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
