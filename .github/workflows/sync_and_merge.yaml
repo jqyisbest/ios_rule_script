@@ -52,7 +52,7 @@ jobs:
           rm -rf temp.yaml
           # 修正rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin中不正确的规则
           sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          sed -i -r 's#\^https\??://#^https?:\\/\\/#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          sed -i -r 's#\^?https\??://#^https?:\\/\\/#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
           # sed -i '49 a ^https:\\/\\/booking\\.bestwehotel\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           sed -i '$ s/$/,booking.bestwehotel.com,quickorder.dailiantong.com.cn/' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
