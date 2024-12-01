@@ -49,7 +49,7 @@
 ^https?:\/\/api\.ulife\.group\/signintask\/adServing - reject-dict
 ^https?:\/\/appapi\.caiyicloud\.com\/cyy_gatewayapi\/home\/pub\/v3\/banners\/app_start_page - reject-dict
 ^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-hotel-banner\/activity\/getActivityInfo - reject-200
-^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application\/ - reject-200
+^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application - reject-200
 ^https?:\/\/cache\.bydauto\.com\.cn\/dilink_user_upload\/20 - reject-200
 ^https?:\/\/ccmsupport-sz\.tenpay\.com\/cgi-bin\/common\/ccm_page_element.cgi - reject
 ^https?:\/\/cdke\.youdao\.com\/course3\/recommend\/dict\/startup - reject-dict
