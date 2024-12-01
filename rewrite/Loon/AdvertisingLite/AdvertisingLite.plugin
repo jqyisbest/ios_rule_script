@@ -1,9 +1,9 @@
 #!name= AdvertisingLite
 #!desc= 最后更新时间 2024-12-01 02:16:04
-#!openUrl= ^https?:\/\/github.com/blackmatrix7/ios_rule_script
+#!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= blackmatrix7
-#!homepage= ^https?:\/\/github.com/blackmatrix7/ios_rule_script
-#!icon= ^https?:\/\/raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
+#!homepage= https://github.com/blackmatrix7/ios_rule_script
+#!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
 #!reject= 1184
 #!mitm= 873
 #!total= 2057
