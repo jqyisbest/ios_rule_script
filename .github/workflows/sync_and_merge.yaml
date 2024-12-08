@@ -63,7 +63,7 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
-          grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          # grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # echo $?
           # if [ ${grep_num} == 0 ];
           # then 
