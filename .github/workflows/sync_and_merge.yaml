@@ -58,8 +58,7 @@ jobs:
 
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
-          grep -q -E "^45ax" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          echo $?
+          # grep -q -E "^45ax" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # if [[ $? != 0 ]]; then 
           #   sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
