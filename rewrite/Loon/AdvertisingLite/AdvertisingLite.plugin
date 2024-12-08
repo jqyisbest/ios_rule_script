@@ -10,7 +10,6 @@
 
 
 [Rewrite]
-^https?://booking.bestwehotel.com/proxy/trip-hotel-banner/activity/getActivityInfo - reject-200
 ^https?:\/\/apicloud\.zol\.com\.cn\/Article\/WapLaunchLogo - reject-dict
 ^https?:\/\/ebk\.17u\.cn\/tctrafficappversionadmin\/api\/getLatestVersionApp - reject-dict
 ^https?:\/\/gateway2\.etnet\.com\.hk\/etnetApp\/theme\/seasonal\/v30\/theme.json - reject-200
