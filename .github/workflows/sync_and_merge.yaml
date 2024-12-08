@@ -6,7 +6,7 @@ on:
     paths:
       - '.github/workflows/sync_and_merge.yaml'
   schedule:
-    - cron: '0 16 * * *'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
+    - cron: '0 20 * * *'  # Runs at 16:00 UTC every day, which is 00:00 UTC+8
 
 jobs:
   sync-and-modify:
