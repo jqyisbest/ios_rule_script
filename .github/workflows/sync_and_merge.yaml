@@ -64,7 +64,7 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-hotel-banner\/activity\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
-          # grep_num=$(grep -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          grep_num=$(grep -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # if [ ${grep_num} == 0 ];
           # then 
           #   sed -i -r '/^\[Rewrite]/a^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-client-monitor\/log - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
@@ -84,17 +84,17 @@ jobs:
 
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加MITM域名
-          grep_num=$(grep -E '^hostname\s*=.*booking\.bestwehotel\.com' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          if [ ${grep_num} == 0 ]; 
-          then
-            sed -i 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          fi
+          # grep_num=$(grep -E '^hostname\s*=.*booking\.bestwehotel\.com' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # if [ ${grep_num} == 0 ]; 
+          # then
+          #   sed -i 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          # fi
           
-          grep_num=$(grep -E '^hostname\s*=.*quickorder\.dailiantong\.com\.cn' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          if [ ${grep_num} == 0 ]; 
-          then
-            sed -i 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          fi
+          # grep_num=$(grep -E '^hostname\s*=.*quickorder\.dailiantong\.com\.cn' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # if [ ${grep_num} == 0 ]; 
+          # then
+          #   sed -i 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          # fi
 
           
           # 为rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list加上GEOIP,CN
