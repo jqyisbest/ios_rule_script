@@ -370,6 +370,7 @@
 ^https?:\/\/app2\.autoimg\.cn\/appdfs\/ - reject-img
 ^https?:\/\/app3\.qdaily\.com\/app3\/boot_advertisements\.json - reject
 ^https?:\/\/app\.10099\.com\.cn\/contact-web\/api\/version\/getFlashScreenPage - reject-200
+^https?:\/\/app\.10099\.com\.cn\/contact-web\/api\/content\/qryPosterStand reject-200
 ^https?:\/\/app\.58\.com\/api\/home\/(advertising|appadv)\/ - reject
 ^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv - reject
 ^https?:\/\/app\.58\.com\/api\/log\/ - reject
