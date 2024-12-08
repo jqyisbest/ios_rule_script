@@ -59,12 +59,14 @@ jobs:
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
           grep_num=$(grep -q -c -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          if [ ${grep_num} == 0 ];
+          echo ${grep_num}
+          if [[ ${grep_num} == 0 ]];
           then 
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           grep_num=$(grep -q -c -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          echo ${grep_num}
           # if [ ${grep_num} == 0 ];
           # then 
           #   sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-client-monitor\\\/log - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
