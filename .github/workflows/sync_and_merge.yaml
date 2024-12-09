@@ -42,6 +42,7 @@ jobs:
       # Step 6: Modify files
       - name: Modify Files Excluding Markdown Files
         run: |
+          set +e  # revert the default `set -e` to avoid action exit unexpected when grep return 1
           find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
           # 用Surge中的WeChat替换Clash中WeChat文件
           cat rule/Surge/WeChat/WeChat.list | sed '/^#/d' > temp.yaml
@@ -58,8 +59,8 @@ jobs:
 
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
-          grep_num=$(grep -q -E "^45ax" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo ${grep_num}
+          grep_return_code=$(grep -q -E "^45ax" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          echo ${grep_return_code}
           # grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           # if [[ $? != 0 ]]; then 
           #   sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
