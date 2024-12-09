@@ -59,19 +59,17 @@ jobs:
 
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
-          grep_return_code=$(grep -q -E "^45ax" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_return_code:${grep_return_code}"
-          # grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          # if [[ $? != 0 ]]; then 
-          #   sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          # fi
+          grep_count=$(grep -c -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          echo "grep_count in line 62:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then 
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
           
-          # grep -q -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          # echo $?
-          # if [ ${grep_num} == 0 ];
-          # then 
-          #   sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-client-monitor\\\/log - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
-          # fi
+          grep_count=$(grep -c -E "^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200" rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          echo "grep_count in line 68:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-client-monitor\\\/log - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
 
           # grep_num=$(grep -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-logs-application\s*-\s*reject-200' -c rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # if [ ${grep_num} == 0 ];
