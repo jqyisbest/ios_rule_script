@@ -88,13 +88,13 @@ jobs:
           grep_count=$(grep -c -E '^hostname\s*=.*booking\.bestwehotel\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           echo "grep_count in line 88:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
-            sed -i -r 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+            sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           grep_count=$(grep -c -E '^hostname\s*=.*quickorder\.dailiantong\.com\.cn' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           echo "grep_count in line 94:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
-            sed -i -r 's/(^hostname\s*=\s*[\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+            sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
           
