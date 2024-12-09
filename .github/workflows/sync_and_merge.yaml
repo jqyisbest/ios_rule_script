@@ -52,6 +52,10 @@ jobs:
           cat temp.yaml | sed -r "s/(.*)/  - \1/g" >> rule/Clash/WeChat/WeChat.yaml
           rm -rf temp.yaml
 
+
+          # 移除rule/Clash/ChinaMax/ChinaMax_Classical.yaml中的IP-ASN,132203
+          sed -i -r '/IP-ASN,132203/d' rule/Clash/ChinaMax/ChinaMax_Classical.yaml
+
           
           # 修正rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin中不正确的规则
           sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
@@ -97,10 +101,6 @@ jobs:
             sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
-          
-          # 为rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list加上GEOIP,CN
-          # echo -n "GEOIP,CN" >> rule/Surge/ChinaMax/ChinaMax_All_No_Resolve.list
-          
       # Step 7: Check for changes and commit if any
       - name: Commit and Push Changes
         run: |
