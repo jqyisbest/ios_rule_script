@@ -63,40 +63,52 @@ jobs:
 
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/tjbappweb\\\.health\\\.ikang\\\.com\\/api\\/\(\?:shoppingCart\\/mayAlsoLike\|search\\/hotword\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 80:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then 
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/tjbappweb\\\.health\\\.ikang\\\.com\\\/api\\\/(?:shoppingCart\\\/mayAlsoLike|search\\\/hotword) - reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+          
           grep_count=$(grep -c -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-hotel-banner\\/activity\\/getActivityInfo\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 62:${grep_count}"
+          # echo "grep_count in line 62:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-hotel-banner\\\/activity\\\/getActivityInfo - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           grep_count=$(grep -c -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-client-monitor\\/log\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 68:${grep_count}"
+          # echo "grep_count in line 68:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-client-monitor\\\/log - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
           grep_count=$(grep -c -E '^\^https\??:\\/\\/booking\\\.bestwehotel\\\.com\\/proxy\\/trip-logs-application\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 74:${grep_count}"
+          # echo "grep_count in line 74:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-logs-application - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
           grep_count=$(grep -c -E '^\^https\??:\\/\\/quickorder\\\.dailiantong\\\.com\\\.cn\\/api\\/share\\/\(\?:GetAdvertising\|GetPantnerAd\|GetOpenScreenAdInfoNew\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 80:${grep_count}"
+          # echo "grep_count in line 80:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/quickorder\\\.dailiantong\\\.com\\\.cn\\\/api\\\/share\\\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
-
+          
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加MITM域名
+          grep_count=$(grep -c -E '^hostname\s*=.*tjbappweb\.health\.ikang\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 88:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+            sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,tjbappweb.health.ikang.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+          
           grep_count=$(grep -c -E '^hostname\s*=.*booking\.bestwehotel\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 88:${grep_count}"
+          # echo "grep_count in line 88:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
             sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           grep_count=$(grep -c -E '^hostname\s*=.*quickorder\.dailiantong\.com\.cn' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
-          echo "grep_count in line 94:${grep_count}"
+          # echo "grep_count in line 94:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
             sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,quickorder.dailiantong.com.cn/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
