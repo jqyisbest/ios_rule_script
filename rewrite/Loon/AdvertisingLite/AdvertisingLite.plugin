@@ -11,7 +11,6 @@
 
 [Rewrite]
 ^https?:\/\/hwy-gapi\.bestwehotel\.com\/(?!member\/validateCode|member_base\/sms) - reject-200
-^https?:\/\/hwy-gapi\.bestwehotel\.com\/(?!member\/validateCode\/v1\/sendLoginValidateCode|member\/validateCode\/checkMobileRegex) - reject-200
 ^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword) - reject-dict
 ^https?:\/\/quickorder\.dailiantong\.com\.cn\/api\/share\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict
 ^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application - reject-200
