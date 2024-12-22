@@ -87,10 +87,10 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-logs-application - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
-          grep_count=$(grep -c -E '^\^https\??:\\/\\/hwy-gapi\\\.bestwehotel\\\.com\\/\(\?!member\\/validateCode\\/v1\\/sendLoginValidateCode\|member\\/validateCode\\/checkMobileRegex\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/hwy-gapi\\\.bestwehotel\\\.com\\/\(\?!member\\/validateCode\|member_base\\/sms\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # echo "grep_count in line 74:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
-            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/hwy-gapi\\\.bestwehotel\\\.com\\\/(?!member\\\/validateCode\\\/v1\\\/sendLoginValidateCode\|member\\\/validateCode\\\/checkMobileRegex) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/hwy-gapi\\\.bestwehotel\\\.com\\\/(?!member\\\/validateCode\|member_base\\\/sms) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
           grep_count=$(grep -c -E '^\^https\??:\\/\\/quickorder\\\.dailiantong\\\.com\\\.cn\\/api\\/share\\/\(\?:GetAdvertising\|GetPantnerAd\|GetOpenScreenAdInfoNew\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
