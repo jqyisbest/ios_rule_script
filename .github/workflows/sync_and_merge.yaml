@@ -87,6 +87,12 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-logs-application - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/hwy-gapi\\\.bestwehotel\\\.com\\/\(\?!member\\/validateCode\\/v1\\/sendLoginValidateCode\|member\\/validateCode\\/checkMobileRegex\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 74:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then 
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/hwy-gapi\\\.bestwehotel\\\.com\\\/(?!member\\\/validateCode\\\/v1\\\/sendLoginValidateCode\|member\\\/validateCode\\\/checkMobileRegex) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+
           grep_count=$(grep -c -E '^\^https\??:\\/\\/quickorder\\\.dailiantong\\\.com\\\.cn\\/api\\/share\\/\(\?:GetAdvertising\|GetPantnerAd\|GetOpenScreenAdInfoNew\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # echo "grep_count in line 80:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
@@ -105,6 +111,12 @@ jobs:
           # echo "grep_count in line 88:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
             sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,booking.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+
+          grep_count=$(grep -c -E '^hostname\s*=.*hwy-gapi\.bestwehotel\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 88:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+            sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,hwy-gapi.bestwehotel.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           grep_count=$(grep -c -E '^hostname\s*=.*quickorder\.dailiantong\.com\.cn' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
