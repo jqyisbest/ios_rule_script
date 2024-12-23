@@ -10,6 +10,7 @@
 
 
 [Rewrite]
+^https?:\/\/api\.iturrit\.com\/(?!user|maskword|message) - reject-200
 ^https?:\/\/hwy-gapi\.bestwehotel\.com\/(?!member|member_base|mbdp\/whfp\/v1\/append) - reject-200
 ^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword) - reject-dict
 ^https?:\/\/quickorder\.dailiantong\.com\.cn\/api\/share\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict
