@@ -87,10 +87,10 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/booking\\\.bestwehotel\\\.com\\\/proxy\\\/trip-logs-application - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
-          grep_count=$(grep -c -E '^\^https\??:\\/\\/hwy-gapi\\\.bestwehotel\\\.com\\/\(\?!member\\/validateCode\|member_base\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/hwy-gapi\\\.bestwehotel\\\.com\\/\(\?!member\|member_base\|mbdp\\/whfp\\/v1\\/append\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # echo "grep_count in line 74:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then 
-            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/hwy-gapi\\\.bestwehotel\\\.com\\\/(?!member\\\/validateCode\|member_base) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+            sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/hwy-gapi\\\.bestwehotel\\\.com\\\/(?!member|member_base|mbdp\\\/whfp\\\/v1\\\/append) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
           grep_count=$(grep -c -E '^\^https\??:\\/\\/quickorder\\\.dailiantong\\\.com\\\.cn\\/api\\/share\\/\(\?:GetAdvertising\|GetPantnerAd\|GetOpenScreenAdInfoNew\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
@@ -99,10 +99,10 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/quickorder\\\.dailiantong\\\.com\\\.cn\\\/api\\\/share\\\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
-          grep_count=$(grep -c -E '^\^https\??:\\/\\/api\\\.iturrit\\\.com\\/\(\?!user\\/set_ban_unit\|user\\/unset_ban_unit\|maskword\\/create_rule\|maskword\\/update_words\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/api\\\.iturrit\\\.com\\/\(\?!user\|maskword\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # echo "grep_count in line 74:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
-          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api\\\.iturrit\\\.com\\\/(?!user\\\/set_ban_unit|user\\\/unset_ban_unit|maskword\\\/create_rule|maskword\\\/update_words) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api\\\.iturrit\\\.com\\\/(?!user|maskword) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           
