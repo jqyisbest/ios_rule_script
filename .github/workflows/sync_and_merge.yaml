@@ -99,10 +99,10 @@ jobs:
             sed -i -r '/^\[Rewrite]/a^https?:\\\/\\\/quickorder\\\.dailiantong\\\.com\\\.cn\\\/api\\\/share\\\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
-          grep_count=$(grep -c -E '^\^https\??:\\/\\/api\\\.iturrit\\\.com\\/\(\?!user\|maskword\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/api\\\.iturrit\\\.com\\/\(\?!user\|maskword\|message\)\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
           # echo "grep_count in line 74:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
-          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api\\\.iturrit\\\.com\\\/(?!user|maskword) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api\\\.iturrit\\\.com\\\/(?!user|maskword|message) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
           
           
