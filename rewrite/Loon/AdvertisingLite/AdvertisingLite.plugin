@@ -10,6 +10,7 @@
 
 
 [Rewrite]
+^https?:\/\/hwy-gapi\.bestwehotel\.com\/(?!member\/validateCode|member_base) - reject-200
 ^https?:\/\/api\.iturrit\.com\/(?!user\/set_ban_unit|user\/unset_ban_unit|maskword\/create_rule|maskword\/update_words) - reject-200
 ^https?:\/\/hwy-gapi\.bestwehotel\.com\/(?!member\/validateCode|member_base\/sms) - reject-200
 ^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword) - reject-dict
