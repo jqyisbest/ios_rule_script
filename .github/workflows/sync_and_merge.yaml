@@ -45,7 +45,7 @@ jobs:
           set +e  # revert the default `set -e` to avoid action exit unexpected when grep return 1
           find rule/Clash -type f ! -name "*.md" -exec sed -i '/IP-ASN/d' {} \;
           # 修正Clash中关于WeChat的分流
-          sed -i -r 's/IP-ASN,132203/AND,((IP-ASN,132203),(GEOIP,SG))' rule/Clash/WeChat/WeChat.yaml
+          sed -i -r 's#IP-ASN,132203#AND,((IP-ASN,132203),(GEOIP,SG))#g' rule/Clash/WeChat/WeChat.yaml
           # 用Surge中的WeChat替换Clash中WeChat文件
           # cat rule/Surge/WeChat/WeChat.list | sed '/^#/d' > temp.yaml
           # sed -i '/IP-ASN/d' temp.yaml
