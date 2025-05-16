@@ -110,7 +110,21 @@ jobs:
           if [[ ${grep_count} == 0 ]]; then
           sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api\\\.iturrit\\\.com\\\/(?!user|maskword|message) - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
+
           
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/api-ios\\\.zhipin\\\.com\\/api\\/zpCommon\\/user\\/startupAd\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 74:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api-ios\\\.zhipin\\\.com\\\/api\\\/zpCommon\\\/user\\\/startupAd - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+
+
+          grep_count=$(grep -c -E '^\^https\??:\\/\\/api-ios\\\.zhipin\\\.com\\/api\\/zpCommon\\/upgrade\\/check\s*-\s*reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 74:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+          sed -i -r '/^\[Rewrite\]/a ^https?:\\\/\\\/api-ios\\\.zhipin\\\.com\\\/api\\\/zpCommon\\\/upgrade\\\/check - reject-200' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加MITM域名
           grep_count=$(grep -c -E '^hostname\s*=.*tjbappweb\.health\.ikang\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
@@ -141,6 +155,12 @@ jobs:
           # echo "grep_count in line 88:${grep_count}"
           if [[ ${grep_count} == 0 ]]; then
             sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,api.iturrit.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+          fi
+
+          grep_count=$(grep -c -E '^hostname\s*=.*api-ios\.zhipin\.com' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
+          # echo "grep_count in line 88:${grep_count}"
+          if [[ ${grep_count} == 0 ]]; then
+            sed -i -r 's/(^hostname\s*=\s*[\*\-_a-zA-Z0-9]+.*)/\1,api-ios.zhipin.com/g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           fi
 
       # Step 7: Check for changes and commit if any
