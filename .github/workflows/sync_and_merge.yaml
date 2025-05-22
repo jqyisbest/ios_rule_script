@@ -62,6 +62,10 @@ jobs:
           # 移除rule/Clash/ChinaMax/ChinaMax_Classical.yaml中的IP-ASN,132203
           sed -i -r '/IP-ASN,132203/d' rule/Clash/ChinaMax/ChinaMax_Classical.yaml
 
+
+          # 移除rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml中的gemini.google.com
+          sed -i -r '/gemini\.google\.com/d' rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml
+
           
           # 修正rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin中不正确的规则
           sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
