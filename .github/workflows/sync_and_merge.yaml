@@ -75,6 +75,47 @@ jobs:
           sed -i -r 's#\^https\?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend - reject#^https?:\\/\\/mlol\\\.qt\\\.qq\\\.com\\/go\\/recommend\\/(?!v2\\/platactivity\.*) - reject#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
           sed -i -r 's#^\^?https?\??:?(//|\\/\\/)#^https?:\\/\\/#g' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
 
+
+          # 为rule/Loon/TelegramSG/TelegramSG.list补充规则
+          cat > rule/Loon/TelegramSG/TelegramSG.list <<'EOF'
+          # NAME: TelegramSG
+          # AUTHOR: jqyisbest
+          # REPO: https://github.com/jqyisbest/ios_rule_script
+          # UPDATED: 2025-06-28 18:18:18
+          # IP-ASN: 2
+          # TOTAL: 2
+          IP-ASN, 44907, no-resolve
+          IP-ASN, 62014, no-resolve
+          EOF
+
+
+          # 为rule/Loon/TelegramUS/TelegramUS.list补充规则
+          cat > rule/Loon/TelegramUS/TelegramUS.list <<'EOF'
+          # NAME: TelegramUS
+          # AUTHOR: jqyisbest
+          # REPO: https://github.com/jqyisbest/ios_rule_script
+          # UPDATED: 2025-06-06 09:17:51
+          # IP-ASN: 1
+          # TOTAL: 1
+          IP-ASN, 59930, no-resolve
+          EOF
+
+
+          # 为rule/Loon/TelegramNL/TelegramNL.list补充规则
+          cat > rule/Loon/TelegramNL/TelegramNL.list <<'EOF'
+          # NAME: TelegramNL
+          # AUTHOR: jqyisbest
+          # REPO: https://github.com/jqyisbest/ios_rule_script
+          # UPDATED: 2025-06-06 09:17:51
+          # IP-CIDR: 2
+          # IP-ASN: 2
+          # TOTAL: 4
+          IP-ASN, 62041, no-resolve
+          IP-ASN, 211157, no-resolve
+          IP-CIDR, 5.28.192.0/18, no-resolve
+          IP-CIDR, 109.239.140.0/24, no-resolve
+          EOF
+
           
           # 为rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin添加规则
           grep_count=$(grep -c -E '^\^https\??:\\/\\/tjbappweb\\\.health\\\.ikang\\\.com\\/api\\/\(\?:shoppingCart\\/mayAlsoLike\|search\\/hotword\)\s*-\s*reject-dict' rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin)
