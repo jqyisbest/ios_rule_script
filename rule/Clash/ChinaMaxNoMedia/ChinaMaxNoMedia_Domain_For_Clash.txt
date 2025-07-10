@@ -5,6 +5,7 @@
 # DOMAIN: 255
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 118843
+# IP-ASN: 1
 # IP-CIDR: 8112
 # IP-CIDR6: 11826
 # PROCESS-NAME: 14
@@ -1236,7 +1237,6 @@ weizhiyundong.list
 +.bdysites.com
 +.bfe-networks.com
 +.bfe-networks.net
-+.chuanke.com
 +.cloud-control.top
 +.dulife.com
 +.dulightapp.com
@@ -1253,7 +1253,6 @@ weizhiyundong.list
 +.yjsops.com
 +.yunjiasu-cdn-dnssec.net
 +.yunjiasu-cdn.com
-+.yunjiasu-cdn.net
 +.yunjiasu-dns.com
 +.yunjiasu-dns.net
 +.yunjiasu-test.com
@@ -1603,6 +1602,7 @@ weizhiyundong.list
 +.88cdn.com
 +.8btc.com
 +.900.la
++.91.com
 +.917.com
 +.91danji.com
 +.91yunxiao.com
@@ -1651,6 +1651,7 @@ weizhiyundong.list
 +.aiketour.com
 +.aiops.com
 +.aip.org
++.aipage.com
 +.aipai.com
 +.air-matters.com
 +.air-matters.io
@@ -1736,6 +1737,7 @@ weizhiyundong.list
 +.apk3.com
 +.apk8.com
 +.aplaybox.com
++.apollo.auto
 +.appchina.com
 +.appeeres.com
 +.appinn.com
@@ -1787,8 +1789,14 @@ weizhiyundong.list
 +.bcy.net
 +.bcyimg.com
 +.bdatu.com
++.bdcloudapi.com
++.bdimg.com
++.bdstatic.com
++.bdtjrcv.com
 +.bdxiguaimg.com
 +.bdxiguastatic.com
++.bdydns.com
++.bdydns.net
 +.bearychat.com
 +.beatsbydre.com
 +.beihaidc.com
@@ -1867,6 +1875,7 @@ weizhiyundong.list
 +.caiyunai.com
 +.caiyunapp.com
 +.cambridge.org
++.camera360.com
 +.cang.com
 +.cankaoxiaoxi.com
 +.capitalonline.net
@@ -2012,6 +2021,7 @@ weizhiyundong.list
 +.chouti.com
 +.chua.pro
 +.chuangxin.com
++.chuanke.com
 +.chuansong.me
 +.chuansongme.com
 +.chugou360.com
@@ -2447,6 +2457,7 @@ weizhiyundong.list
 +.fenxi.com
 +.ffbuddy.com
 +.fgo.wiki
++.fhldns.com
 +.fimmu.com
 +.finchina.com
 +.finzfin.com
@@ -2584,7 +2595,10 @@ weizhiyundong.list
 +.hanboshi.com
 +.handanjob.com
 +.hangjiayun.com
++.hao123.com
++.hao123img.com
 +.haofenshu.com
++.haokan.com
 +.haolietou.com
 +.haoso.com
 +.haosou.com
