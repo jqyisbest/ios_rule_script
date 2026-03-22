@@ -42,7 +42,6 @@ payload:
   - DOMAIN,news-client.apple.com
   - DOMAIN,news-edge.apple.com
   - DOMAIN,news-events.apple.com
-  - DOMAIN,notebooklm.google.com
   - DOMAIN,ocvideo.apple.com
   - DOMAIN,rpg.pic-imges.com
   - DOMAIN,rthklive2-lh.akamaihd.net
