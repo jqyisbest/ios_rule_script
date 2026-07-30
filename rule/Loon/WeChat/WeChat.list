@@ -1,7 +1,7 @@
 # NAME: WeChat
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-07-29 20:57:46
+# UPDATED: 2026-07-30 21:09:44
 # TOTAL: 333
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
