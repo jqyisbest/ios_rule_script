@@ -1,11 +1,14 @@
 name: 复写去广告(严格版)
 desc: 最后更新时间 2025-07-12 02:12:05
+# author: jqyisbest
+# repo: https://github.com/jqyisbest/ios_rule_script
+# updated: 2026-11-14 16:36:45
 # author: blackmatrix7
 # repo: https://github.com/blackmatrix7/ios_rule_script
 # reject: 1229
-# mitm: 902
+# mitm: 901
 # force-http-engine-hosts: 6
-# total: 2137
+# total: 2136
 
 
 
@@ -1899,7 +1902,6 @@ http:
     - "open.taou.com"
     - "open.xueqiu.com"
     - "open3.vistastory.com"
-    - "openapi.boc.cn"
     - "operationapi.fosunhanig.com"
     - "optimus-ads.amap.com"
     - "oral.youdao.com"
