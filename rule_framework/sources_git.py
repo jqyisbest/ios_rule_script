@@ -9,6 +9,7 @@ from typing import Optional, Sequence
 from urllib.parse import urlparse
 
 from rule_framework.sources import validate_source_target
+from rule_framework.source_limits import DEFAULT_LIMITS
 
 
 @dataclass(frozen=True)
@@ -37,7 +38,7 @@ class PrimarySyncPreview:
 class GitFetcher:
     """Boundary for acquiring files/directories from Git repositories."""
 
-    def __init__(self, repo_overrides: Optional[dict[str, str]] = None, timeout: int = 30):
+    def __init__(self, repo_overrides: Optional[dict[str, str]] = None, timeout: Optional[float] = None):
         self.repo_overrides = repo_overrides or {}
         self.timeout = timeout
         self.budget = None
@@ -127,15 +128,18 @@ class GitFetcher:
 
     def _run_process(self, command, *, cwd=None, env=None):
         self._check_budget()
+        timeout = self.timeout
+        if timeout is None:
+            timeout = (self.budget.limits if self.budget is not None else DEFAULT_LIMITS)['max_seconds']
         started = time.monotonic()
         with subprocess.Popen(command, cwd=cwd, env=env, stdout=subprocess.PIPE,
                               stderr=subprocess.PIPE, start_new_session=(os.name != 'nt')) as process:
             try:
                 while True:
                     self._check_budget()
-                    remaining = self.timeout - (time.monotonic() - started)
+                    remaining = timeout - (time.monotonic() - started)
                     if remaining <= 0:
-                        raise subprocess.TimeoutExpired(command, self.timeout)
+                        raise subprocess.TimeoutExpired(command, timeout)
                     try:
                         stdout, stderr = process.communicate(timeout=min(0.1, remaining))
                         self._check_budget()
@@ -251,7 +255,7 @@ class GitFetcher:
         return head_sha, managed
 
     def preview_primary_sync(self, base_dir: str, primary_source) -> PrimarySyncPreview:
-        """Fetch primary upstream in a temporary shared bare clone and preview merge-tree."""
+        """Borrow local objects in a temporary bare repository and preview upstream."""
         head_proc = self.run_git(base_dir, ['rev-parse', '--verify', 'HEAD^{commit}'])
         if head_proc.returncode != 0:
             err = head_proc.stderr.decode('utf-8', errors='replace').strip()
@@ -274,13 +278,36 @@ class GitFetcher:
             self.budget.temp_roots.add(temp_dir.name)
         preview_repo = os.path.join(temp_dir.name, 'preview.git')
 
-        clone_proc = self.run_git(
+        format_proc = self.run_git(base_dir, ['rev-parse', '--show-object-format'])
+        object_format = format_proc.stdout.decode('ascii', errors='replace').strip()
+        if format_proc.returncode or object_format not in ('sha1', 'sha256'):
+            raise RuntimeError('Failed to identify local Git object format')
+        init_proc = self.run_git(
             base_dir,
-            ['-c', 'core.hooksPath=', 'clone', '--bare', '--shared', '--no-checkout', base_dir, preview_repo],
+            ['-c', 'core.hooksPath=', 'init', '--bare', '--object-format=' + object_format, preview_repo],
         )
-        if clone_proc.returncode != 0:
-            err = clone_proc.stderr.decode('utf-8', errors='replace').strip()
-            raise RuntimeError(f"Failed to create isolated preview clone for primary source '{primary_source.id}': {err}")
+        if init_proc.returncode != 0:
+            err = init_proc.stderr.decode('utf-8', errors='replace').strip()
+            raise RuntimeError(f"Failed to create isolated preview repository for primary source '{primary_source.id}': {err}")
+
+        for git_name in ('objects', 'shallow'):
+            location = self.run_git(base_dir, ['rev-parse', '--git-path', git_name])
+            if location.returncode:
+                raise RuntimeError('Failed to locate local Git ' + git_name)
+            path = os.path.realpath(os.path.join(base_dir, os.fsdecode(location.stdout.rstrip(b'\r\n'))))
+            if any(character in path for character in '\r\n\0'):
+                raise ValueError('Git acquisition paths must be single-line paths')
+            if git_name == 'objects':
+                if not os.path.isdir(path):
+                    raise RuntimeError('Local Git objects directory is unavailable')
+                with open(os.path.join(preview_repo, 'objects', 'info', 'alternates'), 'wb') as stream:
+                    stream.write(os.fsencode(path.replace('\\', '/')) + b'\n')
+            elif os.path.isfile(path):
+                with open(path, 'rb') as original, open(os.path.join(preview_repo, 'shallow'), 'wb') as copy:
+                    copy.write(original.read())
+        seeded = self.run_git(preview_repo, ['update-ref', 'HEAD', head_sha])
+        if seeded.returncode:
+            raise RuntimeError('Failed to seed the isolated preview HEAD')
 
         git_dir_proc = self.run_git(base_dir, ['rev-parse', '--git-dir'])
         if git_dir_proc.returncode == 0:
