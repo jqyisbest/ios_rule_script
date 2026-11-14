@@ -108,3 +108,15 @@ missions:
           - type: ip
             value: 109.239.140.0/24
     name: 生成 TelegramNL
+  - name: 移除 openapi.boc.cn 的 MITM
+    targets:
+      - rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+      - rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule
+      - rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule
+      - rewrite/Shadowrocket/AdvertisingLite/AdvertisingLite.sgmodule
+      - rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf
+      - rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride
+    actions:
+      - action: remove_mitm
+        hostnames:
+          - openapi.boc.cn
