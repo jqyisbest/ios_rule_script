@@ -1,0 +1,110 @@
+# 完整个人维护配置；原始需求与固定样本见 rule_framework/personal-maintenance.md。
+# WeChat 所需类型若缺少已验证映射，整项 Task 回退，后续 Task 继续。
+settings:
+  author: jqyisbest
+  repo: https://github.com/jqyisbest/ios_rule_script
+  timezone: Asia/Shanghai
+  hooks_dir: rule_framework/hooks
+  dry_run: false
+missions:
+  - targets:
+      - rule/Clash/**/*.yaml
+      - rule/Clash/**/*.list
+    name: 移除 Clash 列表中的全部 ASN
+    sop: remove_asn_globally
+  - targets:
+      - rule/Surge/WeChat/WeChat.list
+    actions:
+      - action: custom_hook
+        script: personal_maintenance.py
+        function: build_clash_wechat
+    name: 从 Surge 生成个人 Clash WeChat
+  - targets:
+      - rule/Loon/WeChat/WeChat.list
+    actions:
+      - action: custom_hook
+        script: personal_maintenance.py
+        function: build_loon_wechat
+    name: 合并 Surge 与 Loon WeChat
+  - targets:
+      - rule/Clash/ChinaMax/ChinaMax_Classical.yaml
+    name: 移除 ChinaMax 的 ASN 132203
+    sop: remove_asn_globally
+    asn: '132203'
+  - targets:
+      - rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml
+      - rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list
+    actions:
+      - action: remove_rule
+        match:
+          type: domain
+          value: gemini.google.com
+      - action: remove_rule
+        match:
+          type: domain
+          value: notebooklm.google.com
+    name: 精确移除 GlobalMedia 中两个域名
+  - targets:
+      - rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin
+    actions:
+      - action: custom_hook
+        script: personal_maintenance.py
+        function: normalize_advertising_lite
+      - action: add_rewrite
+        insert:
+          after: '[Rewrite]'
+        rewrites:
+          - url_pattern: ^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword)
+            reject_type: reject-dict
+          - url_pattern: ^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-hotel-banner\/activity\/getActivityInfo
+            reject_type: reject-200
+          - url_pattern: ^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-client-monitor\/log
+            reject_type: reject-200
+          - url_pattern: ^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application
+            reject_type: reject-200
+          - url_pattern: ^https?:\/\/quickorder\.dailiantong\.com\.cn\/api\/share\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew)
+            reject_type: reject-dict
+          - url_pattern: ^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/user\/startupAd
+            reject_type: reject-200
+          - url_pattern: ^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/upgrade\/check
+            reject_type: reject-200
+      - action: add_mitm
+        hostnames:
+          - tjbappweb.health.ikang.com
+          - booking.bestwehotel.com
+          - quickorder.dailiantong.com.cn
+          - api.iturrit.com
+          - api-ios.zhipin.com
+    name: 调整 Loon AdvertisingLite
+  - targets:
+      - rule/Loon/TelegramSG/TelegramSG.list
+    actions:
+      - action: add_rule
+        rules:
+          - type: asn
+            value: '44907'
+          - type: asn
+            value: '62014'
+    name: 生成 TelegramSG
+  - targets:
+      - rule/Loon/TelegramUS/TelegramUS.list
+    actions:
+      - action: add_rule
+        rules:
+          - type: asn
+            value: '59930'
+    name: 生成 TelegramUS
+  - targets:
+      - rule/Loon/TelegramNL/TelegramNL.list
+    actions:
+      - action: add_rule
+        rules:
+          - type: asn
+            value: '62041'
+          - type: asn
+            value: '211157'
+          - type: ip
+            value: 5.28.192.0/18
+          - type: ip
+            value: 109.239.140.0/24
+    name: 生成 TelegramNL
