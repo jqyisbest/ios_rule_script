@@ -27,6 +27,7 @@ from rule_framework.client_paths import client_for_path
 from rule_framework.storage import RECOVERY_DIRECTORY, SaveResult, recover_saved_files, save_managed_files
 from rule_framework.publication import PublicationOptions, PublicationResult, publish_saved_files
 from rule_framework.managed_io import ensure_framework_io
+from rule_framework.source_limits import parse_limits
 from rule_framework.tasks import MaintenanceResult, Target, build_tasks
 from rule_framework.task_runner import ProvenanceFilter, execute_tasks, log_task_results, task_logging
 from rule_framework.sources import (
@@ -276,6 +277,7 @@ def main(argv=None):
     parser.add_argument('config_path', nargs='?')
     parser.add_argument('--publish', action='store_true', help='Commit saved managed products and push the configured branch')
     parser.add_argument('--sync-upstream', action='store_true', help='Synchronize the primary upstream repository before running maintenance Tasks')
+    parser.add_argument('--upstream-max-seconds', type=float, help='Override the primary source preparation time budget in seconds (positive finite number)')
     parser.add_argument('--remote', default='origin')
     parser.add_argument('--branch', default='master')
     parser.add_argument('--commit-message', default='Sync from upstream and modify files')
@@ -283,8 +285,13 @@ def main(argv=None):
     parser.add_argument('--recover-only', action='store_true', help='Recover an interrupted save and exit')
     parser.add_argument('--base-dir', help='Recovery root used with --recover-only; defaults to the working directory')
     args = parser.parse_args(argv)
+    if args.upstream_max_seconds is not None:
+        try:
+            parse_limits({'max_seconds': args.upstream_max_seconds})
+        except ValueError as error:
+            parser.error(str(error))
     if args.recover_only:
-        if args.config_path or args.publish:
+        if args.config_path or args.publish or args.upstream_max_seconds is not None:
             parser.error('--recover-only uses --base-dir and its own recovery operation')
         base_dir = os.path.abspath(args.base_dir or os.getcwd())
         if not os.path.isdir(base_dir):
@@ -329,6 +336,18 @@ def main(argv=None):
             'enabled': True,
             'remote': DEFAULT_PRIMARY_SOURCE_REMOTE,
         })
+    if args.upstream_max_seconds is not None:
+        if not isinstance(config, dict) or not isinstance(config.get('primary_source'), dict):
+            parser.error('--upstream-max-seconds requires --sync-upstream or a primary_source configuration')
+        primary = dict(config['primary_source'])
+        limits = primary.get('limits', {})
+        if not isinstance(limits, dict):
+            parser.error('primary_source limits must be a dictionary')
+        try:
+            primary['limits'] = parse_limits(dict(limits, max_seconds=args.upstream_max_seconds))
+        except ValueError as error:
+            parser.error(str(error))
+        config = dict(config, primary_source=primary)
     publication = PublicationOptions(args.remote, args.branch, args.commit_message) if args.publish else None
     result = run_maintenance(config, config_path=os.path.abspath(config_path), publication=publication)
 

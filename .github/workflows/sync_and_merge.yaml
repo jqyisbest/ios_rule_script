@@ -62,7 +62,7 @@ jobs:
             maintenance_timer=(/usr/bin/time -f 'Maintenance resources: peak_rss_kib=%M elapsed_seconds=%e')
           fi
           "${maintenance_timer[@]}" python rule_framework/main.py modifier_mission_config.yaml \
-            --sync-upstream \
+            --sync-upstream --upstream-max-seconds 1800 \
             --publish --remote origin --branch "$PUBLICATION_BRANCH" \
             --log-file modifier_logs.log 2>&1 | tee modifier_console.log
 
