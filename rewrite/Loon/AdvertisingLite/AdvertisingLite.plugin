@@ -1,24 +1,23 @@
 #!name= AdvertisingLite
-#!desc= 最后更新时间 2026-11-14 16:36:45
+#!desc= 最后更新时间 2026-11-15 23:16:26
 #!openUrl= https://github.com/blackmatrix7/ios_rule_script
 #!author= jqyisbest
 #!homepage= https://github.com/jqyisbest/ios_rule_script
 #!author= blackmatrix7
 #!homepage= https://github.com/blackmatrix7/ios_rule_script
 #!icon= https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/avatar.jpg
-#!reject= 1238
+#!reject= 1235
 #!mitm= 905
-#!total= 2143
+#!total= 2140
 
 
 [Rewrite]
-^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/upgrade\/check - reject-200
-^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/user\/startupAd - reject-200
-# ^https?:\/\/api\.iturrit\.com\/(?!user|maskword|message) - reject-200
-^https?:\/\/quickorder\.dailiantong\.com\.cn\/api\/share\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) - reject-dict
-^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application - reject-200
-^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-client-monitor\/log - reject-200
-^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword) - reject-dict
+^https?:\/\/tjbappweb\.health\.ikang\.com\/api\/(?:shoppingCart\/mayAlsoLike|search\/hotword) reject-dict
+^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-client-monitor\/log reject-200
+^https?:\/\/booking\.bestwehotel\.com\/proxy\/trip-logs-application reject-200
+^https?:\/\/quickorder\.dailiantong\.com\.cn\/api\/share\/(?:GetAdvertising|GetPantnerAd|GetOpenScreenAdInfoNew) reject-dict
+^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/user\/startupAd reject-200
+^https?:\/\/api-ios\.zhipin\.com\/api\/zpCommon\/upgrade\/check reject-200
 ^https?:\/\/apicloud\.zol\.com\.cn\/Article\/WapLaunchLogo - reject-dict
 ^https?:\/\/ebk\.17u\.cn\/tctrafficappversionadmin\/api\/getLatestVersionApp - reject-dict
 ^https?:\/\/gateway2\.etnet\.com\.hk\/etnetApp\/theme\/seasonal\/v30\/theme.json - reject-200
@@ -187,10 +186,8 @@
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimama\.etao\.config\.query\/.+?etao_advertise - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.alimusic\.common\.mobileservice\.startinit\/ - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.mec\.popup\.get - reject-200
-^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.damai\.wireless\.home\.welcome - reject-dict
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.etao\.noah\.query\/.+tao_splash - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.queryadvertise\/ - reject-dict
-^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.independentadvertiseapi - reject-dict
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.fliggy\.crm\.screen\.allresource - reject-dict
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/ - reject
 ^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/ - reject
@@ -403,7 +400,6 @@
 ^https?:\/\/app2\.autoimg\.cn\/appdfs\/ - reject-img
 ^https?:\/\/app3\.qdaily\.com\/app3\/boot_advertisements\.json - reject
 ^https?:\/\/app\.10099\.com\.cn\/contact-web\/api\/version\/getFlashScreenPage - reject-200
-^https?:\/\/app\.10099\.com\.cn\/contact-web\/api\/content\/qryPosterStand - reject-200
 ^https?:\/\/app\.58\.com\/api\/home\/(advertising|appadv)\/ - reject
 ^https?:\/\/app\.58\.com\/api\/home\/invite\/popupAdv - reject
 ^https?:\/\/app\.58\.com\/api\/log\/ - reject

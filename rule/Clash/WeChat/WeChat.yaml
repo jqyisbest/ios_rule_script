@@ -3,14 +3,15 @@
 # REPO: https://github.com/jqyisbest/ios_rule_script
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2026-11-14 16:36:34
+# UPDATED: 2026-11-15 23:15:59
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 0
 # DOMAIN-SUFFIX: 22
-# IP-CIDR: 237
+# IP-ASN: 0
+# IP-CIDR: 236
 # IP-CIDR6: 64
 # USER-AGENT: 2
-# TOTAL: 330
+# TOTAL: 329
 payload:
   - DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
   - DOMAIN,dldir1.qq.com
@@ -245,7 +246,6 @@ payload:
   - IP-CIDR,42.202.141.0/24,no-resolve
   - IP-CIDR,43.156.222.0/24,no-resolve
   - IP-CIDR,43.156.86.0/24,no-resolve
-  - IP-CIDR,43.160.144.0/24,no-resolve
   - IP-CIDR,58.144.193.0/24,no-resolve
   - IP-CIDR,58.144.248.0/24,no-resolve
   - IP-CIDR,58.247.204.0/24,no-resolve

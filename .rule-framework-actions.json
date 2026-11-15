@@ -26,10 +26,10 @@
     },
     "004bf3c6e17f05674959b2860972978fdcdc95225d3d6782cc518aaa8d48210a": {
       "files": {
-        "rule/Loon/TelegramSG/TelegramSG.list": "840de28cb2959102cefc41c8ad1a72d1e5def66380e96365628599c502681f05"
+        "rule/Loon/TelegramSG/TelegramSG.list": "a3f054d1bd0c0a710e8b73e364f950682c138d36c3b7dd263521a05477b557fa"
       },
       "post": {
-        "rule/Loon/TelegramSG/TelegramSG.list": "840de28cb2959102cefc41c8ad1a72d1e5def66380e96365628599c502681f05"
+        "rule/Loon/TelegramSG/TelegramSG.list": "a3f054d1bd0c0a710e8b73e364f950682c138d36c3b7dd263521a05477b557fa"
       }
     },
     "008a59dddb3416644e7d70c5b03853725d215777af4991caff380143ef1e2ff2": {
@@ -138,10 +138,10 @@
     },
     "01bfc990c5986cb2ae4fc2bb11faf35d20dc7d4cf3e7968398d58ecc28ac3c93": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_IP.yaml": "e73f1df01248b5ffe7c3e7ae335a9c52ba8d4ae795ea3ed4001b8b7c9e9c75cc"
+        "rule/Clash/ChinaIPs/ChinaIPs_IP.yaml": "9964b8d6887b0d0c5d03919ade238e530cebf78a3414115b7753c2fb93656d6c"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_IP.yaml": "e73f1df01248b5ffe7c3e7ae335a9c52ba8d4ae795ea3ed4001b8b7c9e9c75cc"
+        "rule/Clash/ChinaIPs/ChinaIPs_IP.yaml": "9964b8d6887b0d0c5d03919ade238e530cebf78a3414115b7753c2fb93656d6c"
       }
     },
     "01c099a533da72ca961b3c78e106ab0cc5ddabfd9814633fda2a992ad6b79bf2": {
@@ -202,10 +202,10 @@
     },
     "029ddba4db523b1b83dcfd2e08944768c636560fb2bc0d2c21d7b4b602914197": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical.yaml": "6fb656a6c5a6bd1bd257605e7066efd9bd05d9bb99ab25556e2ebea8214a2874"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical.yaml": "28eef28c4fdf58b5846fdbf3b0520ab58a6f15609ee8e330fa19e5affe4a0ffd"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical.yaml": "6fb656a6c5a6bd1bd257605e7066efd9bd05d9bb99ab25556e2ebea8214a2874"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical.yaml": "28eef28c4fdf58b5846fdbf3b0520ab58a6f15609ee8e330fa19e5affe4a0ffd"
       }
     },
     "02a5ebfe74a8fdc9125eb0a598f75f61ab781e1ea6006d16d6dcd8bb3d68faa4": {
@@ -298,10 +298,10 @@
     },
     "03f7e3c6c609832c930ecda2c001da8e900ff483639b2bb6ffcadd89f6e129c0": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest_Domain.yaml": "b4fcde5f0c244d663185d9ef4141a462df2cbeb0844a4e86fbd985ddb215abac"
+        "rule/Clash/ChinaTest/ChinaTest_Domain.yaml": "1331ebd68727ef3672d0b304acda159581006e1a3451edace4a67159578ec9d8"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest_Domain.yaml": "b4fcde5f0c244d663185d9ef4141a462df2cbeb0844a4e86fbd985ddb215abac"
+        "rule/Clash/ChinaTest/ChinaTest_Domain.yaml": "1331ebd68727ef3672d0b304acda159581006e1a3451edace4a67159578ec9d8"
       }
     },
     "04304b65658777eb7a4d384538118f88862c32dcb5ee8b2d2c84a262f37815ae": {
@@ -442,10 +442,10 @@
     },
     "05d443130871e17feaf2bc6fa1c15cf367a1a647736617726949b5d017ccbc69": {
       "files": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "e127e65b4be5cd873d6b1ec8a3f2e778b94cca4336281c7cf28dadcb30c57033"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "ba7eb5940d5155c6a58bd4789ea70c62b62946829574a4a9dd2e875e6a6343a5"
       },
       "post": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "5b0cc730b1b11479248c31e19131cc62e1103f0d5c4f2693b4c69d32e4aeb753"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "49acaf2af9fb67d06659636b9f8089ecc8487ab9d81307a39667fe8b398ba0b7"
       }
     },
     "05e6498b1024aa3b60e76c311cc700be15ecef7f4981c52b20c1bf5b4a886382": {
@@ -506,10 +506,10 @@
     },
     "0744cab3b222ba7350153982606b89ec63c42bac70635a790a75b7bd6c551bf4": {
       "files": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "b663aac11dc20b65593cb619672e91abfe088a06269f5282444494906c4d3147"
       },
       "post": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "45eec9e689a1d367c811c3be85cbc3e1fc6c672d2c0875ff477d0562c2dbfbeb"
       }
     },
     "075b1c597ac8c6382c0c6581d69aed44010891fa7422ef9f1b7614269ea126dc": {
@@ -554,10 +554,10 @@
     },
     "08145128d2b4fe1e0743867cdc3aae944bacb04452268e352bd0170b0268ac1f": {
       "files": {
-        "rule/Clash/Proxy/Proxy.list": "0483e599904a66fc01f6939d6c76f309f55888b9f152290ca15cb53c577beff1"
+        "rule/Clash/Proxy/Proxy.list": "9d64e0fe06a55eea536c999c9a05ef35734772c140bf33d38bbec5a69f361f38"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy.list": "0483e599904a66fc01f6939d6c76f309f55888b9f152290ca15cb53c577beff1"
+        "rule/Clash/Proxy/Proxy.list": "9d64e0fe06a55eea536c999c9a05ef35734772c140bf33d38bbec5a69f361f38"
       }
     },
     "082261dd445673095da14cb42d676e1f166eccde9153b243ec36f872f0440fce": {
@@ -682,10 +682,10 @@
     },
     "098731b22ef547440cac531242454f5345365648f566a79e2f058bc1a4874e20": {
       "files": {
-        "rule/Clash/Game/Game.yaml": "ffbd444a07df30fb21bcf93fe83455557d35418817187a3d148de12eca7c62a8"
+        "rule/Clash/Game/Game.yaml": "f2b768d0f6ee2ac5093690a26573a8279c22774ed63bff6687b37fdbf816bcfb"
       },
       "post": {
-        "rule/Clash/Game/Game.yaml": "ffbd444a07df30fb21bcf93fe83455557d35418817187a3d148de12eca7c62a8"
+        "rule/Clash/Game/Game.yaml": "f2b768d0f6ee2ac5093690a26573a8279c22774ed63bff6687b37fdbf816bcfb"
       }
     },
     "09b02e70f5919a359a49056419aaffe56afd035d0f2735f0dcea42e349fe1bc5": {
@@ -746,10 +746,10 @@
     },
     "0a71117abbb3ca02b818a3957ee8e0e19dea89b9c8ccc7f56ceef1c226285ada": {
       "files": {
-        "rule/Clash/Global/Global_No_Resolve.yaml": "471a8d0bc98ca7e9983c54d7090013f5abf8fc9935f9af5ff08edb90c93a1210"
+        "rule/Clash/Global/Global_No_Resolve.yaml": "aaab9214dd6d4a7970309ef55b666e3348866b5c03d5476fac1b63755a3374dd"
       },
       "post": {
-        "rule/Clash/Global/Global_No_Resolve.yaml": "471a8d0bc98ca7e9983c54d7090013f5abf8fc9935f9af5ff08edb90c93a1210"
+        "rule/Clash/Global/Global_No_Resolve.yaml": "aaab9214dd6d4a7970309ef55b666e3348866b5c03d5476fac1b63755a3374dd"
       }
     },
     "0a72f6b84c658815d540f8b44c26babf1cee6a178ba6c55665e1ab424a9fb28b": {
@@ -786,10 +786,10 @@
     },
     "0ac902b0a4b0849771f74ba901363d3ec763155806f9b0b003c3ffab9cea9155": {
       "files": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "e127e65b4be5cd873d6b1ec8a3f2e778b94cca4336281c7cf28dadcb30c57033"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "ba7eb5940d5155c6a58bd4789ea70c62b62946829574a4a9dd2e875e6a6343a5"
       },
       "post": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "4209e278ebcce1611fbe62390933712fe5597325a1785e30bb31634a2c619e52"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "db95e78605d49eb12f5105c5fda06f66467f0e752f31e68515fc71d16a94d1c3"
       }
     },
     "0ac96cfcb8aadfe70c4847f158e319d8c49edcfb0f9ca5bfbee3498f0c186d95": {
@@ -826,10 +826,10 @@
     },
     "0afb53d82c9bb6f83b517c7838d3c8e5c85a7a7f2d3ce5f7d05fb8ee19e0319a": {
       "files": {
-        "rule/Clash/Lan/Lan_No_Resolve.yaml": "44687576f81a639540cd678d5717d43467508d8c80678efde07588610bda239c"
+        "rule/Clash/Lan/Lan_No_Resolve.yaml": "19cdbdd25d0d4e65e7409bc574bf06df813c57f6a3c7122c726cc6e1e785af2e"
       },
       "post": {
-        "rule/Clash/Lan/Lan_No_Resolve.yaml": "44687576f81a639540cd678d5717d43467508d8c80678efde07588610bda239c"
+        "rule/Clash/Lan/Lan_No_Resolve.yaml": "19cdbdd25d0d4e65e7409bc574bf06df813c57f6a3c7122c726cc6e1e785af2e"
       }
     },
     "0afd48a1f76fad8445e303c6447c454a144258eaf532917f47ef77143e976f9b": {
@@ -1090,10 +1090,10 @@
     },
     "0f8edd93bbec15be98faaba31977376ef74fc2ce6cf57ec30de12cd5ba9b7c92": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_IP.yaml": "26c0af7a559f7822587fec117b719334aac9a50e77b036f0f1f4db55e0a3f123"
+        "rule/Clash/ChinaMax/ChinaMax_IP.yaml": "b73cf3e11a52cc9f7d9a64226f9eb95dc81ec207c04f38e795da4b75d2bc9ca3"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_IP.yaml": "26c0af7a559f7822587fec117b719334aac9a50e77b036f0f1f4db55e0a3f123"
+        "rule/Clash/ChinaMax/ChinaMax_IP.yaml": "b73cf3e11a52cc9f7d9a64226f9eb95dc81ec207c04f38e795da4b75d2bc9ca3"
       }
     },
     "0f8ef835bd7b341c7ad14cd27189e51c915cddd7884829f07bcd8a5e7199a774": {
@@ -1362,10 +1362,10 @@
     },
     "135c51daab8468a5ffc4f4ff9d11e2a7b6674cf90801add8af0aaecef0d506c0": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6.yaml": "498f2b5c02c7ff7676fddf115e9df195c8a0f7f8d5bdf9c0b619f28c40b5861a"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6.yaml": "532840371b90cd228b9fd29313e3158173b972802624c1209b6c2c24cf87985c"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6.yaml": "498f2b5c02c7ff7676fddf115e9df195c8a0f7f8d5bdf9c0b619f28c40b5861a"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6.yaml": "532840371b90cd228b9fd29313e3158173b972802624c1209b6c2c24cf87985c"
       }
     },
     "1364c81ece22f6184591dd69209ae0e69e7ea7435129ed126a570984d74f79fa": {
@@ -1674,10 +1674,10 @@
     },
     "177ee0c958a0968bb2cda3c0b1ef080902bae833a0d7ea627fc6d364f9dd89e6": {
       "files": {
-        "rule/Clash/WeChat/WeChat_No_Resolve.yaml": "9c088bf6e0b2b01604ce588cd7903c7ee92172becdfa836782bbc66d7de5d2fe"
+        "rule/Clash/WeChat/WeChat_No_Resolve.yaml": "31461ccc8eb9464947d55ac9132cc005d4c2fda7e3dae98cb9df3749acca39ec"
       },
       "post": {
-        "rule/Clash/WeChat/WeChat_No_Resolve.yaml": "9c088bf6e0b2b01604ce588cd7903c7ee92172becdfa836782bbc66d7de5d2fe"
+        "rule/Clash/WeChat/WeChat_No_Resolve.yaml": "31461ccc8eb9464947d55ac9132cc005d4c2fda7e3dae98cb9df3749acca39ec"
       }
     },
     "17963ee575565af35a8673714fb39de57dcd83c0f15f11ac4978abb756e343d2": {
@@ -1754,10 +1754,10 @@
     },
     "186932ea4df9be8724537200de56e8fb347d223f851e6c0c29ae17548f025368": {
       "files": {
-        "rule/Clash/Blizzard/Blizzard_No_Resolve.yaml": "318469ba6531cbf153ce330ddf5aade909a8fc2d9ef0ddf30325c08c4b957d93"
+        "rule/Clash/Blizzard/Blizzard_No_Resolve.yaml": "cc8b7eaae1a5f21aeffd337c34f4c48e903ae03415e19f25c25bd2cc46472eba"
       },
       "post": {
-        "rule/Clash/Blizzard/Blizzard_No_Resolve.yaml": "318469ba6531cbf153ce330ddf5aade909a8fc2d9ef0ddf30325c08c4b957d93"
+        "rule/Clash/Blizzard/Blizzard_No_Resolve.yaml": "cc8b7eaae1a5f21aeffd337c34f4c48e903ae03415e19f25c25bd2cc46472eba"
       }
     },
     "187eca2541abad8bff9b039884adc528c39a83e51f2e43815546fd7b5035e76f": {
@@ -1810,18 +1810,18 @@
     },
     "197f9c88352a98c6431fbff819909b541cfd4e1f416af0bc9cebd5180843687a": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP.yaml": "19a7348ff9a6ff08f0eefa8f677f146a67a8f93f910559927c3edcfaf5e70c1a"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP.yaml": "772869cada18b1011e0400dd7c823415532727a384addb9b63c6fca83c362086"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP.yaml": "19a7348ff9a6ff08f0eefa8f677f146a67a8f93f910559927c3edcfaf5e70c1a"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP.yaml": "772869cada18b1011e0400dd7c823415532727a384addb9b63c6fca83c362086"
       }
     },
     "19882335790c3d92ecdef5cfe68a1820a9de9f2f9dc3b64d8c0df0b9e299f7b3": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest_Classical.yaml": "ba1767371f9b2101ea90f777b2a933d2c65b1b5dc5177ba3de6b414d8b5bb2ce"
+        "rule/Clash/ChinaTest/ChinaTest_Classical.yaml": "3b45a2fb23853de8f0f425b155e380c38f7cb257d42a13a0eb47b6ba0c76d4db"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest_Classical.yaml": "ba1767371f9b2101ea90f777b2a933d2c65b1b5dc5177ba3de6b414d8b5bb2ce"
+        "rule/Clash/ChinaTest/ChinaTest_Classical.yaml": "3b45a2fb23853de8f0f425b155e380c38f7cb257d42a13a0eb47b6ba0c76d4db"
       }
     },
     "19a6016f5cf78568b967b466a1a2c3df9ca006a228dc74da28896a3c12925f1c": {
@@ -2562,10 +2562,10 @@
     },
     "259df38f5a71f29d3e5d6c2f0cc82d7d3e6d793075a497f54a2b9fa6bf963dac": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.list": "6f7a055aafee250d96e563fb34a15e20c3eec51d60f08f670d5ae0a7b52706f5"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.list": "598da7a1dbf2aefbc198afb000dfcf3fb56959481bf34f07d9cf8538ebc92a1b"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.list": "6f7a055aafee250d96e563fb34a15e20c3eec51d60f08f670d5ae0a7b52706f5"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.list": "598da7a1dbf2aefbc198afb000dfcf3fb56959481bf34f07d9cf8538ebc92a1b"
       }
     },
     "259fa1d4ee0af79fcaab7c31f0879772e3a9b30272fe82066e9904052389e126": {
@@ -2770,10 +2770,10 @@
     },
     "281f53f63281235140992672148ef9a82e5a447ab778fda258c5f2390c9720a0": {
       "files": {
-        "rule/Clash/Global/Global.list": "92849a25ede25475abf09d33cf4db2cb79d6ab1aafde893baf027b0025f8b9b4"
+        "rule/Clash/Global/Global.list": "6dbfdc19293753fbe874dea6dec0f2a46427d6fe4e98e644854daa0180ced3ba"
       },
       "post": {
-        "rule/Clash/Global/Global.list": "92849a25ede25475abf09d33cf4db2cb79d6ab1aafde893baf027b0025f8b9b4"
+        "rule/Clash/Global/Global.list": "6dbfdc19293753fbe874dea6dec0f2a46427d6fe4e98e644854daa0180ced3ba"
       }
     },
     "287f86aff0b95a8a6a22ee212f866911ab0c6012359672e0cc219e9afa134dd8": {
@@ -3090,10 +3090,10 @@
     },
     "2ddd405a9a33de4dea1c2142598042b083a202662d1aed41ff72925911679fd6": {
       "files": {
-        "rule/Clash/Proxy/Proxy.yaml": "a0199789015578441cc957db4c808e6de85bd7c338e721f7080a6d831b5efd00"
+        "rule/Clash/Proxy/Proxy.yaml": "78ecb65e43c98d5741171b33b7a5bceb0d711dc4cf74af42898a95ac54dcc8a8"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy.yaml": "a0199789015578441cc957db4c808e6de85bd7c338e721f7080a6d831b5efd00"
+        "rule/Clash/Proxy/Proxy.yaml": "78ecb65e43c98d5741171b33b7a5bceb0d711dc4cf74af42898a95ac54dcc8a8"
       }
     },
     "2de88762aefea559c0964af810153dbdd9ba1bdeb76354b52f7cf2eacca080eb": {
@@ -3114,18 +3114,18 @@
     },
     "2df1532c46358ac75b7b97e9b4fb5c41bd7dddf1c09fa0977327906ba3838882": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax.yaml": "7dad2b1e0b1774411d8982857cb97fc373996732d7969919db550aa19e80a6c4"
+        "rule/Clash/ChinaMax/ChinaMax.yaml": "9360b77d590425677287d5b5540b2e3d644ebff029de9fe6105aedb6d4617190"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax.yaml": "7dad2b1e0b1774411d8982857cb97fc373996732d7969919db550aa19e80a6c4"
+        "rule/Clash/ChinaMax/ChinaMax.yaml": "9360b77d590425677287d5b5540b2e3d644ebff029de9fe6105aedb6d4617190"
       }
     },
     "2dfa842aeef29ccae129252249cece5e5308004f05792a6710ace807b012ac46": {
       "files": {
-        "rule/Clash/Global/Global.yaml": "2e6137eea897f4adccc69e9334f985c0d72740b1718cdec658a0a1171cc0ddc1"
+        "rule/Clash/Global/Global.yaml": "aba11d75fc3206a83b75bf5bd52f4e61912e5412782ac8b65a42805c745ebe77"
       },
       "post": {
-        "rule/Clash/Global/Global.yaml": "2e6137eea897f4adccc69e9334f985c0d72740b1718cdec658a0a1171cc0ddc1"
+        "rule/Clash/Global/Global.yaml": "aba11d75fc3206a83b75bf5bd52f4e61912e5412782ac8b65a42805c745ebe77"
       }
     },
     "2e0bd2511254dfec79b3f9449fb79918fc3a92807137f964ba73f0cc5b9553ff": {
@@ -3194,10 +3194,10 @@
     },
     "2e7886f3f7e46e5c3b4b1da7a6c6395096241f834e6c78c01cbe6373d67f4f09": {
       "files": {
-        "rule/Clash/Advertising/Advertising_Domain.yaml": "ec450588ff595b4c02bf9ea007742112b5157921dec5f4bd36108150693f5978"
+        "rule/Clash/Advertising/Advertising_Domain.yaml": "c36f78b1d5ecd7c10ad194dc9c33debbefcc003f43e4f925df3dc3e7d64063e9"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising_Domain.yaml": "ec450588ff595b4c02bf9ea007742112b5157921dec5f4bd36108150693f5978"
+        "rule/Clash/Advertising/Advertising_Domain.yaml": "c36f78b1d5ecd7c10ad194dc9c33debbefcc003f43e4f925df3dc3e7d64063e9"
       }
     },
     "2e915b114ece72e29f7a5c6b7f8a3706a8adc50012e035c7843501dbeb22a112": {
@@ -3218,10 +3218,10 @@
     },
     "2ed889045442c9d0e6432f311d6c04aca8d76686d5210c6ed5724c3bce0afe65": {
       "files": {
-        "rule/Clash/Apple/Apple.yaml": "9f81f8e6ee8485d4553544d7dcefd6e4b2e9534f6306c7e4ee38427a20898de1"
+        "rule/Clash/Apple/Apple.yaml": "5baf78e9a4989a282797574de4d387132a67f8f8117aac6174baba920ad42e78"
       },
       "post": {
-        "rule/Clash/Apple/Apple.yaml": "9f81f8e6ee8485d4553544d7dcefd6e4b2e9534f6306c7e4ee38427a20898de1"
+        "rule/Clash/Apple/Apple.yaml": "5baf78e9a4989a282797574de4d387132a67f8f8117aac6174baba920ad42e78"
       }
     },
     "2f01ce7daff6cee1c50b6d997f1b8035b10fd2952e16ebb1cd9b7a301f0dd211": {
@@ -3242,10 +3242,10 @@
     },
     "2f490950b8bcac777d2e910bb28fbc7d55c7cdcdd20dac359911d1cb58280613": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical.yaml": "46596010ccfaedef25473f34a6da9b94c558d94eeda30b69df49cee17d8ed524"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical.yaml": "e516e08369cac0608615895aa2c34dad1418a23c35c4e7b4d92ec0e9a9c9ced9"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical.yaml": "46596010ccfaedef25473f34a6da9b94c558d94eeda30b69df49cee17d8ed524"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical.yaml": "e516e08369cac0608615895aa2c34dad1418a23c35c4e7b4d92ec0e9a9c9ced9"
       }
     },
     "2f54ac9396f9f8e7223db0ce23f3191c0479d6db99f7379a7eeffc2d6719c6c1": {
@@ -3282,10 +3282,10 @@
     },
     "2fe1cd484d368cec816d08e9682219740b09903e64e7b1c1131694ceb1070a94": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical_No_Resolve.yaml": "92b5fc9fc1639e0fab0529562ab3cb02bbe138db182805c5994d662d5d8cba56"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical_No_Resolve.yaml": "cc68aa80aed9d421f1b53d77071971510f41755b2a36a2976049a216f779948d"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical_No_Resolve.yaml": "92b5fc9fc1639e0fab0529562ab3cb02bbe138db182805c5994d662d5d8cba56"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Classical_No_Resolve.yaml": "cc68aa80aed9d421f1b53d77071971510f41755b2a36a2976049a216f779948d"
       }
     },
     "2fec04b4d818c492a85e79b6f274c58967622075e0963eb93de5740661bd07d5": {
@@ -3330,10 +3330,10 @@
     },
     "306249f936578b4d47f0a4f4c474070276bd5f7770527c276570df92dd540f75": {
       "files": {
-        "rule/Clash/Global/Global_Classical_No_Resolve.yaml": "9883d29fef9fb29cb0c076a619f9c9199ce818778bc463cd457e4107c174c898"
+        "rule/Clash/Global/Global_Classical_No_Resolve.yaml": "0d608872680b1ad5de78dc380725ecb44f6a1d2c2a928af25562faa3784e5407"
       },
       "post": {
-        "rule/Clash/Global/Global_Classical_No_Resolve.yaml": "9883d29fef9fb29cb0c076a619f9c9199ce818778bc463cd457e4107c174c898"
+        "rule/Clash/Global/Global_Classical_No_Resolve.yaml": "0d608872680b1ad5de78dc380725ecb44f6a1d2c2a928af25562faa3784e5407"
       }
     },
     "306288f97579fa9990ff4ef6281b9ba4da07ef72f16ce0ef35d5b3cd07acc1ca": {
@@ -3378,10 +3378,10 @@
     },
     "30c5b24476897e41c52877304990d11f7f1b896bcc8658cee875f88bd63f6206": {
       "files": {
-        "rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf": "dd6d50b0a7b92af621ec1d23f1c0e4301612775504aedfd1ac2565bc8f4be672"
+        "rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf": "68f2ac23cb4d32bd099c4e929d4b91801555d905e122855b88ee1dcbec92845a"
       },
       "post": {
-        "rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf": "678e3396c6ab7f29d8fcde3c9f9730a3bd16129bc7c9867a22d662982b57464e"
+        "rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf": "9d8629f61533041e4781e004db321ec93612f5ad69c9fb22f2c92e93a8072b00"
       }
     },
     "30d82439c72319fc1a41b02f374a8faaa9b555c1b7825a61428c1e49c81112bb": {
@@ -3562,10 +3562,10 @@
     },
     "3423367932b74920e36dd02a90ff6c382dbce4c984bcc2700bdbe5317e3a3b5c": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6_No_Resolve.yaml": "5a1c8511c5e1d0234ceb13bd32698222a9310133eed06efdec9edde905056ce9"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6_No_Resolve.yaml": "e4a38ea1371d0e1432168dfe15e3c8b89a6798e530a650ea952378fa616d81b3"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6_No_Resolve.yaml": "5a1c8511c5e1d0234ceb13bd32698222a9310133eed06efdec9edde905056ce9"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_IPv6_No_Resolve.yaml": "e4a38ea1371d0e1432168dfe15e3c8b89a6798e530a650ea952378fa616d81b3"
       }
     },
     "3437c1baa95286e20645137a296e94251448b0e4e0aa990710c67d483c3244e1": {
@@ -3650,10 +3650,10 @@
     },
     "353a86bf108a73e0bfe31708ebede55ee93b7a13e59f5d5e3aacea89e9840b70": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Domain.yaml": "fec33f51b6f60115de17e5591a2260783e46d1dd27a0604bd498251b4f7ec352"
+        "rule/Clash/ChinaMax/ChinaMax_Domain.yaml": "71d577db44fbd344576c01e043b07495724ce57946da487fbe974f98b93a076b"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Domain.yaml": "fec33f51b6f60115de17e5591a2260783e46d1dd27a0604bd498251b4f7ec352"
+        "rule/Clash/ChinaMax/ChinaMax_Domain.yaml": "71d577db44fbd344576c01e043b07495724ce57946da487fbe974f98b93a076b"
       }
     },
     "35403380b8e3bda66249e13ae09dcbb2e99cf79c21501c65bd08608c56002038": {
@@ -3850,10 +3850,10 @@
     },
     "3a16a69b2d600479e9829c971aab9bbe4de289bfdef40b34151fde89842ae1ce": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest.yaml": "fc6289ed600bececf3b3df7c42b5e897529d0bc361a7b0c215619a6971d0011e"
+        "rule/Clash/AdvertisingTest/AdvertisingTest.yaml": "048f0d7b64ed09bcff3fb4569160fb877ff7d4b8eaa0c99cf54c0d05df1c4da7"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest.yaml": "fc6289ed600bececf3b3df7c42b5e897529d0bc361a7b0c215619a6971d0011e"
+        "rule/Clash/AdvertisingTest/AdvertisingTest.yaml": "048f0d7b64ed09bcff3fb4569160fb877ff7d4b8eaa0c99cf54c0d05df1c4da7"
       }
     },
     "3a2d6a655d55fa6399d2476b8db4b7882849a1607cdee4a73517118833eaca55": {
@@ -4122,10 +4122,10 @@
     },
     "3d6462c280ce8240a918e1e07c35740e43f0ff337f28ea7c39eceda3b03f68d4": {
       "files": {
-        "rule/Clash/Proxy/Proxy_No_Resolve.yaml": "953f7e234fa45f88eed73aead9106c6ddece403adc82ef76f1dddba54c2f88da"
+        "rule/Clash/Proxy/Proxy_No_Resolve.yaml": "22b0f12e8d1d4c126f9136606bd5896d0d69b727186ea37df270d864cc87aecd"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy_No_Resolve.yaml": "953f7e234fa45f88eed73aead9106c6ddece403adc82ef76f1dddba54c2f88da"
+        "rule/Clash/Proxy/Proxy_No_Resolve.yaml": "22b0f12e8d1d4c126f9136606bd5896d0d69b727186ea37df270d864cc87aecd"
       }
     },
     "3d6d0f8a48cab78c4e90bba84eac799243cacbd5077a442aaee5edc791eca7b4": {
@@ -4154,10 +4154,10 @@
     },
     "3df0e3ca21c7766275166072a0be26f328847c01e80566560f0a849f893e3902": {
       "files": {
-        "rule/Clash/Advertising/Advertising.list": "7bb196c5a0add032879860a2f34542379ac0906295a972ebc961287d49dd5f5a"
+        "rule/Clash/Advertising/Advertising.list": "a8a1d46a7410719989f77c5485064714e51107c4d4163df097c21f6acb12da3e"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising.list": "7bb196c5a0add032879860a2f34542379ac0906295a972ebc961287d49dd5f5a"
+        "rule/Clash/Advertising/Advertising.list": "a8a1d46a7410719989f77c5485064714e51107c4d4163df097c21f6acb12da3e"
       }
     },
     "3e25ef9c757660a03389577fa8cc04bb5aa288bd618765b940dcf7d51b252cf3": {
@@ -4210,10 +4210,10 @@
     },
     "3eb8813e99bf11c9ca04704d49af3a7ddf2519b8faf457f1952ff86ff82ef4db": {
       "files": {
-        "rule/Clash/Copilot/Copilot.list": "6f4d247877631b615050e8b0971851940be6f47b0b3a7313898b61cb3b25691e"
+        "rule/Clash/Copilot/Copilot.list": "33136b824151fa9fd642580dd0d1a3e5f693bedc99b0b9e3a79213c49be16239"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot.list": "6f4d247877631b615050e8b0971851940be6f47b0b3a7313898b61cb3b25691e"
+        "rule/Clash/Copilot/Copilot.list": "33136b824151fa9fd642580dd0d1a3e5f693bedc99b0b9e3a79213c49be16239"
       }
     },
     "3ef1c5f547f9a3e48ec756f66f2188a448e5acba4a526bc3387dd2243825366c": {
@@ -4266,10 +4266,10 @@
     },
     "4097bb0fd34674ac063b4d64829cb75bdd038ddd0404016920f1abc74f4a4e15": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_No_Resolve.yaml": "7dad2b1e0b1774411d8982857cb97fc373996732d7969919db550aa19e80a6c4"
+        "rule/Clash/ChinaMax/ChinaMax_No_Resolve.yaml": "9360b77d590425677287d5b5540b2e3d644ebff029de9fe6105aedb6d4617190"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_No_Resolve.yaml": "7dad2b1e0b1774411d8982857cb97fc373996732d7969919db550aa19e80a6c4"
+        "rule/Clash/ChinaMax/ChinaMax_No_Resolve.yaml": "9360b77d590425677287d5b5540b2e3d644ebff029de9fe6105aedb6d4617190"
       }
     },
     "40aa9b24dd9e2ed2dac0f64ba72354f378f2b79c8457537477e1a9e830a799db": {
@@ -4282,10 +4282,10 @@
     },
     "40d679c8cd9d901ee874e383eb277d711c48c01c5ae4b60af2fb2183898ae974": {
       "files": {
-        "rule/Clash/Proxy/Proxy_Domain.yaml": "17cf99120704ca0d4c317a51c6a891f8323d1d94af5c0a00867ab92e8385e2c6"
+        "rule/Clash/Proxy/Proxy_Domain.yaml": "52e85344f1bac57b0ed059f990ed9104d750555cf42b00982c3ad5dc6338b46d"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy_Domain.yaml": "17cf99120704ca0d4c317a51c6a891f8323d1d94af5c0a00867ab92e8385e2c6"
+        "rule/Clash/Proxy/Proxy_Domain.yaml": "52e85344f1bac57b0ed059f990ed9104d750555cf42b00982c3ad5dc6338b46d"
       }
     },
     "40e74bacd974cfb701a413811fb900385d04285c33f51f52200d2b09038524c3": {
@@ -4354,10 +4354,10 @@
     },
     "416fd6a3852eafdcab47246dbfbbf7aacd046a3bf1fa1e6f1ca8ce257241ffc5": {
       "files": {
-        "rule/Clash/Global/Global_Domain.yaml": "90ba731a46d36c131c2c0d855ab740fc7a9f2bc561a1b2130261bd03dc624f56"
+        "rule/Clash/Global/Global_Domain.yaml": "32f7ed0e77ccf44a5419c898f8b494de5dd4d8812fab54452c0511f5f7af63b1"
       },
       "post": {
-        "rule/Clash/Global/Global_Domain.yaml": "90ba731a46d36c131c2c0d855ab740fc7a9f2bc561a1b2130261bd03dc624f56"
+        "rule/Clash/Global/Global_Domain.yaml": "32f7ed0e77ccf44a5419c898f8b494de5dd4d8812fab54452c0511f5f7af63b1"
       }
     },
     "41a0fb332fbaf87b972cf5ef26f167970a289b17b3e570dc2e53c6e3e89daeb3": {
@@ -4394,10 +4394,10 @@
     },
     "424c9dbf3488558d6bc0da720a39ed9a0dbe64f06877e3b0e230482bbd9f257f": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax.list": "05a9e9832c2def7b85c3c4fa2a1f19f2bdc30090b2f372d86789d42cea3d3152"
+        "rule/Clash/ChinaMax/ChinaMax.list": "bd4f01b6191604419143f4544b73a814df98043ad37ae6d2bf74bc45dc5bb163"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax.list": "05a9e9832c2def7b85c3c4fa2a1f19f2bdc30090b2f372d86789d42cea3d3152"
+        "rule/Clash/ChinaMax/ChinaMax.list": "bd4f01b6191604419143f4544b73a814df98043ad37ae6d2bf74bc45dc5bb163"
       }
     },
     "429031c81baf0dc51491c839872bb6b3e2a8aa2c5420df0e5406903806b16f6f": {
@@ -4474,10 +4474,10 @@
     },
     "445cfc1fa72f7eabfdb58e18ba838cf6425f75f0b02db75563fb610d464fb5e1": {
       "files": {
-        "rule/Clash/Game/Game.list": "003e60e83989e57af8b25e7e427e77bfe3ed7d7b0675f6967e81ee4f771bb0d2"
+        "rule/Clash/Game/Game.list": "63ed1092c588beb377cad51b574c921ca113a880752b6c0b8c96b9ecc7f13366"
       },
       "post": {
-        "rule/Clash/Game/Game.list": "003e60e83989e57af8b25e7e427e77bfe3ed7d7b0675f6967e81ee4f771bb0d2"
+        "rule/Clash/Game/Game.list": "63ed1092c588beb377cad51b574c921ca113a880752b6c0b8c96b9ecc7f13366"
       }
     },
     "4470aea739096c432f04825d21839edae3295b55ec69cf7edfb5f87c99bf2e94": {
@@ -4634,10 +4634,10 @@
     },
     "46069e25b809700199b77c460ada3af5f34292a0e8fb2c8813089539fd987456": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_No_Resolve.yaml": "23b96c48148f8f4c4e325ce3ea1efb860eefd32c1d49ff7a6ed6265915cace38"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_No_Resolve.yaml": "8ddb52218ac9b9522a92a72d425811a903d40eb54199f20033c3fc6b83831fb5"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_No_Resolve.yaml": "23b96c48148f8f4c4e325ce3ea1efb860eefd32c1d49ff7a6ed6265915cace38"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_No_Resolve.yaml": "8ddb52218ac9b9522a92a72d425811a903d40eb54199f20033c3fc6b83831fb5"
       }
     },
     "4617c70c282f9d3f26ebde6557a3de9f16e44aaefe8b228706edc0bc4356c611": {
@@ -4754,10 +4754,10 @@
     },
     "46f5b7c1fc18780844f33eb03da05b89343e196ba351f708bdc8978d823eaac5": {
       "files": {
-        "rule/Clash/Proxy/Proxy_Classical_No_Resolve.yaml": "ae7c21c4226a4de883670d220d5b3dd81c8e357962fb9d16cccc3e093878aabf"
+        "rule/Clash/Proxy/Proxy_Classical_No_Resolve.yaml": "52376719825b1a5ecc03b106807419ab1b74967efc492bfb61c5a80172405e84"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy_Classical_No_Resolve.yaml": "ae7c21c4226a4de883670d220d5b3dd81c8e357962fb9d16cccc3e093878aabf"
+        "rule/Clash/Proxy/Proxy_Classical_No_Resolve.yaml": "52376719825b1a5ecc03b106807419ab1b74967efc492bfb61c5a80172405e84"
       }
     },
     "471af533e043b8dcfcc64b3617ae4912168ad61c4627f52f8913ceb8d8296355": {
@@ -4914,10 +4914,10 @@
     },
     "48f18bb6fb3c493ca546624a502ce0858d52049318f9b6ce77d38ebb0a78c15a": {
       "files": {
-        "rule/Clash/Facebook/Facebook_No_Resolve.yaml": "c712b9378cdfaa83d9e5763ee173aad894910260e1e3fded5ecb703e9851bb08"
+        "rule/Clash/Facebook/Facebook_No_Resolve.yaml": "d2259f7113c554ab8cd3b76ca70108a8d11c3432f6114b69cd453e01374d9af7"
       },
       "post": {
-        "rule/Clash/Facebook/Facebook_No_Resolve.yaml": "c712b9378cdfaa83d9e5763ee173aad894910260e1e3fded5ecb703e9851bb08"
+        "rule/Clash/Facebook/Facebook_No_Resolve.yaml": "d2259f7113c554ab8cd3b76ca70108a8d11c3432f6114b69cd453e01374d9af7"
       }
     },
     "4920bf47243b5029413e24ebc4ad77af6b2da9a5d156466ea451372848eb5355": {
@@ -5074,26 +5074,26 @@
     },
     "4b9854e494ebd56ba6c177a9260c4151abf0c6b9ca99839b5908f6757a7365f4": {
       "files": {
-        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "161dd8873797a9b388929a168fee3d4f8e925a18736adc84d2262e64a50d2558"
+        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "47981ae4b52069201a0aa782a119636ebfc337b5166958a51be9088c2ae1cbb4"
       },
       "post": {
-        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "161dd8873797a9b388929a168fee3d4f8e925a18736adc84d2262e64a50d2558"
+        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "47981ae4b52069201a0aa782a119636ebfc337b5166958a51be9088c2ae1cbb4"
       }
     },
     "4c078731fde92ba5ef9ecfdd2ff0c85132fa13b8510a51c88ac5fb41206c6dc4": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6_No_Resolve.yaml": "7d3542cfada4b58eb328bd84807b13e4fbdbb4ca8d770340a93fedcf57618295"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6_No_Resolve.yaml": "b41ee43bfb228dde95802eebea2109623735c7962a0d5f908f52684e4f98c82a"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6_No_Resolve.yaml": "7d3542cfada4b58eb328bd84807b13e4fbdbb4ca8d770340a93fedcf57618295"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6_No_Resolve.yaml": "b41ee43bfb228dde95802eebea2109623735c7962a0d5f908f52684e4f98c82a"
       }
     },
     "4c1d7ab73ed08d11d028f256ca20726fe830c98b0ed438cf03d2474451bbc686": {
       "files": {
-        "rule/Clash/WeChat/WeChat.list": "8402efe22e943fa6d8582617e6edafbcc8c7de0524ca1a68d9cd6590d1ea76a1"
+        "rule/Clash/WeChat/WeChat.list": "4c3fcba1ec35b0e0308c0ed97813bf80682c073dfcd5f91135f7c95c6e480905"
       },
       "post": {
-        "rule/Clash/WeChat/WeChat.list": "8402efe22e943fa6d8582617e6edafbcc8c7de0524ca1a68d9cd6590d1ea76a1"
+        "rule/Clash/WeChat/WeChat.list": "4c3fcba1ec35b0e0308c0ed97813bf80682c073dfcd5f91135f7c95c6e480905"
       }
     },
     "4c274202b1f0668c6bf682380a3b98ea6753f37d99828dd2d6ba056ade81fc8f": {
@@ -5266,10 +5266,10 @@
     },
     "4eac558d324fd2902ba9e2633e20d55ef983a3040fe55f0e8601d1e56f0fcdeb": {
       "files": {
-        "rule/Clash/Game/Game_No_Resolve.yaml": "1dca0110a9c6cd2203826def62efad3f03af2217cf9410b54463f9e22f8d6da3"
+        "rule/Clash/Game/Game_No_Resolve.yaml": "dffc7e82c404124b80a4a8955da81a40ca0fdc793dd680ac74b5fbf4bcc3e954"
       },
       "post": {
-        "rule/Clash/Game/Game_No_Resolve.yaml": "1dca0110a9c6cd2203826def62efad3f03af2217cf9410b54463f9e22f8d6da3"
+        "rule/Clash/Game/Game_No_Resolve.yaml": "dffc7e82c404124b80a4a8955da81a40ca0fdc793dd680ac74b5fbf4bcc3e954"
       }
     },
     "4ed7bfaf3304c0d7ae2a1d45c35fb9a092294b622e3c39175bc17135765288ed": {
@@ -5330,10 +5330,10 @@
     },
     "4f8c5f1935a7bc9bf5d441b93dad9beeacb62aa11b3e8b79185bc1f991d2a694": {
       "files": {
-        "rule/Clash/Apple/Apple.list": "97f7faf345fa8d269583d05533a631361fcdd49aceebceb7e38ba47633c09ab3"
+        "rule/Clash/Apple/Apple.list": "23ffd05d669e6281e387aff5453ba3ab0d83321a00c6eb1b8045e866bc66d7b1"
       },
       "post": {
-        "rule/Clash/Apple/Apple.list": "97f7faf345fa8d269583d05533a631361fcdd49aceebceb7e38ba47633c09ab3"
+        "rule/Clash/Apple/Apple.list": "23ffd05d669e6281e387aff5453ba3ab0d83321a00c6eb1b8045e866bc66d7b1"
       }
     },
     "4fb444d8871f62bd85284212335f1b545fb96b763a458886da622dacdae45a2b": {
@@ -5418,10 +5418,10 @@
     },
     "514aa4beada9d989199465510562c5f1f148ae6af15fb371a7a31c8c883e497c": {
       "files": {
-        "rule/Loon/TelegramNL/TelegramNL.list": "5f488aa92336982cc613d8f132a5178ac6e3420e6fb53fdee7aec4a2678bd86a"
+        "rule/Loon/TelegramNL/TelegramNL.list": "b70b8c866d8bc0edb38c51358ad70dbe1aa9c8b879db58200a1480c274faeb9a"
       },
       "post": {
-        "rule/Loon/TelegramNL/TelegramNL.list": "5f488aa92336982cc613d8f132a5178ac6e3420e6fb53fdee7aec4a2678bd86a"
+        "rule/Loon/TelegramNL/TelegramNL.list": "b70b8c866d8bc0edb38c51358ad70dbe1aa9c8b879db58200a1480c274faeb9a"
       }
     },
     "51575668c473a623a6951b9042405c38ce49177194a90ff60afe68df287cf44e": {
@@ -6402,10 +6402,10 @@
     },
     "5fbaa187929d0198c1174024fe3379a59a09eea9fcea53a321357de97d61c10f": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Domain.yaml": "dcd4e13dbd5ece93f95d7fa1b641703eed3e31971e3ef5ea61a172ee6dc89cc1"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Domain.yaml": "5365ece8f9e752cd7d3b80e2ffd27da3d64ccf7be2dbde2240b5f9784c2a7ffa"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Domain.yaml": "dcd4e13dbd5ece93f95d7fa1b641703eed3e31971e3ef5ea61a172ee6dc89cc1"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Domain.yaml": "5365ece8f9e752cd7d3b80e2ffd27da3d64ccf7be2dbde2240b5f9784c2a7ffa"
       }
     },
     "5fcb6760d6424c8a36e70b1f69007df1eea22eed00c5679179dd948945ab4481": {
@@ -6442,10 +6442,10 @@
     },
     "5fed1fe8fa3cd9bf5ca3cf3aa7ba0d4c3214e1664cbcd4ff069034416da4a522": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml": "23b96c48148f8f4c4e325ce3ea1efb860eefd32c1d49ff7a6ed6265915cace38"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml": "8ddb52218ac9b9522a92a72d425811a903d40eb54199f20033c3fc6b83831fb5"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml": "23b96c48148f8f4c4e325ce3ea1efb860eefd32c1d49ff7a6ed6265915cace38"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.yaml": "8ddb52218ac9b9522a92a72d425811a903d40eb54199f20033c3fc6b83831fb5"
       }
     },
     "600434aa6ae17baab355c837dadf4cbe1ea8aea6f498181af8aa27568247498a": {
@@ -6746,10 +6746,10 @@
     },
     "64c50d67b381243e0f5a1a50c89b1383a03e5f65d9895666b2500ee94c1d8a07": {
       "files": {
-        "rule/Clash/TikTok/TikTok.list": "7146b733ee239b6818d496aec1640cf1e962b39cda823388ce98d83761a6c885"
+        "rule/Clash/TikTok/TikTok.list": "ddf8e51eadb481849cd8146e7f1b55143c5bac1d3399f706445d5996c613085f"
       },
       "post": {
-        "rule/Clash/TikTok/TikTok.list": "7146b733ee239b6818d496aec1640cf1e962b39cda823388ce98d83761a6c885"
+        "rule/Clash/TikTok/TikTok.list": "ddf8e51eadb481849cd8146e7f1b55143c5bac1d3399f706445d5996c613085f"
       }
     },
     "6505e08afa7acbff8b5fccc38e77c50b6496df2b852878a722a4a5e2cf70564e": {
@@ -6938,10 +6938,10 @@
     },
     "67aa67ccf42d781907f3ab7c09a1ecd7dbdd1714ffac5017a7f55b0568354d3e": {
       "files": {
-        "rule/Clash/Blizzard/Blizzard.yaml": "53d5b1baae35960a8653d97c8ade456fb5a8136b44c1fbafb1ef9279b4a9f5fe"
+        "rule/Clash/Blizzard/Blizzard.yaml": "a6858f1053c95643e210d00e2913697703c8aec8df1af49580e406412fa8dc72"
       },
       "post": {
-        "rule/Clash/Blizzard/Blizzard.yaml": "53d5b1baae35960a8653d97c8ade456fb5a8136b44c1fbafb1ef9279b4a9f5fe"
+        "rule/Clash/Blizzard/Blizzard.yaml": "a6858f1053c95643e210d00e2913697703c8aec8df1af49580e406412fa8dc72"
       }
     },
     "67b26d3054597a68281d3bf9e4396bcb48bb7158379c3c366827473e8a5f9099": {
@@ -7002,10 +7002,10 @@
     },
     "68767ca5cde217a6f88bbf91b7238d05b51fb4edb69738cc1eeba02c7e27bfef": {
       "files": {
-        "rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride": "3b1645b6085ca94df2d341319c446d2d2e59fa7ccc8d8a90ea2985f0a7a6f2f4"
+        "rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride": "ef8b603c9060d14d3d31694b20ce7447db4b2642dfd933ff215045a696101162"
       },
       "post": {
-        "rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride": "3b1645b6085ca94df2d341319c446d2d2e59fa7ccc8d8a90ea2985f0a7a6f2f4"
+        "rewrite/Stash/AdvertisingLite/AdvertisingLite.stoverride": "ef8b603c9060d14d3d31694b20ce7447db4b2642dfd933ff215045a696101162"
       }
     },
     "689a16cd68228bd3efbb9b6d005ad2effe5b2b30672a3c638a3cb79437f40ed6": {
@@ -7018,10 +7018,10 @@
     },
     "68a792fbef98d03251b938f3573a33b6b2f66d151a50f068467535566096f9f7": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest.list": "32e91eb2bf94afde232d054cca872a38a4286c6952decef5dddb6b130de97593"
+        "rule/Clash/AdvertisingTest/AdvertisingTest.list": "b9a861605b4a4e58c7cd0f8b4b081094f9b247147a98ee12eaa7438be203afda"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest.list": "32e91eb2bf94afde232d054cca872a38a4286c6952decef5dddb6b130de97593"
+        "rule/Clash/AdvertisingTest/AdvertisingTest.list": "b9a861605b4a4e58c7cd0f8b4b081094f9b247147a98ee12eaa7438be203afda"
       }
     },
     "68b278c0200dc125ae8443ad6d8228a8c631e618d88ff2ffceeb90776dd0a937": {
@@ -7042,10 +7042,10 @@
     },
     "68b8a112acead9167cc32110787f80685f4e035bfe57cf812c40802e42833974": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI.list": "bf2e072559de25710f7b921eeabca510f35a9ff812b9b0751ecc82da2ef2f366"
+        "rule/Clash/OpenAI/OpenAI.list": "6cf1efebc937d6cb40a1c852291912cb4b997df16f02bebf336ac7bde8207efa"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI.list": "bf2e072559de25710f7b921eeabca510f35a9ff812b9b0751ecc82da2ef2f366"
+        "rule/Clash/OpenAI/OpenAI.list": "6cf1efebc937d6cb40a1c852291912cb4b997df16f02bebf336ac7bde8207efa"
       }
     },
     "68c7db76a496f23d5d96030d852e90191da7e9faf1802c5fdaa2ac39b267ba44": {
@@ -7106,10 +7106,10 @@
     },
     "69b5f86b428dc3edc8f8f3678876cddf8ab494fd033d432bdcd36670366dd678": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_Resolve.yaml": "659a682684dbc5018a1b3f74baeb151b8604c384b7643631b5f908a988c51508"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_Resolve.yaml": "093dff492a51151e870b6a58629be7cbe3c3a19b6f87445696e511037fa58f53"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_Resolve.yaml": "659a682684dbc5018a1b3f74baeb151b8604c384b7643631b5f908a988c51508"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_Classical_No_Resolve.yaml": "093dff492a51151e870b6a58629be7cbe3c3a19b6f87445696e511037fa58f53"
       }
     },
     "69d36e8c039512932ddb10b501c2806e80a90fac1210809480b75169851a7b97": {
@@ -7234,10 +7234,10 @@
     },
     "6c174e8832d8009c32cab743aaaf938e8e28844b0d1954df9bcd67213e09c356": {
       "files": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "b663aac11dc20b65593cb619672e91abfe088a06269f5282444494906c4d3147"
       },
       "post": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "b663aac11dc20b65593cb619672e91abfe088a06269f5282444494906c4d3147"
       }
     },
     "6c602a95fef0cfc161332308a22b4d5bebc6815fe7f6d68f6e98f9bc96832477": {
@@ -7338,10 +7338,10 @@
     },
     "6d5d205f6a8476188599762e0307c981ac7ef756bb932a091cad63904869192e": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP_No_IPv6.yaml": "28a851af0307d066e19b8649223afeff9e34b236c3c94e782573caa6d5e67de3"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP_No_IPv6.yaml": "f6ed5b8a4778918bc21e509ec9b14be319f7917d4ecf7f05734480627e9966e2"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP_No_IPv6.yaml": "28a851af0307d066e19b8649223afeff9e34b236c3c94e782573caa6d5e67de3"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest_IP_No_IPv6.yaml": "f6ed5b8a4778918bc21e509ec9b14be319f7917d4ecf7f05734480627e9966e2"
       }
     },
     "6d70afdb887839f7df159b4e70b96beaed3117f79e2e2a05ec47db953e9ea8c1": {
@@ -7410,10 +7410,10 @@
     },
     "6eb26e41e32ce8d3596c9204ca7b41bcd277061738b96566c7dadac017038398": {
       "files": {
-        "rule/Clash/Apple/Apple_Classical_No_Resolve.yaml": "cb8d442fb09799c75f3f46ec26a7aff114306c9a8c98ddfd2dbc314af257a2b4"
+        "rule/Clash/Apple/Apple_Classical_No_Resolve.yaml": "80de1a1a402455022658b97885b6024a65504f2f25e31a29880e06022b7cb1ec"
       },
       "post": {
-        "rule/Clash/Apple/Apple_Classical_No_Resolve.yaml": "cb8d442fb09799c75f3f46ec26a7aff114306c9a8c98ddfd2dbc314af257a2b4"
+        "rule/Clash/Apple/Apple_Classical_No_Resolve.yaml": "80de1a1a402455022658b97885b6024a65504f2f25e31a29880e06022b7cb1ec"
       }
     },
     "6eeaa9bf6fc3c048f0b2134cab0327de39dd225abfcdada4ce2aca9bdee1c2c1": {
@@ -7570,10 +7570,10 @@
     },
     "7174d917cfa4072a058757b22dd2f80d9ec561dcbb269762ddde989b2a27084f": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_No_Resolve.yaml": "f740f870320f83955e0155f01434f3aa0c2cec689568f6584406c331e81ee657"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_No_Resolve.yaml": "2813b260d10b310f736959467d582c238483064f9487a922fd51a428af1ff8e2"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_No_Resolve.yaml": "f740f870320f83955e0155f01434f3aa0c2cec689568f6584406c331e81ee657"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_No_Resolve.yaml": "2813b260d10b310f736959467d582c238483064f9487a922fd51a428af1ff8e2"
       }
     },
     "718518e1120f825b00535620fbbdfae1cc87319a3c5848d33e0400b16451ce46": {
@@ -7602,10 +7602,10 @@
     },
     "71d13121ef2acd08b0997a8aa39a75e01caee96670c5d8161ba32ed22da7cdb5": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": "c4c7d58c9b99e516093ca56aaa8ae411b38f1c3ad01597a785822ddc4621b689"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": "4dfeda2cb79fb48c959e857a7e699d26d7d23818d5013e8d7f18914147befacc"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": "c4c7d58c9b99e516093ca56aaa8ae411b38f1c3ad01597a785822ddc4621b689"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia.yaml": "4dfeda2cb79fb48c959e857a7e699d26d7d23818d5013e8d7f18914147befacc"
       }
     },
     "71d705d283b30bd89b5484b6660106ca765044df666ba732f31c5ea43e22e3a6": {
@@ -7834,10 +7834,10 @@
     },
     "748f444eb85b6d10fd6c1ce6071e7b047450c517cb8a3c53bb82886c26d401ef": {
       "files": {
-        "rule/Clash/ProxyLite/ProxyLite.yaml": "29ea6b74dcabc395e95b3bb0680ea622e5b9038b29afdc12662e8a611c222811"
+        "rule/Clash/ProxyLite/ProxyLite.yaml": "c0892db5e292a67092846a05023dbf432e1bc5e2598fc429714ddced4cd7dc7d"
       },
       "post": {
-        "rule/Clash/ProxyLite/ProxyLite.yaml": "29ea6b74dcabc395e95b3bb0680ea622e5b9038b29afdc12662e8a611c222811"
+        "rule/Clash/ProxyLite/ProxyLite.yaml": "c0892db5e292a67092846a05023dbf432e1bc5e2598fc429714ddced4cd7dc7d"
       }
     },
     "74bb7c54d656de1919c913f8e4408db3faad2687e86f8a8fe74cef7039d9084a": {
@@ -8170,10 +8170,10 @@
     },
     "79c5fddda22f7415c26a393901cf233f382c0661a1c3bd5e34f5c6da16cb5c0e": {
       "files": {
-        "rule/Clash/Lan/Lan.yaml": "8849caf69972ee648507a872bf6aff7efb7dd1f9988f29a26a506201408b40b0"
+        "rule/Clash/Lan/Lan.yaml": "1f5e514d59e58e004bf657d80a7f5d04205ed664f20ba2451c0a96ee4d78c413"
       },
       "post": {
-        "rule/Clash/Lan/Lan.yaml": "8849caf69972ee648507a872bf6aff7efb7dd1f9988f29a26a506201408b40b0"
+        "rule/Clash/Lan/Lan.yaml": "1f5e514d59e58e004bf657d80a7f5d04205ed664f20ba2451c0a96ee4d78c413"
       }
     },
     "7a0cbc014889bcc189fa9803b3a3425053916ef2f28639170d2eb00893b79eb5": {
@@ -8194,10 +8194,10 @@
     },
     "7a51ab103a267a6d4af65f192fa5ff5bfa4a1bea1d22157bb6dec499a3c7dad9": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml": "5a3b27d24056e6f831ae01f16ef285835f3ac6222e0d1c26bf1d37f61a7506c9"
+        "rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml": "bade14ba82d3ea3f98152a608c3f3fd19441f0a64f472250a36fd69ff6a4a942"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml": "5a3b27d24056e6f831ae01f16ef285835f3ac6222e0d1c26bf1d37f61a7506c9"
+        "rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml": "bade14ba82d3ea3f98152a608c3f3fd19441f0a64f472250a36fd69ff6a4a942"
       }
     },
     "7a54cc67f6c0d2696f1e31258b404f97b939111adb1d810e943f435a68d49080": {
@@ -8490,10 +8490,10 @@
     },
     "7f1162b68c6541284f7c6a501d4898495b70aaa949adf13c8610ffea193b8dfa": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical_No_Resolve.yaml": "f568bd659bedf9ec227973e28862c01f8b9918737720e670d51633a94f257491"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical_No_Resolve.yaml": "5b812e02216bacd3e7c6a63cb937224d2e8357b101eee150a6c5ba533924bb75"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical_No_Resolve.yaml": "f568bd659bedf9ec227973e28862c01f8b9918737720e670d51633a94f257491"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical_No_Resolve.yaml": "5b812e02216bacd3e7c6a63cb937224d2e8357b101eee150a6c5ba533924bb75"
       }
     },
     "7f198e9ee544f7b901f6e7d96a4a2563689aa79f610cecdc8bae68777bf66dbb": {
@@ -8546,10 +8546,10 @@
     },
     "7f612ffff9d02768e3abb78b74c128f90b97429ca73075c70b272e56c3b30559": {
       "files": {
-        "rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule": "1ca7347fe576e92f10527b3752d976abc47d80ce7273e142418ec1eb7d1026e0"
+        "rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule": "a246e3746f09b906e23be43e098ea3a086caafb85b5b43cad737d22b8c9dc0db"
       },
       "post": {
-        "rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule": "09285efdda0c95a32e4b0292ab9bef969f95bd3ab78ee608d5b76727c42aea0f"
+        "rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule": "c6c79a5eaa377da573044d8901623a6bfefa4909241de49060984542b3b481de"
       }
     },
     "7fa198a26af38d5435cc05c7e3189a4293a7ce82767ac20e27c8b48658cb4d67": {
@@ -8802,10 +8802,10 @@
     },
     "823fb322d2bc4b1c2ae52a84ba95879101a1e5232bd094732d6db2de369bd5e1": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_No_Resolve.yaml": "c4c7d58c9b99e516093ca56aaa8ae411b38f1c3ad01597a785822ddc4621b689"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_No_Resolve.yaml": "4dfeda2cb79fb48c959e857a7e699d26d7d23818d5013e8d7f18914147befacc"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_No_Resolve.yaml": "c4c7d58c9b99e516093ca56aaa8ae411b38f1c3ad01597a785822ddc4621b689"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_No_Resolve.yaml": "4dfeda2cb79fb48c959e857a7e699d26d7d23818d5013e8d7f18914147befacc"
       }
     },
     "824808c5d2543bd95c5b5d9e253c56cc89bb2ed01b3a852cfe9cff93e6379e75": {
@@ -8834,10 +8834,10 @@
     },
     "827c12d4376da35b2a25dd9dba03c69c8bfbf35627c3d9d5d7503cdebf0df20e": {
       "files": {
-        "rule/Clash/Advertising/Advertising_Classical_No_Resolve.yaml": "ce708e02abd65830383f7c81e0ca6297cdf63cadaed7965b4efcf351700956f0"
+        "rule/Clash/Advertising/Advertising_Classical_No_Resolve.yaml": "2ad62de8a453c2b9e56283745c127daf619fb558abc87553ea910b02e33c13f7"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising_Classical_No_Resolve.yaml": "ce708e02abd65830383f7c81e0ca6297cdf63cadaed7965b4efcf351700956f0"
+        "rule/Clash/Advertising/Advertising_Classical_No_Resolve.yaml": "2ad62de8a453c2b9e56283745c127daf619fb558abc87553ea910b02e33c13f7"
       }
     },
     "828640b99a140a67be0e97ce3de20ba07f0351cfefbfbee5b5c35f38a607cab1": {
@@ -9170,10 +9170,10 @@
     },
     "8766f3cbc88d6cb915696b4ffbe40966a918dc7e00226c1dc5df701feaaba3ff": {
       "files": {
-        "rule/Clash/Blizzard/Blizzard.list": "04599dc4767187ce81d6e57b6e41e18261fc862afa6f0842a510db67b18d9864"
+        "rule/Clash/Blizzard/Blizzard.list": "0ccab4f1bb94504abc671f4c901cbccf3a8e4f871c1f8d30b785c87c7a58b446"
       },
       "post": {
-        "rule/Clash/Blizzard/Blizzard.list": "04599dc4767187ce81d6e57b6e41e18261fc862afa6f0842a510db67b18d9864"
+        "rule/Clash/Blizzard/Blizzard.list": "0ccab4f1bb94504abc671f4c901cbccf3a8e4f871c1f8d30b785c87c7a58b446"
       }
     },
     "879cc70d0ff787be1287048c7b188b77578f42c9dc863805b00266dd99a3f9c1": {
@@ -9514,18 +9514,18 @@
     },
     "8bf491cfd975c014c009850aa7009a83cfcc731c32df2988a4498407d2246c28": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml": "6814137bfe418af7fa27e919f9259419cfc24da56355f8c24eb39540ab52efc9"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml": "e21dd2c04c4124a414e310926ad8ac219977b5c5a93a13057b9a9d1cf7603572"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml": "6814137bfe418af7fa27e919f9259419cfc24da56355f8c24eb39540ab52efc9"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical.yaml": "e21dd2c04c4124a414e310926ad8ac219977b5c5a93a13057b9a9d1cf7603572"
       }
     },
     "8c1eb459eafa25dc06b420a45eab23050fd682dd406ce920adee6a4f0b9d2ece": {
       "files": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "b663aac11dc20b65593cb619672e91abfe088a06269f5282444494906c4d3147"
       },
       "post": {
-        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d95fe43d98974b34dc2c8a0319558d772895d0109b19522b187bb7a9f499b9f3"
+        "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "d90bb4ce6aa3b114e09f828375453bfe3ee038529af9e56307b61bd302a2cacd"
       }
     },
     "8c39a201f9013d77c6d38369763935fcfdc94220cb61852b56bf75b0bdda37cb": {
@@ -9554,10 +9554,10 @@
     },
     "8cd4777c6a5fbd1c0b62c0a8b522828678337101075a847c11c6afcdb3c2efcc": {
       "files": {
-        "rule/Clash/Lan/Lan.list": "4defb821f8900e6a2c3b1e1b8d12fefc8cfc190f9e6f5cdd5219eda8ed304532"
+        "rule/Clash/Lan/Lan.list": "65decf7849f37cbc66cff8e1155ea1d6344c748c6ead772db2f9e9c7e6a1d546"
       },
       "post": {
-        "rule/Clash/Lan/Lan.list": "4defb821f8900e6a2c3b1e1b8d12fefc8cfc190f9e6f5cdd5219eda8ed304532"
+        "rule/Clash/Lan/Lan.list": "65decf7849f37cbc66cff8e1155ea1d6344c748c6ead772db2f9e9c7e6a1d546"
       }
     },
     "8cd90f4b844637a116dadbf95972ad213925a9eca243b63514897ae7ac0a5c94": {
@@ -9826,10 +9826,10 @@
     },
     "9260a9e211c4ed986aa50463c050998a046974de22bc32c0e462b3b1c36b0fd3": {
       "files": {
-        "rule/Clash/TikTok/TikTok.yaml": "c93113e0f7d84302868ae8a1a7bfd024dbc03e54c5953f5439d20ca9c04005b7"
+        "rule/Clash/TikTok/TikTok.yaml": "71c372b476ff9b641bb619b74c1192dd1b831c374bcd8cd0ae8fa34374c9fff2"
       },
       "post": {
-        "rule/Clash/TikTok/TikTok.yaml": "c93113e0f7d84302868ae8a1a7bfd024dbc03e54c5953f5439d20ca9c04005b7"
+        "rule/Clash/TikTok/TikTok.yaml": "71c372b476ff9b641bb619b74c1192dd1b831c374bcd8cd0ae8fa34374c9fff2"
       }
     },
     "9260f4dc4e75f50066fde2d12b86038fcff0ff9e29fa3689f5c3e756af9dcaf4": {
@@ -10026,10 +10026,10 @@
     },
     "94f4d349b8037908f6167d0c46dcbb6009095ca5f316d68db8effa795c379a7c": {
       "files": {
-        "rule/Clash/Proxy/Proxy_Classical.yaml": "7f8b4a0424357356c5f5b07f58f7ba5f4b263d90b05dc144d06ebed829897acd"
+        "rule/Clash/Proxy/Proxy_Classical.yaml": "656153887fa693031a6d9e1586bbef99de907e1a3f2a3c6be8705d3f992b8a94"
       },
       "post": {
-        "rule/Clash/Proxy/Proxy_Classical.yaml": "7f8b4a0424357356c5f5b07f58f7ba5f4b263d90b05dc144d06ebed829897acd"
+        "rule/Clash/Proxy/Proxy_Classical.yaml": "656153887fa693031a6d9e1586bbef99de907e1a3f2a3c6be8705d3f992b8a94"
       }
     },
     "951092fccb643caf39f7730c3e0ef7176f09e0dbcf382c672f4fb4441d772485": {
@@ -10058,10 +10058,10 @@
     },
     "9557c99be108605b48b1ee2a328baa816543f0937cf9b18b5e9d74ba63218650": {
       "files": {
-        "rule/Clash/Steam/Steam.list": "35826051b8797c7636210389fafadea23a16af51378feee20ededbb652b43332"
+        "rule/Clash/Steam/Steam.list": "290ebccc4be56defc7d36f85d8c9777101548a4f2147ca29fe50b794c6a8dec7"
       },
       "post": {
-        "rule/Clash/Steam/Steam.list": "35826051b8797c7636210389fafadea23a16af51378feee20ededbb652b43332"
+        "rule/Clash/Steam/Steam.list": "290ebccc4be56defc7d36f85d8c9777101548a4f2147ca29fe50b794c6a8dec7"
       }
     },
     "959f6fecba9c0aa24256e8fe4ba17d2a9fbeb9bab430689d1f3b16a0ef6d9682": {
@@ -10186,18 +10186,18 @@
     },
     "97bc3239b38b0cfe1154589d552255873fbcbe86d9411aa71dacddbe35d96d70": {
       "files": {
-        "rule/Clash/Telegram/Telegram.yaml": "28f72554decb60cda9a38bceb09e6e2ffb0d256e611ab967053c89211ab26d3c"
+        "rule/Clash/Telegram/Telegram.yaml": "f2c668dc7e131376ee70e39974adf1590bbe4768dd1b56bed6b49569f278e98c"
       },
       "post": {
-        "rule/Clash/Telegram/Telegram.yaml": "28f72554decb60cda9a38bceb09e6e2ffb0d256e611ab967053c89211ab26d3c"
+        "rule/Clash/Telegram/Telegram.yaml": "f2c668dc7e131376ee70e39974adf1590bbe4768dd1b56bed6b49569f278e98c"
       }
     },
     "97d32c3b157c44c8013dea7b3c8997fca984fb6f6833913d6b608d2b769e8b9a": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest_No_Resolve.yaml": "fb3bdbec5541f6356e9204157567888bd9c9300e405aa26ddd81968f5097c053"
+        "rule/Clash/ChinaTest/ChinaTest_No_Resolve.yaml": "9a3cbd6267ec2ba356a542779b455c8d638748e84690cec81b380370b3c61661"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest_No_Resolve.yaml": "fb3bdbec5541f6356e9204157567888bd9c9300e405aa26ddd81968f5097c053"
+        "rule/Clash/ChinaTest/ChinaTest_No_Resolve.yaml": "9a3cbd6267ec2ba356a542779b455c8d638748e84690cec81b380370b3c61661"
       }
     },
     "984731f13bb3b070d1ad6d8fd6c01c2ff27e0e34014ba9fe066aec4c1a83b80d": {
@@ -10250,10 +10250,10 @@
     },
     "99176d3210623db4658d9c68dcdf0f1caff3ae5aaaa26834ead01e9a2396e916": {
       "files": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "e127e65b4be5cd873d6b1ec8a3f2e778b94cca4336281c7cf28dadcb30c57033"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "ba7eb5940d5155c6a58bd4789ea70c62b62946829574a4a9dd2e875e6a6343a5"
       },
       "post": {
-        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "4209e278ebcce1611fbe62390933712fe5597325a1785e30bb31634a2c619e52"
+        "rewrite/Loon/AdvertisingLite/AdvertisingLite.plugin": "29df468f34f5e92e85675d6b6d034c2da7d17e4ab0d0acdb1b5fa71ecaf48ae9"
       }
     },
     "991956f2bd204860f60bc3eda2ab30d16a3eaf954b84075cdc0cae0406c2b7b2": {
@@ -10378,10 +10378,10 @@
     },
     "9b64a6dfd384ed4f11df2f3c716db480a8ce34ccb36fb982a6a2f48fce7eee0a": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_IP.yaml": "be86dde61413685fc338a236dab1dfd045f683eaf684b17b6a1bf6349822b83e"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_IP.yaml": "107774a9f42967d2f726a37955aeb06fff661ca044e7d3985447a016d991ba4c"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_IP.yaml": "be86dde61413685fc338a236dab1dfd045f683eaf684b17b6a1bf6349822b83e"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_IP.yaml": "107774a9f42967d2f726a37955aeb06fff661ca044e7d3985447a016d991ba4c"
       }
     },
     "9b6f3e525c73049ae1f2db4c72ff8fae9532a672aad134c566c5174c3b06ef2d": {
@@ -10402,10 +10402,10 @@
     },
     "9ba9d4e6d347ebc0856e104a895ce73198e2597e6dedf91b73ca67fe973545bb": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest_Classical_No_Resolve.yaml": "10c70686b0eedf36e92e43ebb9592be8b22efab17f21649e3639e33e699efbda"
+        "rule/Clash/ChinaTest/ChinaTest_Classical_No_Resolve.yaml": "dd25973a9a35f6033f85f914e36e1fb855c975e2d85ba420792d3e2604338315"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest_Classical_No_Resolve.yaml": "10c70686b0eedf36e92e43ebb9592be8b22efab17f21649e3639e33e699efbda"
+        "rule/Clash/ChinaTest/ChinaTest_Classical_No_Resolve.yaml": "dd25973a9a35f6033f85f914e36e1fb855c975e2d85ba420792d3e2604338315"
       }
     },
     "9bbffb4588b748bc6a3c0c0b18b1e62825b9594ebb7612ff5d451a159f77f2a3": {
@@ -10514,10 +10514,10 @@
     },
     "9d1c2bc81b66d5fdbc6da9c681c488870b86cb0d96e3e8718b4531feba677749": {
       "files": {
-        "rule/Clash/Advertising/Advertising_Classical.yaml": "bb0e4b3092bdf4a6d78ca61932208088278127138960d50ee58dbe7bba705c67"
+        "rule/Clash/Advertising/Advertising_Classical.yaml": "486be477a8bb0196afc2d2ea18a9e4ebd9edfee822ce1ed694d1f8bd82c53f62"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising_Classical.yaml": "bb0e4b3092bdf4a6d78ca61932208088278127138960d50ee58dbe7bba705c67"
+        "rule/Clash/Advertising/Advertising_Classical.yaml": "486be477a8bb0196afc2d2ea18a9e4ebd9edfee822ce1ed694d1f8bd82c53f62"
       }
     },
     "9d227a7fcda7bde69fac262347837cf7f5e98f1d2f245b8a5b087f954f3cdcc9": {
@@ -10610,10 +10610,10 @@
     },
     "9e09af3f7a4516955a267a56296452f3345a8c9240662007656642c71ca3865d": {
       "files": {
-        "rewrite/Shadowrocket/AdvertisingLite/AdvertisingLite.sgmodule": "25ae33f37e6a2a3d1ef0efd8fa10989b8f4ccca7057206537504028d2e53f1b1"
+        "rewrite/Shadowrocket/AdvertisingLite/AdvertisingLite.sgmodule": "79189c519faa9ec9b47fa2bbb4e5d81b3ef54093a1dae22d92ef6c7ac5bbf558"
       },
       "post": {
-        "rewrite/Shadowrocket/AdvertisingLite/AdvertisingLite.sgmodule": "c34eb22b404136eb028d91508cd89dca7a323dd8f8dd32b292566640403f536e"
+        "rewrite/Shadowrocket/AdvertisingLite/AdvertisingLite.sgmodule": "9d440b32ef18fec6a3cd8828e5bb69edc62cc47297716a0d523db0dfdf7be276"
       }
     },
     "9e521cc65a3b8504ad555daba8d3e312dd2aa66e3b806dc3d6945b057897976a": {
@@ -10658,10 +10658,10 @@
     },
     "9ecfe4aa3a21b973210fe88f490691a371a07c66a7ad0d2fe505c82d0b2aa0b9": {
       "files": {
-        "rule/Clash/Apple/Apple_Domain.yaml": "b6bc0b1f371115a4a1139cfbd50a49db9fd74bfde7e056c02697fb5ce2012168"
+        "rule/Clash/Apple/Apple_Domain.yaml": "f07372bdefbf84855e80af5656e8a3b675693107f6620d0cca0db87796e5fea1"
       },
       "post": {
-        "rule/Clash/Apple/Apple_Domain.yaml": "b6bc0b1f371115a4a1139cfbd50a49db9fd74bfde7e056c02697fb5ce2012168"
+        "rule/Clash/Apple/Apple_Domain.yaml": "f07372bdefbf84855e80af5656e8a3b675693107f6620d0cca0db87796e5fea1"
       }
     },
     "9ee90875ccefb336babac92ceb83950f710be5e2864f3e272732b1cab1aff59e": {
@@ -10922,10 +10922,10 @@
     },
     "a29136f9ba19fbcb46c122f6d07dba22828fc99c9cfc066ef19d410ea75ba93a": {
       "files": {
-        "rule/Loon/TelegramUS/TelegramUS.list": "bcdb5332998582f001294994979dbab323e5bc6a7770f2267124d2acd6273a1d"
+        "rule/Loon/TelegramUS/TelegramUS.list": "6d98b9dbb1e05f92570d3755e01bf221aa20cdc37b15637d24c1ac6b32ae19ba"
       },
       "post": {
-        "rule/Loon/TelegramUS/TelegramUS.list": "bcdb5332998582f001294994979dbab323e5bc6a7770f2267124d2acd6273a1d"
+        "rule/Loon/TelegramUS/TelegramUS.list": "6d98b9dbb1e05f92570d3755e01bf221aa20cdc37b15637d24c1ac6b32ae19ba"
       }
     },
     "a2cff1ca0efb4014af53b6a0cffaf2e137167b16cfb68f808d33244aef914265": {
@@ -11170,10 +11170,10 @@
     },
     "a584bc0f5ba6c098166b013c3e80b40290eaf3d1784009a9fc4c332cbc764c44": {
       "files": {
-        "rule/Clash/Telegram/Telegram_No_Resolve.yaml": "c5ffedec332011ca08337b5c3df2dc0b54f4ca986a3fa5e49d0b498ea4ba562a"
+        "rule/Clash/Telegram/Telegram_No_Resolve.yaml": "132981fcc54031d7a4afc10c8126e2521f6eb73156be787c0899e121a7e36234"
       },
       "post": {
-        "rule/Clash/Telegram/Telegram_No_Resolve.yaml": "c5ffedec332011ca08337b5c3df2dc0b54f4ca986a3fa5e49d0b498ea4ba562a"
+        "rule/Clash/Telegram/Telegram_No_Resolve.yaml": "132981fcc54031d7a4afc10c8126e2521f6eb73156be787c0899e121a7e36234"
       }
     },
     "a5b661c1f5cbd7305993b731ad51dc4006961a143c14507c17fd66cc85e5d1de": {
@@ -11442,18 +11442,18 @@
     },
     "a94247ab56e33ca097626ecc4cef8c99bc08e6cacc9b1da817323b1ae130c470": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest.yaml": "5287be39457b13d458d893f768720d088a1b23a688e34e666d3509de441704a2"
+        "rule/Clash/ChinaTest/ChinaTest.yaml": "4a28a368c3dcf147f93c3a7f0287c8d1f61b370d02735fd9d4dc1e290e41de63"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest.yaml": "5287be39457b13d458d893f768720d088a1b23a688e34e666d3509de441704a2"
+        "rule/Clash/ChinaTest/ChinaTest.yaml": "4a28a368c3dcf147f93c3a7f0287c8d1f61b370d02735fd9d4dc1e290e41de63"
       }
     },
     "a962c4bf29c4c1b77d4c005aa68d2ccd96af6c009f9b3ce2286c12d9d5134576": {
       "files": {
-        "rule/Clash/Steam/Steam_No_Resolve.yaml": "585e423c866bb020421a79dd2842f279b56ef94bf487fbee13354796958dcad6"
+        "rule/Clash/Steam/Steam_No_Resolve.yaml": "705def9e488dc7823e0f4ffae69b3c58b7f79970cb86554ab3f856862fd5d692"
       },
       "post": {
-        "rule/Clash/Steam/Steam_No_Resolve.yaml": "585e423c866bb020421a79dd2842f279b56ef94bf487fbee13354796958dcad6"
+        "rule/Clash/Steam/Steam_No_Resolve.yaml": "705def9e488dc7823e0f4ffae69b3c58b7f79970cb86554ab3f856862fd5d692"
       }
     },
     "a96e96917fb8467e36b1a31df18b6aadeb1540631e0f5d37c1c880ed7ccb2831": {
@@ -11498,10 +11498,10 @@
     },
     "aaa6512e19f5964abd89ca32143a2defa1ae5a583ae4c4bd5a08b204cefeac8f": {
       "files": {
-        "rule/Clash/ProxyLite/ProxyLite.list": "4149a96a66ea4c62c6d3e37b901ef5a759b345bb3d49e240d240925d2587004e"
+        "rule/Clash/ProxyLite/ProxyLite.list": "c82fb568f2a215831a8b37c608237eac545d161eb9b1cf90f7018c6c75be97e7"
       },
       "post": {
-        "rule/Clash/ProxyLite/ProxyLite.list": "4149a96a66ea4c62c6d3e37b901ef5a759b345bb3d49e240d240925d2587004e"
+        "rule/Clash/ProxyLite/ProxyLite.list": "c82fb568f2a215831a8b37c608237eac545d161eb9b1cf90f7018c6c75be97e7"
       }
     },
     "aac67c9726daca40939280605a841220f958d61b19d008d77e16153d12f63521": {
@@ -11634,10 +11634,10 @@
     },
     "adb18b537e181df6c27cbd5850a6c235f4509fc8a254d9b08dff7c30f41a9964": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml": "0e4a4292ebc8869d334e1779b62a9c50d6bc355509fafd62f14fbf789b8dfe22"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml": "2dda4afb4a3d1849adf307a20727f6dbc07fd8ca6cf8a7276ddb77a3b1e1d3aa"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml": "0e4a4292ebc8869d334e1779b62a9c50d6bc355509fafd62f14fbf789b8dfe22"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6.yaml": "2dda4afb4a3d1849adf307a20727f6dbc07fd8ca6cf8a7276ddb77a3b1e1d3aa"
       }
     },
     "ade5d4c028b86caf7ea3065d0b5fccc51659e86f4da1a31c7a403d937ed0be36": {
@@ -11706,10 +11706,10 @@
     },
     "aea6a3ea95b90c77c0e497cc4663ffd2ddcba54cb75a9dbcaec28f62903415b0": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_Resolve.yaml": "0013f6b509ee2513ceea066970091776bc4bee2b8ae88dd6e0b03ecc776d5430"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_Resolve.yaml": "ad5ce549df9afac2748323319051400ee1728d3b6f4d65cac3fb152ca2e7d024"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_Resolve.yaml": "0013f6b509ee2513ceea066970091776bc4bee2b8ae88dd6e0b03ecc776d5430"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_Resolve.yaml": "ad5ce549df9afac2748323319051400ee1728d3b6f4d65cac3fb152ca2e7d024"
       }
     },
     "aed99991777977a0deb0b4737e9bff42e64bca059683396f065b75ecbfa0ad46": {
@@ -11834,10 +11834,10 @@
     },
     "b11edaa14a6aea779df5600cb557986e5ef917fa5cacbbda1b9c9928b7ec8e6b": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_Resolve.yaml": "57a4c5533d9dc991f06d699e891450d7995f15b44d5fd94aad03648edbc21a2a"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_Resolve.yaml": "0d073cb63593faaed2e791834aeacb908c7d783ed2f8daf0d44ff486b795b8c8"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_Resolve.yaml": "57a4c5533d9dc991f06d699e891450d7995f15b44d5fd94aad03648edbc21a2a"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_Resolve.yaml": "0d073cb63593faaed2e791834aeacb908c7d783ed2f8daf0d44ff486b795b8c8"
       }
     },
     "b14e5d60c76fa1ca20d370f8fcdf306006c1e26155dc65199b58a4322aef1923": {
@@ -11962,10 +11962,10 @@
     },
     "b36119b8e12fd89bb2969d1a672457594006af03e76dd4744f227f6736f37b4a": {
       "files": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical.yaml": "18c71f249635161b12e5c9ff61777c2f86b28f1b3f09cb0a23baf74f034afbd9"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical.yaml": "97765d9d990340bde408c330aa9b53a7068afbd496285082b8d360e10176bc78"
       },
       "post": {
-        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical.yaml": "18c71f249635161b12e5c9ff61777c2f86b28f1b3f09cb0a23baf74f034afbd9"
+        "rule/Clash/AdvertisingTest/AdvertisingTest_Classical.yaml": "97765d9d990340bde408c330aa9b53a7068afbd496285082b8d360e10176bc78"
       }
     },
     "b36787c5ad35c690a4f9c0312a9786bf825a232959f2b379d5109302a2b8abdf": {
@@ -12042,10 +12042,10 @@
     },
     "b4636793006cb987fecadb8377f067a9ee79c92be1070cd2c403a9591879faa7": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "0d5cdd1951477948aa42c9272a60f8d887e946bdb4cef4f5597fa33bef88a842"
+        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "1ab83c4b36a3951bc37f97cd102942c92533c24c34cd1b786b70b95d110fb9fd"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "0d5cdd1951477948aa42c9272a60f8d887e946bdb4cef4f5597fa33bef88a842"
+        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "1ab83c4b36a3951bc37f97cd102942c92533c24c34cd1b786b70b95d110fb9fd"
       }
     },
     "b4a2224058e0d91381dadc71e4938247b6f54185c915a3d3d8da82827d420868": {
@@ -12058,10 +12058,10 @@
     },
     "b4a28a2aaca838bac8c4a9dd8402297c0eff013f2c42f726151ce231605ff755": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "ae5799199cef9b59b3918bc9ea2cb564a260a434a139adb53b9ae963b3bd7f1e"
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "fb067f6822debe787b9d1acff5e157292a693b995be49e62b40088b074583dbe"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "ae5799199cef9b59b3918bc9ea2cb564a260a434a139adb53b9ae963b3bd7f1e"
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "fb067f6822debe787b9d1acff5e157292a693b995be49e62b40088b074583dbe"
       }
     },
     "b4b1931386bc044d9efd235f5c0a066a4e6f9c86dff6af76045c37228eec70fd": {
@@ -12090,10 +12090,10 @@
     },
     "b4e0b9659313487082b6eb14c42df1759f84a245267d9f97f68ff6b1ebc300ff": {
       "files": {
-        "rule/Clash/Apple/Apple_Classical.yaml": "92bc3e53f5f01d70d1a58fe57d1883bea60466856235f91ee857fc993c839189"
+        "rule/Clash/Apple/Apple_Classical.yaml": "635fa6c279ba3616e82a0334818fdeac99ac46c8d1a309490aefcce438cb6ea6"
       },
       "post": {
-        "rule/Clash/Apple/Apple_Classical.yaml": "92bc3e53f5f01d70d1a58fe57d1883bea60466856235f91ee857fc993c839189"
+        "rule/Clash/Apple/Apple_Classical.yaml": "635fa6c279ba3616e82a0334818fdeac99ac46c8d1a309490aefcce438cb6ea6"
       }
     },
     "b507de10d648064da980aa3d14c80c7e7d373411e3ab6de6b68ae1913d31db5d": {
@@ -12282,10 +12282,10 @@
     },
     "b877ed03097e08b79922725fb151fc29e7bef4d3460a3a8a1b7bc3be6d40b458": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "0d5cdd1951477948aa42c9272a60f8d887e946bdb4cef4f5597fa33bef88a842"
+        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "1ab83c4b36a3951bc37f97cd102942c92533c24c34cd1b786b70b95d110fb9fd"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "0d5cdd1951477948aa42c9272a60f8d887e946bdb4cef4f5597fa33bef88a842"
+        "rule/Clash/ChinaMax/ChinaMax_Classical.yaml": "1ab83c4b36a3951bc37f97cd102942c92533c24c34cd1b786b70b95d110fb9fd"
       }
     },
     "b8ab3f0686c973e73d67f452d8bdef56e2b54f18c9f52622044bcd159478d726": {
@@ -12322,10 +12322,10 @@
     },
     "b8d8fcce389181ba49eabde409e7abeac70ccfaebc5297cb57ff5b22ecd47053": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6.yaml": "39144e759cc73783851e2e11bcb6d3757816d7606c97527d017592b249630fa7"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6.yaml": "5aece18c5c9876076aa9d289ab7a44bf66064298d1a93aee848b072f34aa0170"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6.yaml": "39144e759cc73783851e2e11bcb6d3757816d7606c97527d017592b249630fa7"
+        "rule/Clash/ChinaIPs/ChinaIPs_Classical_No_IPv6.yaml": "5aece18c5c9876076aa9d289ab7a44bf66064298d1a93aee848b072f34aa0170"
       }
     },
     "b8e408b9000cb1a36d5e1d6fcbc1695cd171eb4dcfad72dfc3a85cf6b7783282": {
@@ -12450,10 +12450,10 @@
     },
     "baf1cc5858f64b006b2f0bcdf0ec238c3f9786602da7977e260b3a4c49604adf": {
       "files": {
-        "rule/Clash/ChinaTest/ChinaTest.list": "d12d759798fed819198a0009c0fab83ed2a9b06610d135b8488697c454bd1dee"
+        "rule/Clash/ChinaTest/ChinaTest.list": "0c9581dc9f682144994c5d5bad796c673bbaa40dce00a08a547fc193dd08747a"
       },
       "post": {
-        "rule/Clash/ChinaTest/ChinaTest.list": "d12d759798fed819198a0009c0fab83ed2a9b06610d135b8488697c454bd1dee"
+        "rule/Clash/ChinaTest/ChinaTest.list": "0c9581dc9f682144994c5d5bad796c673bbaa40dce00a08a547fc193dd08747a"
       }
     },
     "bafe2bd9d53e3ba129243ffd28651888f1e6fe74eeb46956666923e91ae26de2": {
@@ -12474,10 +12474,10 @@
     },
     "bb58f599de910f736cbe250eaa723b2d9a46051540f3bd35c24ff3568d183748": {
       "files": {
-        "rule/Clash/Apple/Apple_No_Resolve.yaml": "78e2d6d8181a742aca80fd7d784b1e57eb2ffe192f4bdc6e89dfbb015b94796b"
+        "rule/Clash/Apple/Apple_No_Resolve.yaml": "05db9b9d21f18d6f1156c25522b39d90b56a9afbfcd20c292616e91b524163f1"
       },
       "post": {
-        "rule/Clash/Apple/Apple_No_Resolve.yaml": "78e2d6d8181a742aca80fd7d784b1e57eb2ffe192f4bdc6e89dfbb015b94796b"
+        "rule/Clash/Apple/Apple_No_Resolve.yaml": "05db9b9d21f18d6f1156c25522b39d90b56a9afbfcd20c292616e91b524163f1"
       }
     },
     "bb80db5312108b615fd89be59b55a79102da005691a19a7d57fdd17d3001770c": {
@@ -12682,10 +12682,10 @@
     },
     "be007664b15c7732dee2069fd0c7b6ecef28d0217226b575f96f8b832409a773": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs_IP_No_IPv6.yaml": "c87322eaa3542b33a3df7b4323de09f13a8a30f4eda208bcd530c982f4eba701"
+        "rule/Clash/ChinaIPs/ChinaIPs_IP_No_IPv6.yaml": "469790b3446ad0a05e42af447d5a2aa86a5a3a6bb91596706b52006e6823b51a"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs_IP_No_IPv6.yaml": "c87322eaa3542b33a3df7b4323de09f13a8a30f4eda208bcd530c982f4eba701"
+        "rule/Clash/ChinaIPs/ChinaIPs_IP_No_IPv6.yaml": "469790b3446ad0a05e42af447d5a2aa86a5a3a6bb91596706b52006e6823b51a"
       }
     },
     "be1c17f535a59597e9990c5d26454002043fec3296fc4e4955a7453621d47b01": {
@@ -12762,10 +12762,10 @@
     },
     "bf062094f77f3ed7ea2cdd52a188cbda392927dcb50e6b546c90096b608967a8": {
       "files": {
-        "rule/Clash/Facebook/Facebook.yaml": "7719b67b176d46d1fc416bfe9393a1be9980e4f7883bac6cff0be51288a6394b"
+        "rule/Clash/Facebook/Facebook.yaml": "1fe0d1a7da0a21cc5800435126668cafb1bfe2417452042908b276581d2cfb1e"
       },
       "post": {
-        "rule/Clash/Facebook/Facebook.yaml": "7719b67b176d46d1fc416bfe9393a1be9980e4f7883bac6cff0be51288a6394b"
+        "rule/Clash/Facebook/Facebook.yaml": "1fe0d1a7da0a21cc5800435126668cafb1bfe2417452042908b276581d2cfb1e"
       }
     },
     "bf32a97eee2c8bf406dc5d1bb68f4101972e216c6c248101c6e24d788daeb1e8": {
@@ -12802,10 +12802,10 @@
     },
     "bf7cdb6c001833f8f32cf2b4a78b2afa4c324bca791645d904bef776e6c22e08": {
       "files": {
-        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "b6f4c852116e7eaf1213a7c29a33129598fed660c385832bb7dd197f7f50a1e7"
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "dc39026e399eebe8f4f3912bd79e5225b2c268e4fc4eed1cf5a09d71ad1252d3"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "b6f4c852116e7eaf1213a7c29a33129598fed660c385832bb7dd197f7f50a1e7"
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "dc39026e399eebe8f4f3912bd79e5225b2c268e4fc4eed1cf5a09d71ad1252d3"
       }
     },
     "bf80cdb4de2a9a2b39352c97d3ccc44634ec1e92659d443d26ff2f77b8457c48": {
@@ -13634,10 +13634,10 @@
     },
     "cca0b03de3eb5777b05030152d9568701cb8bb2380cc007a5fc541f180f62fd9": {
       "files": {
-        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "161dd8873797a9b388929a168fee3d4f8e925a18736adc84d2262e64a50d2558"
+        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "47981ae4b52069201a0aa782a119636ebfc337b5166958a51be9088c2ae1cbb4"
       },
       "post": {
-        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "161dd8873797a9b388929a168fee3d4f8e925a18736adc84d2262e64a50d2558"
+        "rule/Surge/GlobalMedia/GlobalMedia_All_No_Resolve.list": "050ab33fc2e775eb618c34a5daf5adc5d3b52645ccd88de10dbea70e54eb5021"
       }
     },
     "cca3088cfd598ccfcff30902993969e24d8cb0f42ef827e02b12b0e68c047351": {
@@ -13658,10 +13658,10 @@
     },
     "ccf7e326cc06ae91f0bdeb9288a3f9d5e93476cec48551be9bf3864e3bf458a1": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical_No_Resolve.yaml": "f3123f43dd62c4ca3e62a982839d74973d095f2329551af193accc59265f9e31"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical_No_Resolve.yaml": "155380c5b11f9c76809595069185d781a2ce9512cd6983ebdb3f064a9661a4fc"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical_No_Resolve.yaml": "f3123f43dd62c4ca3e62a982839d74973d095f2329551af193accc59265f9e31"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical_No_Resolve.yaml": "155380c5b11f9c76809595069185d781a2ce9512cd6983ebdb3f064a9661a4fc"
       }
     },
     "cd1cece18b0728aae110a38a6a5b1f01e1d1ebb2a3eb58ec57ee742315f55e9f": {
@@ -13818,10 +13818,10 @@
     },
     "cf58a727b87ca0130d7445043daf4d3a594c3e9d3c64b925b8171be0ef281623": {
       "files": {
-        "rule/Clash/Steam/Steam.yaml": "585e423c866bb020421a79dd2842f279b56ef94bf487fbee13354796958dcad6"
+        "rule/Clash/Steam/Steam.yaml": "5b5096fafff8bc3c77560590d095ebfccefe708d47ea04fc36d1b052a7e4dd5f"
       },
       "post": {
-        "rule/Clash/Steam/Steam.yaml": "585e423c866bb020421a79dd2842f279b56ef94bf487fbee13354796958dcad6"
+        "rule/Clash/Steam/Steam.yaml": "5b5096fafff8bc3c77560590d095ebfccefe708d47ea04fc36d1b052a7e4dd5f"
       }
     },
     "cf774f8a1229494d7ea484ab3bdb9fde6bac6bf150df0648f3d2f068371fa66c": {
@@ -13898,10 +13898,10 @@
     },
     "d0e7b0e99995ed2cc2db4a1b233801091e88105a22d7d4b1471408c418f36ba1": {
       "files": {
-        "rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule": "fa071fe0183c26810bdca812fd3b26063df33f5847df5980faad88510195cfe2"
+        "rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule": "a0157f62e0efe78ab32875f642b1b39133bc9fc94a1f474d9defc88906e0d0df"
       },
       "post": {
-        "rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule": "8ad082c44b2664164987ab2088ae61cc4286af05813adc3be0a1473d041a1a7d"
+        "rewrite/Surge/AdvertisingLite/AdvertisingLite_Mock.sgmodule": "cb3b0aa223cdfa9ffe30defe33d0a8a15f7b8e8a126b61468dc50df0f38a6d20"
       }
     },
     "d11df72bee06d091e1110534a1c31c73561598f4106aa79e5c49735fc8ae24a1": {
@@ -14234,10 +14234,10 @@
     },
     "d6314c5283c4814fd6393440ec8b67bf7fe7adda4ef07663191bf9c5e176911e": {
       "files": {
-        "rule/Clash/ProxyLite/ProxyLite_No_Resolve.yaml": "e2ba1dede4b5bd6015c12afe639efed1b1acb86373236123921d1460526a2f57"
+        "rule/Clash/ProxyLite/ProxyLite_No_Resolve.yaml": "507c04ba28df5ff0f9e024b6b026ab7cc980b0e88a9fb8456a8334a5a44bbdc7"
       },
       "post": {
-        "rule/Clash/ProxyLite/ProxyLite_No_Resolve.yaml": "e2ba1dede4b5bd6015c12afe639efed1b1acb86373236123921d1460526a2f57"
+        "rule/Clash/ProxyLite/ProxyLite_No_Resolve.yaml": "507c04ba28df5ff0f9e024b6b026ab7cc980b0e88a9fb8456a8334a5a44bbdc7"
       }
     },
     "d63e5f0996b5eb0343c1d1f05d234d21214fd7145676b5511d35ea663552c966": {
@@ -14330,10 +14330,10 @@
     },
     "d74be3a443a0d170fec7d6ae410f1fe5f942e19ee5ce1bb55d1e50ae2d05ba43": {
       "files": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.yaml": "38c1f7d6ab5612342b6c35ca978036221eb7a01a63efc1700e6e7b44905d085f"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.yaml": "0ce7e7a909911aca800600b5815b7dfd134561fcd150363bb62816fa35655b62"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.yaml": "38c1f7d6ab5612342b6c35ca978036221eb7a01a63efc1700e6e7b44905d085f"
+        "rule/Clash/ChinaMaxNoMedia/ChinaMaxNoMedia_Domain.yaml": "0ce7e7a909911aca800600b5815b7dfd134561fcd150363bb62816fa35655b62"
       }
     },
     "d751705989b2a9818ea73639d6fc0975a34fc45f99fe8b3a11f7d49c82b40c2c": {
@@ -14498,10 +14498,10 @@
     },
     "da490e986c7cf5453ccc3425a1299ecf7e1e5065c5d5b2cc2698567c50dec28f": {
       "files": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6_No_Resolve.yaml": "eaee1c836c6f4c0322bb9302e620f84ea507d6f8147007c330c75819889a8665"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6_No_Resolve.yaml": "a860b4170537c61de9b2cbd84a5847d9fa66ae0a9dbac1ab2fb8b83580996051"
       },
       "post": {
-        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6_No_Resolve.yaml": "eaee1c836c6f4c0322bb9302e620f84ea507d6f8147007c330c75819889a8665"
+        "rule/Clash/ChinaMax/ChinaMax_Classical_No_IPv6_No_Resolve.yaml": "a860b4170537c61de9b2cbd84a5847d9fa66ae0a9dbac1ab2fb8b83580996051"
       }
     },
     "da58cde650b5d110b06ae04c4ac5e1d7fb71275823c75c3a31540c90b52304d1": {
@@ -14578,10 +14578,10 @@
     },
     "db134486a16840518e421c40e3a4a2ee0b1beaf3de3db5707056c304e4b19f24": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list": "e8769e4744084d41fcab34c98ac2b0bc635c74d723a87b2de26c79745f996599"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list": "136db64a3c7d080d7613b7e3bc4d27b4a26191737574f8ceec8c5156dc42d624"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list": "e8769e4744084d41fcab34c98ac2b0bc635c74d723a87b2de26c79745f996599"
+        "rule/Clash/ChinaIPs/ChinaIPsTest/ChinaIPsTest.list": "136db64a3c7d080d7613b7e3bc4d27b4a26191737574f8ceec8c5156dc42d624"
       }
     },
     "db1f1a2cf05ef37bad1639a7e8dae069dd4274ed55e16394ad87708a359947d4": {
@@ -14746,10 +14746,10 @@
     },
     "ddcae9eb5de33f94703b7feffe75f4dbc2cdfec0c56dfdb5d5aae668e300b82b": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.yaml": "dcfcc2e72b328b5f215c4e8123052a1b4b45f63355205abce4a5090b4fad2746"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.yaml": "fbe5d2d11b9a7d521302eb4e09a01e502e58820de180b6c394f8222da63de665"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.yaml": "dcfcc2e72b328b5f215c4e8123052a1b4b45f63355205abce4a5090b4fad2746"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Domain.yaml": "fbe5d2d11b9a7d521302eb4e09a01e502e58820de180b6c394f8222da63de665"
       }
     },
     "ddd6c2d31e04e4286254885d8c2a186c6a293b6c11eab3ec6ba63203b1b8295f": {
@@ -14914,10 +14914,10 @@
     },
     "e0458aba473b849c5fbf39b9e3736da38eff981d76e40262db31696f5eb37034": {
       "files": {
-        "rule/Clash/Global/Global_Classical.yaml": "ae0e15dc9465d0c27575a29eb8542289fa482998e8d9355f76977a874eefbbef"
+        "rule/Clash/Global/Global_Classical.yaml": "20492aa7a2f18a44087330350ff3054bf7864b92054f3382105e47fd3ac62002"
       },
       "post": {
-        "rule/Clash/Global/Global_Classical.yaml": "ae0e15dc9465d0c27575a29eb8542289fa482998e8d9355f76977a874eefbbef"
+        "rule/Clash/Global/Global_Classical.yaml": "20492aa7a2f18a44087330350ff3054bf7864b92054f3382105e47fd3ac62002"
       }
     },
     "e062889e8c4cf4b6f28fc026d271e082b549d3df5b204b18a44979da95a60722": {
@@ -14994,10 +14994,10 @@
     },
     "e16ae81239803232cb7a4d65b720234dd2adfb3ad6b515bddbe430d5cab1ac23": {
       "files": {
-        "rule/Clash/Telegram/Telegram.list": "96aafd1e92e689c17eac11da70411665e2b5875ee98badc27e0ffcb4cb49dda4"
+        "rule/Clash/Telegram/Telegram.list": "35282151c026acddee3146912543637d389460721d7c01fb89887f94da7d8c2e"
       },
       "post": {
-        "rule/Clash/Telegram/Telegram.list": "96aafd1e92e689c17eac11da70411665e2b5875ee98badc27e0ffcb4cb49dda4"
+        "rule/Clash/Telegram/Telegram.list": "35282151c026acddee3146912543637d389460721d7c01fb89887f94da7d8c2e"
       }
     },
     "e180a88f25e32a7cd7a403f71fa05f6775dfe837e282a358574732e9f54b6b71": {
@@ -15146,10 +15146,10 @@
     },
     "e2e7628243f69fbf592c3e5096ed72b56a3d0185c684a3f33e684005c5b64218": {
       "files": {
-        "rule/Clash/ChinaIPs/ChinaIPs.list": "d96ba5934ae325ab5ffc306ab09f7901defaeadf637c94fdf4a72f6d1605b1fd"
+        "rule/Clash/ChinaIPs/ChinaIPs.list": "e598438ce1000b56ea43df5f60497554871b953d54e794b666535458d89096ce"
       },
       "post": {
-        "rule/Clash/ChinaIPs/ChinaIPs.list": "d96ba5934ae325ab5ffc306ab09f7901defaeadf637c94fdf4a72f6d1605b1fd"
+        "rule/Clash/ChinaIPs/ChinaIPs.list": "e598438ce1000b56ea43df5f60497554871b953d54e794b666535458d89096ce"
       }
     },
     "e2ee854b17a66a138332961b6aab98159578c9beae258b0699bcf86b22d503c9": {
@@ -15402,10 +15402,10 @@
     },
     "e71fbfe42ca00de9921db604e7f596824a8f97a32ced987241204ea97da152e2": {
       "files": {
-        "rule/Clash/Advertising/Advertising_No_Resolve.yaml": "5f638ce6340e08fb50f3964ef8e23c9a8df8f2878a993a6fff59dca4e7630acb"
+        "rule/Clash/Advertising/Advertising_No_Resolve.yaml": "2e5379a6d6e7577c40c9c46577a35ac868bb9c752ad91055e83495cd4030e598"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising_No_Resolve.yaml": "5f638ce6340e08fb50f3964ef8e23c9a8df8f2878a993a6fff59dca4e7630acb"
+        "rule/Clash/Advertising/Advertising_No_Resolve.yaml": "2e5379a6d6e7577c40c9c46577a35ac868bb9c752ad91055e83495cd4030e598"
       }
     },
     "e73ea0a7f6232307c89775f25cb67fd1bdc9645fc3459197a20c9441c83d37b5": {
@@ -15482,10 +15482,10 @@
     },
     "e87822b86ee32fbfd41bade8ec915b148f70c3be69f3ffa5fe02c37f5f2a5812": {
       "files": {
-        "rule/Clash/TikTok/TikTok_No_Resolve.yaml": "c93113e0f7d84302868ae8a1a7bfd024dbc03e54c5953f5439d20ca9c04005b7"
+        "rule/Clash/TikTok/TikTok_No_Resolve.yaml": "71c372b476ff9b641bb619b74c1192dd1b831c374bcd8cd0ae8fa34374c9fff2"
       },
       "post": {
-        "rule/Clash/TikTok/TikTok_No_Resolve.yaml": "c93113e0f7d84302868ae8a1a7bfd024dbc03e54c5953f5439d20ca9c04005b7"
+        "rule/Clash/TikTok/TikTok_No_Resolve.yaml": "71c372b476ff9b641bb619b74c1192dd1b831c374bcd8cd0ae8fa34374c9fff2"
       }
     },
     "e88c84946bfde1c6c0457815e0f0cb5cc19466ffde0b9801644a7088ef95500c": {
@@ -15690,10 +15690,10 @@
     },
     "eb0dba930af191e550b5a699082618e9a5e095586630c8a1fdd09e2f8e89a472": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.list": "2cb7fad955f5e3a80d4fd1772ba5df805dc64f3e2ad7cc77d4202a5ef63617c0"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.list": "43cb1ac2a3328aa7cc89883347e59cc3f7e0dbb9c4661c9242d1c154277fdcad"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.list": "2cb7fad955f5e3a80d4fd1772ba5df805dc64f3e2ad7cc77d4202a5ef63617c0"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP.list": "43cb1ac2a3328aa7cc89883347e59cc3f7e0dbb9c4661c9242d1c154277fdcad"
       }
     },
     "eb35ab4425887404ca00d3a0c660ee49bb5bcb39af79706385142e35c28b468e": {
@@ -15730,10 +15730,10 @@
     },
     "eb7cb4ccc092d6c40fcb088d177428cbce057e93eb0df60b6bd7566fde7fbfd7": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI.yaml": "5d50a5f03a64962c53cc9d9c528f8b0b9be66a45eb0316d3e30a4d7289f90ae8"
+        "rule/Clash/OpenAI/OpenAI.yaml": "5aaceb449517b415ab63b1b28c3e7dc8544ad623022f7345ade5edadbac353b3"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI.yaml": "5d50a5f03a64962c53cc9d9c528f8b0b9be66a45eb0316d3e30a4d7289f90ae8"
+        "rule/Clash/OpenAI/OpenAI.yaml": "5aaceb449517b415ab63b1b28c3e7dc8544ad623022f7345ade5edadbac353b3"
       }
     },
     "eb8ca305f6dfc00e571af6b94f998c9fd1f610a19d455efd00b74e9070bffa9f": {
@@ -15858,10 +15858,10 @@
     },
     "ed678e5c47d55b2c5c1fd0e06bddeb6e133cd63b4afca51fcf8e884e6c8e6751": {
       "files": {
-        "rule/Clash/Facebook/Facebook.list": "f18cf136f6f81e0e4ca4ad63461b6339da761127d6039b0b828e626a0135a120"
+        "rule/Clash/Facebook/Facebook.list": "efa74c1d44062a69cfaf661dbfb91608cf121cfe91e72c8e161aa2503386eb22"
       },
       "post": {
-        "rule/Clash/Facebook/Facebook.list": "f18cf136f6f81e0e4ca4ad63461b6339da761127d6039b0b828e626a0135a120"
+        "rule/Clash/Facebook/Facebook.list": "efa74c1d44062a69cfaf661dbfb91608cf121cfe91e72c8e161aa2503386eb22"
       }
     },
     "ed838eaf183897f1585dfec151ea26ef8809776dae67ccc64c20c05a89fe6198": {
@@ -16178,10 +16178,10 @@
     },
     "f1269aeb62af8bdb498c56aa10f75b0916fe0e0bca74460fd713f9b4b83873ac": {
       "files": {
-        "rule/Clash/Copilot/Copilot.yaml": "845d509e9b655cb9594230e02af1dae0df9a41832022b5dd7de9f247ebde0d7f"
+        "rule/Clash/Copilot/Copilot.yaml": "07a267ff7da26ccc1723dabccccf0980bb6a2498230ea7c67edf4a58a7d2d694"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot.yaml": "845d509e9b655cb9594230e02af1dae0df9a41832022b5dd7de9f247ebde0d7f"
+        "rule/Clash/Copilot/Copilot.yaml": "07a267ff7da26ccc1723dabccccf0980bb6a2498230ea7c67edf4a58a7d2d694"
       }
     },
     "f18e43b1e7631f69da296565f12969b5c18a904396b611619499e1a5677ce969": {
@@ -16554,10 +16554,10 @@
     },
     "f62e6c78e6a83c5094a86f13680f2fb864d3a2b3fde08b578fc526c43f527d75": {
       "files": {
-        "rule/Clash/Advertising/Advertising.yaml": "2f58f3916eaf2f6801dea6e80a77dadbeba2f9e953247b0b81c55fc3bdb7ff05"
+        "rule/Clash/Advertising/Advertising.yaml": "b53abcafcd823141bdb189decbcee7aba8c904bb0018e9845ab92ee6f6237d29"
       },
       "post": {
-        "rule/Clash/Advertising/Advertising.yaml": "2f58f3916eaf2f6801dea6e80a77dadbeba2f9e953247b0b81c55fc3bdb7ff05"
+        "rule/Clash/Advertising/Advertising.yaml": "b53abcafcd823141bdb189decbcee7aba8c904bb0018e9845ab92ee6f6237d29"
       }
     },
     "f63539edd712b02ff7c873e8e7b82c8da313717059f6e805334edc8945ef1569": {
@@ -16874,10 +16874,10 @@
     },
     "fa1d61029532af4e9a5fd1ba3a3c6d08d6957a4e5dbb9d6ec3fc566864a22cee": {
       "files": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml": "f3123f43dd62c4ca3e62a982839d74973d095f2329551af193accc59265f9e31"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml": "155380c5b11f9c76809595069185d781a2ce9512cd6983ebdb3f064a9661a4fc"
       },
       "post": {
-        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml": "f3123f43dd62c4ca3e62a982839d74973d095f2329551af193accc59265f9e31"
+        "rule/Clash/ChinaMaxNoIP/ChinaMaxNoIP_Classical.yaml": "155380c5b11f9c76809595069185d781a2ce9512cd6983ebdb3f064a9661a4fc"
       }
     },
     "fa1e3c47051bc672e54cc2649af48468b3ac76d2972b0af71aefb5e8687a4976": {

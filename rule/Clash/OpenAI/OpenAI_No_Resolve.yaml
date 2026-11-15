@@ -1,12 +1,15 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # NAME: OpenAI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:00
+# UPDATED: 2026-11-15 23:13:06
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 24
+# IP-ASN: 0
 # IP-CIDR: 2
-# TOTAL: 35
+# TOTAL: 34
 payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
