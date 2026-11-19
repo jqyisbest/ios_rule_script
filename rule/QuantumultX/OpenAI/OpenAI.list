@@ -1,13 +1,16 @@
 # NAME: OpenAI
+# AUTHOR: jqyisbest
 # AUTHOR: blackmatrix7
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:00
+# UPDATED: 2026-11-19 17:07:19
 # HOST: 7
 # HOST-KEYWORD: 1
-# HOST-SUFFIX: 24
+# HOST-SUFFIX: 25
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 35
+# TOTAL: 36
+HOST-SUFFIX,oaistatsig.com,OpenAI
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,chat.openai.com.cdn.cloudflare.net,OpenAI
 HOST,openai-api.arkoselabs.com,OpenAI

@@ -1,0 +1,8 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
+# NAME: Grok
+# UPDATED: 2026-11-19 19:36:30
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,grok.com
+  - DOMAIN-SUFFIX,x.ai

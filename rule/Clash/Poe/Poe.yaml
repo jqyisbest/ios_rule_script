@@ -1,0 +1,8 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
+# NAME: Poe
+# UPDATED: 2026-11-19 19:36:31
+# TOTAL: 2
+payload:
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,poecdn.net

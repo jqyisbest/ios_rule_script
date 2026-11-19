@@ -1,0 +1,9 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
+# NAME: GitHubCopilot
+# UPDATED: 2026-11-19 19:36:31
+# TOTAL: 4
+DOMAIN-SUFFIX,githubcopilot.com
+DOMAIN,copilot-proxy.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com
+DOMAIN,origin-tracker.githubusercontent.com

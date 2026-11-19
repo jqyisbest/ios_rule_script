@@ -1,12 +1,18 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # NAME: Gemini
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 3
+# UPDATED: 2026-11-19 16:59:21
+# DOMAIN: 7
 # DOMAIN-KEYWORD: 3
 # DOMAIN-SUFFIX: 7
-# TOTAL: 13
+# TOTAL: 17
 payload:
+  - DOMAIN,aistudio.google.com
+  - DOMAIN,notebook.google.com
+  - DOMAIN,notebooklm.google.com
+  - DOMAIN,notebooklm.google
   - DOMAIN,ai.google.dev
   - DOMAIN,alkalimakersuite-pa.clients6.google.com
   - DOMAIN,makersuite.google.com

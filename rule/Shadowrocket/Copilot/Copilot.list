@@ -1,13 +1,16 @@
 # NAME: Copilot
+# AUTHOR: jqyisbest
 # AUTHOR: blackmatrix7
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# DOMAIN: 20
+# UPDATED: 2026-11-19 17:07:20
+# DOMAIN: 21
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 26
 # IP-ASN: 2
 # IP-CIDR: 2
-# TOTAL: 51
+# TOTAL: 52
+DOMAIN,copilot.cloud.microsoft
 DOMAIN,api.msn.com
 DOMAIN,api.statsig.com
 DOMAIN,assets.msn.com

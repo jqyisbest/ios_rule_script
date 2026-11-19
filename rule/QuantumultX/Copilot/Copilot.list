@@ -1,13 +1,16 @@
 # NAME: Copilot
+# AUTHOR: jqyisbest
 # AUTHOR: blackmatrix7
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2025-06-06 09:20:02
-# HOST: 20
+# UPDATED: 2026-11-19 17:07:20
+# HOST: 21
 # HOST-KEYWORD: 1
 # HOST-SUFFIX: 26
 # IP-ASN: 2
 # IP-CIDR: 2
-# TOTAL: 51
+# TOTAL: 52
+HOST,copilot.cloud.microsoft,Copilot
 HOST,api.msn.com,Copilot
 HOST,api.statsig.com,Copilot
 HOST,assets.msn.com,Copilot

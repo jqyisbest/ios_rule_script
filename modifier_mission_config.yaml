@@ -12,6 +12,337 @@ missions:
       - rule/Clash/**/*.list
     name: 移除 Clash 列表中的全部 ASN
     sop: remove_asn_globally
+  # Quantumult X 需要保留每个现有规则集自己的策略名。
+  - name: 补充 OpenAI 分流域名
+    targets:
+      - rule/Clash/OpenAI/*.yaml
+      - rule/Clash/OpenAI/*.list
+      - rule/Loon/OpenAI/*.list
+      - rule/Shadowrocket/OpenAI/*.list
+      - rule/Surge/OpenAI/*.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - &openai_domain_1
+            type: domain_suffix
+            value: oaistatsig.com
+  - name: 补充 OpenAI 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/OpenAI/OpenAI.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *openai_domain_1
+            policy: OpenAI
+  - name: 补充 Claude 分流域名
+    targets:
+      - rule/Clash/Claude/*.yaml
+      - rule/Clash/Claude/*.list
+      - rule/Loon/Claude/*.list
+      - rule/Shadowrocket/Claude/*.list
+      - rule/Surge/Claude/*.list
+      - rule/Clash/Anthropic/*.yaml
+      - rule/Clash/Anthropic/*.list
+      - rule/Loon/Anthropic/*.list
+      - rule/Shadowrocket/Anthropic/*.list
+      - rule/Surge/Anthropic/*.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - &claude_domain_1
+            type: domain_suffix
+            value: claude.com
+          - &claude_domain_2
+            type: domain_suffix
+            value: claudeusercontent.com
+          - &claude_domain_3
+            type: domain_suffix
+            value: claudemcpcontent.com
+          - &claude_desktop_domain
+            type: domain_suffix
+            value: claude.app
+          - &claude_short_link
+            type: domain
+            value: clau.de
+  - name: 补充 Claude 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/Claude/Claude.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *claude_domain_1
+            policy: Claude
+          - <<: *claude_domain_2
+            policy: Claude
+          - <<: *claude_domain_3
+            policy: Claude
+          - <<: *claude_desktop_domain
+            policy: Claude
+          - <<: *claude_short_link
+            policy: Claude
+  - name: 补充 Anthropic 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/Anthropic/Anthropic.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *claude_domain_1
+            policy: Anthropic
+          - <<: *claude_domain_2
+            policy: Anthropic
+          - <<: *claude_domain_3
+            policy: Anthropic
+          - <<: *claude_desktop_domain
+            policy: Anthropic
+          - <<: *claude_short_link
+            policy: Anthropic
+  - name: 补充 Gemini 分流域名
+    targets:
+      - rule/Clash/Gemini/*.yaml
+      - rule/Clash/Gemini/*.list
+      - rule/Loon/Gemini/*.list
+      - rule/Shadowrocket/Gemini/*.list
+      - rule/Surge/Gemini/*.list
+      - rule/Clash/BardAI/*.yaml
+      - rule/Clash/BardAI/*.list
+      - rule/Loon/BardAI/*.list
+      - rule/Shadowrocket/BardAI/*.list
+      - rule/Surge/BardAI/*.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - &gemini_domain_1
+            type: domain
+            value: aistudio.google.com
+          - &gemini_domain_2
+            type: domain
+            value: notebook.google.com
+          - &gemini_domain_3
+            type: domain
+            value: notebooklm.google.com
+          - &gemini_domain_4
+            type: domain
+            value: notebooklm.google
+  - name: 补充 Gemini 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/Gemini/Gemini.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *gemini_domain_1
+            policy: Gemini
+          - <<: *gemini_domain_2
+            policy: Gemini
+          - <<: *gemini_domain_3
+            policy: Gemini
+          - <<: *gemini_domain_4
+            policy: Gemini
+  - name: 补充 BardAI 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/BardAI/BardAI.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *gemini_domain_1
+            policy: BardAI
+          - <<: *gemini_domain_2
+            policy: BardAI
+          - <<: *gemini_domain_3
+            policy: BardAI
+          - <<: *gemini_domain_4
+            policy: BardAI
+  - name: 补充 Microsoft Copilot 分流域名
+    targets:
+      - rule/Clash/Copilot/*.yaml
+      - rule/Clash/Copilot/*.list
+      - rule/Loon/Copilot/*.list
+      - rule/Shadowrocket/Copilot/*.list
+      - rule/Surge/Copilot/*.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - &microsoftcopilot_domain_1
+            type: domain
+            value: copilot.cloud.microsoft
+  - name: 补充 Copilot 分流域名（Quantumult X）
+    targets:
+      - rule/QuantumultX/Copilot/Copilot.list
+    actions:
+      - action: add_rule
+        insert:
+          position: after_header
+        rules:
+          - <<: *microsoftcopilot_domain_1
+            policy: Copilot
+  - name: 维护 DeepSeek 独立分流规则
+    targets:
+      - rule/Clash/DeepSeek/DeepSeek.yaml
+      - rule/Clash/DeepSeek/DeepSeek.list
+      - rule/Loon/DeepSeek/DeepSeek.list
+      - rule/Shadowrocket/DeepSeek/DeepSeek.list
+      - rule/Surge/DeepSeek/DeepSeek.list
+    actions:
+      - action: add_rule
+        rules:
+          - &deepseek_domain_1
+            type: domain_suffix
+            value: deepseek.com
+  - name: 维护 DeepSeek 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/DeepSeek/DeepSeek.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *deepseek_domain_1
+            policy: DeepSeek
+  - name: 维护 Perplexity 独立分流规则
+    targets:
+      - rule/Clash/Perplexity/Perplexity.yaml
+      - rule/Clash/Perplexity/Perplexity.list
+      - rule/Loon/Perplexity/Perplexity.list
+      - rule/Shadowrocket/Perplexity/Perplexity.list
+      - rule/Surge/Perplexity/Perplexity.list
+    actions:
+      - action: add_rule
+        rules:
+          - &perplexity_domain_1
+            type: domain_suffix
+            value: perplexity.ai
+  - name: 维护 Perplexity 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/Perplexity/Perplexity.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *perplexity_domain_1
+            policy: Perplexity
+  - name: 维护 Grok 独立分流规则
+    targets:
+      - rule/Clash/Grok/Grok.yaml
+      - rule/Clash/Grok/Grok.list
+      - rule/Loon/Grok/Grok.list
+      - rule/Shadowrocket/Grok/Grok.list
+      - rule/Surge/Grok/Grok.list
+    actions:
+      - action: add_rule
+        rules:
+          - &grok_domain_1
+            type: domain_suffix
+            value: grok.com
+          - &grok_domain_2
+            type: domain_suffix
+            value: x.ai
+  - name: 维护 Grok 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/Grok/Grok.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *grok_domain_1
+            policy: Grok
+          - <<: *grok_domain_2
+            policy: Grok
+  - name: 维护 Mistral 独立分流规则
+    targets:
+      - rule/Clash/Mistral/Mistral.yaml
+      - rule/Clash/Mistral/Mistral.list
+      - rule/Loon/Mistral/Mistral.list
+      - rule/Shadowrocket/Mistral/Mistral.list
+      - rule/Surge/Mistral/Mistral.list
+    actions:
+      - action: add_rule
+        rules:
+          - &mistral_domain_1
+            type: domain_suffix
+            value: mistral.ai
+  - name: 维护 Mistral 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/Mistral/Mistral.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *mistral_domain_1
+            policy: Mistral
+  - name: 维护 Poe 独立分流规则
+    targets:
+      - rule/Clash/Poe/Poe.yaml
+      - rule/Clash/Poe/Poe.list
+      - rule/Loon/Poe/Poe.list
+      - rule/Shadowrocket/Poe/Poe.list
+      - rule/Surge/Poe/Poe.list
+    actions:
+      - action: add_rule
+        rules:
+          - &poe_domain_1
+            type: domain_suffix
+            value: poe.com
+          - &poe_domain_2
+            type: domain_suffix
+            value: poecdn.net
+  - name: 维护 Poe 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/Poe/Poe.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *poe_domain_1
+            policy: Poe
+          - <<: *poe_domain_2
+            policy: Poe
+  - name: 维护 GitHub Copilot 独立分流规则
+    targets:
+      - rule/Clash/GitHubCopilot/GitHubCopilot.yaml
+      - rule/Clash/GitHubCopilot/GitHubCopilot.list
+      - rule/Loon/GitHubCopilot/GitHubCopilot.list
+      - rule/Shadowrocket/GitHubCopilot/GitHubCopilot.list
+      - rule/Surge/GitHubCopilot/GitHubCopilot.list
+    actions:
+      - action: add_rule
+        rules:
+          - &githubcopilot_domain_1
+            type: domain_suffix
+            value: githubcopilot.com
+          - &githubcopilot_domain_2
+            type: domain
+            value: copilot-proxy.githubusercontent.com
+          - &githubcopilot_domain_3
+            type: domain
+            value: copilot-telemetry.githubusercontent.com
+          - &githubcopilot_domain_4
+            type: domain
+            value: origin-tracker.githubusercontent.com
+  - name: 维护 GitHub Copilot 独立分流规则（Quantumult X）
+    targets:
+      - rule/QuantumultX/GitHubCopilot/GitHubCopilot.list
+    actions:
+      - action: add_rule
+        rules:
+          - <<: *githubcopilot_domain_1
+            policy: GitHubCopilot
+          - <<: *githubcopilot_domain_2
+            policy: GitHubCopilot
+          - <<: *githubcopilot_domain_3
+            policy: GitHubCopilot
+          - <<: *githubcopilot_domain_4
+            policy: GitHubCopilot
   - targets:
       - rule/Surge/WeChat/WeChat.list
     actions:

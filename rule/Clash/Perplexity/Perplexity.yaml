@@ -1,0 +1,7 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
+# NAME: Perplexity
+# UPDATED: 2026-11-19 19:36:30
+# TOTAL: 1
+payload:
+  - DOMAIN-SUFFIX,perplexity.ai

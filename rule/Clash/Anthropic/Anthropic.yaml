@@ -1,11 +1,18 @@
+# AUTHOR: jqyisbest
+# REPO: https://github.com/jqyisbest/ios_rule_script
 # NAME: Anthropic
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-01-08 16:02:59
-# DOMAIN: 1
-# DOMAIN-SUFFIX: 2
-# TOTAL: 3
+# UPDATED: 2026-11-19 19:44:18
+# DOMAIN: 2
+# DOMAIN-SUFFIX: 6
+# TOTAL: 8
 payload:
+  - DOMAIN-SUFFIX,claude.com
+  - DOMAIN-SUFFIX,claudeusercontent.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
+  - DOMAIN-SUFFIX,claude.app
+  - DOMAIN,clau.de
   - DOMAIN,servd-anthropic-website.b-cdn.net
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,claude.ai
