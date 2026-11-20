@@ -72,6 +72,14 @@
         "rule/Clash/WeType/WeType_No_Resolve.yaml": "36bf731635328df16dc5fe8cd4c1627afd2cc4c9ba7834c1e630e151a39eae37"
       }
     },
+    "01073510373dd218b917f0ef4e2a8d23593e7bbd0e7fc8659a9481227d1939a8": {
+      "files": {
+        "rule/Clash/Gemini/Gemini.list": "c9c33ce58b94242121cde023d34c69159c4e1ffb8d166a7bab36e97c5bb0fa13"
+      },
+      "post": {
+        "rule/Clash/Gemini/Gemini.list": "c9c33ce58b94242121cde023d34c69159c4e1ffb8d166a7bab36e97c5bb0fa13"
+      }
+    },
     "01083bebb282bd314658614a829bced228935dc24e0f67fb20fd904809ff80fd": {
       "files": {
         "rule/Clash/KakaoTalk/KakaoTalk_No_Resolve.yaml": "40acb7bd10f23d83e793061d4e4bda8d36264752dbdce10c642855961ff4a774"
@@ -456,12 +464,28 @@
         "rule/Clash/PChome/PChome.list": "be85af59135d52263375aa13a1dfd7d3368c3685d694892ef5a630fe7f14d033"
       }
     },
+    "06029be73cc868b2e9c4b3cda366d4d4444059a8504af4c626ce57580a2ec488": {
+      "files": {
+        "rule/Clash/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      },
+      "post": {
+        "rule/Clash/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      }
+    },
     "060a551227957c8de8779378bd43389f9b85ae04e927aaaad0c15f849a567cfc": {
       "files": {
         "rule/Clash/friDay/friDay_No_Resolve.yaml": "77a7a12a8e8d448d6b067c2bc469096cabcbe276f62465bfb6c6f79637f0b5cc"
       },
       "post": {
         "rule/Clash/friDay/friDay_No_Resolve.yaml": "77a7a12a8e8d448d6b067c2bc469096cabcbe276f62465bfb6c6f79637f0b5cc"
+      }
+    },
+    "060b880b6c313e6dad3bfcb6b177ed25437e76b06d345f5fbfa7fdea104013d0": {
+      "files": {
+        "rule/QuantumultX/Copilot/Copilot.list": "7787dbc69983cb4519c25287896601c6ba6bf867932a2d86aff6c2364d0d22f1"
+      },
+      "post": {
+        "rule/QuantumultX/Copilot/Copilot.list": "7787dbc69983cb4519c25287896601c6ba6bf867932a2d86aff6c2364d0d22f1"
       }
     },
     "061b8f81b11de4747da45f5de5e850e327d7d1478cf73811a9fecc83f1002d5e": {
@@ -504,6 +528,14 @@
         "rule/Clash/Lenovo/Lenovo.yaml": "5bc3e650be2990872381ebb80158b3a5e2f12722ef82cc01437e339743d3c44a"
       }
     },
+    "073a1d0ec4bc66412364787677d20ce67030ac8320ca3b9ffbcb4520cf050833": {
+      "files": {
+        "rule/Clash/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      },
+      "post": {
+        "rule/Clash/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      }
+    },
     "0744cab3b222ba7350153982606b89ec63c42bac70635a790a75b7bd6c551bf4": {
       "files": {
         "rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml": "b663aac11dc20b65593cb619672e91abfe088a06269f5282444494906c4d3147"
@@ -518,6 +550,14 @@
       },
       "post": {
         "rule/Clash/TrustWave/TrustWave.list": "32e90b7a703d9cdfa897f718d79214783266f268823079f18dcbec3cc91756b4"
+      }
+    },
+    "0763c1fec4271059e460d8822a20e7a6115247533503ec121467834ac3f5a0c3": {
+      "files": {
+        "rule/Clash/OpenAI/OpenAI.yaml": "704f0fb4d2ff3705c21428ee784dc4a9384068a194f56697b9096a348256e41c"
+      },
+      "post": {
+        "rule/Clash/OpenAI/OpenAI.yaml": "704f0fb4d2ff3705c21428ee784dc4a9384068a194f56697b9096a348256e41c"
       }
     },
     "07d70edc6f10a1522d8917b3db8091555e60cb38ab695236bed82848f18e6140": {
@@ -686,6 +726,14 @@
       },
       "post": {
         "rule/Clash/Game/Game.yaml": "f2b768d0f6ee2ac5093690a26573a8279c22774ed63bff6687b37fdbf816bcfb"
+      }
+    },
+    "099cc76bbc8df0e934c5b40ad5743e942e870026ffb76399d7cc0f6bcf52e5e9": {
+      "files": {
+        "rule/Loon/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      },
+      "post": {
+        "rule/Loon/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
       }
     },
     "09b02e70f5919a359a49056419aaffe56afd035d0f2735f0dcea42e349fe1bc5": {
@@ -918,6 +966,14 @@
       },
       "post": {
         "rule/Clash/HuYa/HuYa.list": "9889627e10e5adebd648c1015f92da25f904f00b6705e114a8ff294a76268bff"
+      }
+    },
+    "0c222ec3fac85a411eb383f005673f399e8a7196c43207e75b21a2537b10aad1": {
+      "files": {
+        "rule/Loon/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
+      },
+      "post": {
+        "rule/Loon/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
       }
     },
     "0c5b653b758630988b2b5a17180ca938f14f56f23d20ddc8b99ac15ab66aad29": {
@@ -1382,6 +1438,14 @@
       },
       "post": {
         "rule/Clash/Direct/Direct.yaml": "059ab2909b5c55fde7d7cb7b0c171dea2566c6e8d0d9e0bed5947db5452dfbdc"
+      }
+    },
+    "1399c3bb516e52c6121c2ac475c14434c6f49603a87b9c36941e323050ad6cb1": {
+      "files": {
+        "rule/Clash/OpenAI/OpenAI.list": "4dba784b73ab21e8ae9704f8ac3f0ea952749d8bab47cb455b6915c0dd57d664"
+      },
+      "post": {
+        "rule/Clash/OpenAI/OpenAI.list": "4dba784b73ab21e8ae9704f8ac3f0ea952749d8bab47cb455b6915c0dd57d664"
       }
     },
     "13a4d19a3106f3d31551cdcb9e7448a77f715f513dd304d2d6b85ca66af041b3": {
@@ -1994,10 +2058,10 @@
     },
     "1c04c5e16ea98d1e2204a1e9aa685b60b2ca6c60861a4752eb6b2e30e295159f": {
       "files": {
-        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "d76e9822f72a69860b7d3086db61bbbef53014c57e3dc12472150c62a4f6434b"
+        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "b53b8deeea3150008383784c28f9b560ade6a2c244fd9263f423003edce6f000"
       },
       "post": {
-        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "d76e9822f72a69860b7d3086db61bbbef53014c57e3dc12472150c62a4f6434b"
+        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "b53b8deeea3150008383784c28f9b560ade6a2c244fd9263f423003edce6f000"
       }
     },
     "1c0b9fa03d7732cb73ab624e45816b0169006cc94c31c7f1168e19733d8f3f94": {
@@ -2368,6 +2432,14 @@
         "rule/Clash/OP/OP.yaml": "334bb46b2e2b2138eda02cdd80a5ef843e8d58e92ef409b1d1f27d478006ed5d"
       }
     },
+    "2302c9f18e56467577fbd46db4060f9014575001deb7814d2518ad7195bd62b6": {
+      "files": {
+        "rule/Surge/OpenAI/OpenAI_Resolve.list": "2565a93630c38320fde11ef422c8d50fa18e333e5e15f6d658b98f1d7a05e1bc"
+      },
+      "post": {
+        "rule/Surge/OpenAI/OpenAI_Resolve.list": "2565a93630c38320fde11ef422c8d50fa18e333e5e15f6d658b98f1d7a05e1bc"
+      }
+    },
     "231630bae7f3de2b1e8274e1b5384119beeb99ed7c63b0c96d24467e620760ef": {
       "files": {
         "rule/Clash/Hkgolden/Hkgolden.yaml": "25f0e0b8e2aebfd67f1f01c61fbc75df4ea50f8e016ed63e755d5827f808159f"
@@ -2736,6 +2808,14 @@
         "rule/Clash/Mailru/Mailru.list": "31d09b5503e16139d3e36566fe128dda25dcc20bf5455ea13018b5807b24dbb9"
       }
     },
+    "2779b039fd94b166c5ed118363daa57a51f2792ea0e932120905c9728a29f79f": {
+      "files": {
+        "rule/QuantumultX/Poe/Poe.list": "5672a9cf1dd083e61acb5e9be14ba975fcf2618be2844d2bcbc27e2d2d9a8317"
+      },
+      "post": {
+        "rule/QuantumultX/Poe/Poe.list": "5672a9cf1dd083e61acb5e9be14ba975fcf2618be2844d2bcbc27e2d2d9a8317"
+      }
+    },
     "278690a5379cdb67f9885f7287dc1333e8c6681247af3f378acc381930b456cb": {
       "files": {
         "rule/Clash/AnandTech/AnandTech_No_Resolve.yaml": "84291d4257c968fc4ee74dfd8ac942f98256e17286e3d0b64a425f3e8b4ba523"
@@ -2776,12 +2856,28 @@
         "rule/Clash/Global/Global.list": "6dbfdc19293753fbe874dea6dec0f2a46427d6fe4e98e644854daa0180ced3ba"
       }
     },
+    "281fb161350c22323c8e5f9b6cb2988731e5ffd6f99f4e3a7105ef8268627b53": {
+      "files": {
+        "rule/Loon/OpenAI/OpenAI_Resolve.list": "b8b75300ec1fa1a8f4e16a74e6decdd296f897479d2e948c71c62f1684e8e933"
+      },
+      "post": {
+        "rule/Loon/OpenAI/OpenAI_Resolve.list": "b8b75300ec1fa1a8f4e16a74e6decdd296f897479d2e948c71c62f1684e8e933"
+      }
+    },
     "287f86aff0b95a8a6a22ee212f866911ab0c6012359672e0cc219e9afa134dd8": {
       "files": {
         "rule/Clash/YouTubeMusic/YouTubeMusic_No_Resolve.yaml": "226e55117e8363b1ee23e1777b5254d5767503dc0ec9ae94c283c04ead784786"
       },
       "post": {
         "rule/Clash/YouTubeMusic/YouTubeMusic_No_Resolve.yaml": "226e55117e8363b1ee23e1777b5254d5767503dc0ec9ae94c283c04ead784786"
+      }
+    },
+    "288a4cb4b97979ade52ace21698a8cd3ae744f0405e1e2a6d10795abfd83dfb6": {
+      "files": {
+        "rule/QuantumultX/BardAI/BardAI.list": "e68c735eebd4678f79a33ac6b98d9acae5ea34e7952b15049a330a1418578226"
+      },
+      "post": {
+        "rule/QuantumultX/BardAI/BardAI.list": "e68c735eebd4678f79a33ac6b98d9acae5ea34e7952b15049a330a1418578226"
       }
     },
     "28aa5479db62ba0ff6a13781ce56c5aa1cf2f061f4804ea86897baddaf29a15c": {
@@ -3024,6 +3120,14 @@
         "rule/Clash/Vimeo/Vimeo_No_Resolve.yaml": "1cf73f88cce78eb49d769d919978954fac9d9643143ce2718c4dd2e2542fc360"
       }
     },
+    "2cbcd77148628f22706e9d098901e84f7be3838d2849aa17884ef33c77d47838": {
+      "files": {
+        "rule/Shadowrocket/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      },
+      "post": {
+        "rule/Shadowrocket/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      }
+    },
     "2cf469115a58f65621705027da9f53d7ae87139baaefebeef7c9dfb42d4d7ecf": {
       "files": {
         "rule/Clash/TianWeiChengXin/TianWeiChengXin_No_Resolve.yaml": "51896f2eacc01d72a8b24db8c70369a0d3ea66b96ea60979d4dfb3ecea49665c"
@@ -3094,6 +3198,14 @@
       },
       "post": {
         "rule/Clash/Proxy/Proxy.yaml": "78ecb65e43c98d5741171b33b7a5bceb0d711dc4cf74af42898a95ac54dcc8a8"
+      }
+    },
+    "2de4e8940f0a8559491f0f938a6ec8e91ddf6c9d62aae634f5d9d4debedb9607": {
+      "files": {
+        "rule/Shadowrocket/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      },
+      "post": {
+        "rule/Shadowrocket/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
       }
     },
     "2de88762aefea559c0964af810153dbdd9ba1bdeb76354b52f7cf2eacca080eb": {
@@ -3250,10 +3362,10 @@
     },
     "2f54ac9396f9f8e7223db0ce23f3191c0479d6db99f7379a7eeffc2d6719c6c1": {
       "files": {
-        "rule/Clash/Anthropic/Anthropic.list": "ee68bf42bf5666943067127776e40643f6f52bdd911152b1be62b3ecb187dc8e"
+        "rule/Clash/Anthropic/Anthropic.list": "6b546651b264848a3e44731a52a8f35032f9be776e1925d8f1b9106ab29b49e0"
       },
       "post": {
-        "rule/Clash/Anthropic/Anthropic.list": "ee68bf42bf5666943067127776e40643f6f52bdd911152b1be62b3ecb187dc8e"
+        "rule/Clash/Anthropic/Anthropic.list": "6b546651b264848a3e44731a52a8f35032f9be776e1925d8f1b9106ab29b49e0"
       }
     },
     "2f5e93637d23fe550edc28611bb34b59615aba10c3fe4d3df7a933ce1d139dc8": {
@@ -3384,6 +3496,14 @@
         "rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf": "9d8629f61533041e4781e004db321ec93612f5ad69c9fb22f2c92e93a8072b00"
       }
     },
+    "30ce61a30fc5cbe0a2b82eb9fc680e44174e729f737fbd41ab2c915b722f1544": {
+      "files": {
+        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
+      },
+      "post": {
+        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
+      }
+    },
     "30d82439c72319fc1a41b02f374a8faaa9b555c1b7825a61428c1e49c81112bb": {
       "files": {
         "rule/Clash/DouYin/DouYin.yaml": "fdfe20393b17988455f7715a8be15166b097c071551b938049874d39675dee41"
@@ -3464,6 +3584,14 @@
         "rule/Clash/QingCloud/QingCloud.yaml": "878dbdc1a0678d362d7ed037888a00173f7834034e84fcba27f3078b48940ac3"
       }
     },
+    "31dd5d095ae5c809d4c7a911508bb00a68de487225ae680bde03a1ec973beb63": {
+      "files": {
+        "rule/Clash/Grok/Grok.yaml": "f0ee3a606042265189d2d1452d03f1f3dd1b64521d94692dd19e946bcc19d02e"
+      },
+      "post": {
+        "rule/Clash/Grok/Grok.yaml": "f0ee3a606042265189d2d1452d03f1f3dd1b64521d94692dd19e946bcc19d02e"
+      }
+    },
     "31f72ee950631d2aa14706b04a1bfff9cd7c265f9018c9113ebf235e42a7c09b": {
       "files": {
         "rule/Clash/FindMy/FindMy.list": "c4944fd32c127c4fd855401e515054a66e93b57f9552206fb880b986a5201398"
@@ -3504,6 +3632,14 @@
         "rule/Clash/NivodTV/NivodTV.list": "b8b31a0b6fffeb574af5a41556c8bf571050682c2585d7972054c9af0dc5488f"
       }
     },
+    "32af88075013d2947e0b04e98352cbec79b4819795b01f0228ea9ac01a21ce62": {
+      "files": {
+        "rule/Shadowrocket/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
+      },
+      "post": {
+        "rule/Shadowrocket/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
+      }
+    },
     "32b1e8eab5d96a9988d65d890ec32b1659dfb740c38aa9080db44e297a291fee": {
       "files": {
         "rule/Clash/BlockHttpDNS/BlockHttpDNS_No_Resolve.yaml": "cce688f0eef73bad43fd4a4193eeab0003d9e57284c4c86880b7e117383d76be"
@@ -3518,6 +3654,14 @@
       },
       "post": {
         "rule/Clash/LineTV/LineTV.yaml": "e85e152823cb484c027d1f93bd047d7adbd2bfa4220009604e2686de45627064"
+      }
+    },
+    "331f5efdc43217555b02c23f3e6b8e5b540ad18320823bacef6535d042726c08": {
+      "files": {
+        "rule/Surge/OpenAI/OpenAI.list": "50d96ca16dcbc57ff76daa772505c0f56142c125e05e5a098e0749b2544d81ec"
+      },
+      "post": {
+        "rule/Surge/OpenAI/OpenAI.list": "50d96ca16dcbc57ff76daa772505c0f56142c125e05e5a098e0749b2544d81ec"
       }
     },
     "3330c60aef9c6a22c93a387de086c7869cd5fd8259365aea4547a8b847395781": {
@@ -3640,6 +3784,14 @@
         "rule/Clash/zhanqi/zhanqi.list": "ab43e4796e3c2ccc7af6e1f8472ad8cc9dc64f107c85c102e80060832af2f478"
       }
     },
+    "351b62bfbb864733592d955ed77fb014d56f49e3a1c0d2082d9ba80b13b341bb": {
+      "files": {
+        "rule/Surge/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      },
+      "post": {
+        "rule/Surge/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      }
+    },
     "353487d2ac784561cc88d8a25d14a7543735207e3b00b1a2187fb2c4447ee0eb": {
       "files": {
         "rule/Clash/AppleFirmware/AppleFirmware.list": "78b2c2aae3d0331af0c9ca910443fba528f6ee1190c30ad5ce40828ef27e144e"
@@ -3760,6 +3912,14 @@
         "rule/Clash/CaiXinChuanMei/CaiXinChuanMei.list": "6247ea7308999f9263571f0c2e882b320a19653996a67b41a31723ca8e3eb70a"
       }
     },
+    "37d63ddac68fd881d42b21fae516c5ccfb6b44c07224c41f67f072b5beebfac8": {
+      "files": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.yaml": "15a761bcefd4c8400f900174f457f488c6cd3300e76699667f1df3fbb046bc9f"
+      },
+      "post": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.yaml": "15a761bcefd4c8400f900174f457f488c6cd3300e76699667f1df3fbb046bc9f"
+      }
+    },
     "37fa51274a1d8ac66e0d86b9d4c9c1415ac80d8313d0c79c05a71b49b992fbac": {
       "files": {
         "rule/Clash/Jfrog/Jfrog.yaml": "6b60dd46a27d821ac95073f87c3f07d5240ffca95bca361b88f6732f5a6fbf5f"
@@ -3824,6 +3984,14 @@
         "rule/Clash/Hupu/Hupu.yaml": "101622bc0cab96efa51cb2526ddff7edbbdb695b6f0fd90e9a0f2b7e871fc67e"
       }
     },
+    "3930dfbbfe8b81e8daf36f39988663313817cb541dbb4467ee5b6ce7a830a103": {
+      "files": {
+        "rule/Clash/BardAI/BardAI.list": "0fbfaf0365e7779a627447393f15c4cfd31d888a6843d5bc4aa28c107b569f7a"
+      },
+      "post": {
+        "rule/Clash/BardAI/BardAI.list": "0fbfaf0365e7779a627447393f15c4cfd31d888a6843d5bc4aa28c107b569f7a"
+      }
+    },
     "394273fbacc615032b99cd37d270665598f217cf327d7186d97e7cad9c8c51a4": {
       "files": {
         "rule/Clash/Pandora/Pandora_No_Resolve.yaml": "455ee4d6d388f92a6f0e60d153df6b4b12e012c46f94ecca51bcf11bdaeedbe7"
@@ -3870,6 +4038,14 @@
       },
       "post": {
         "rule/Clash/PotatoChat/PotatoChat.list": "b21f859af8875c8de592996f629cbc671274eb0ac6135838693f7d1551bef907"
+      }
+    },
+    "3a44f4ee63702f73224c90088b6548d6ad7e02292bbed965a984c3debc30591c": {
+      "files": {
+        "rule/Surge/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      },
+      "post": {
+        "rule/Surge/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
       }
     },
     "3a5416e88ffa9a804bc0033075883eee66dfe913db44fe0a2e2b068b6cabbdd9": {
@@ -4210,10 +4386,10 @@
     },
     "3eb8813e99bf11c9ca04704d49af3a7ddf2519b8faf457f1952ff86ff82ef4db": {
       "files": {
-        "rule/Clash/Copilot/Copilot.list": "33136b824151fa9fd642580dd0d1a3e5f693bedc99b0b9e3a79213c49be16239"
+        "rule/Clash/Copilot/Copilot.list": "b27ed5ce6ce36e6304ea88da5f3388da738c00dceb4e284b0f4ca27d94db14f1"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot.list": "33136b824151fa9fd642580dd0d1a3e5f693bedc99b0b9e3a79213c49be16239"
+        "rule/Clash/Copilot/Copilot.list": "b27ed5ce6ce36e6304ea88da5f3388da738c00dceb4e284b0f4ca27d94db14f1"
       }
     },
     "3ef1c5f547f9a3e48ec756f66f2188a448e5acba4a526bc3387dd2243825366c": {
@@ -4370,10 +4546,10 @@
     },
     "41bcd3869cd51993e850ccea8db187fead332ad9bd0171982eb76382ae027278": {
       "files": {
-        "rule/Clash/BardAI/BardAI.list": "3dc3871ee3dcd4045d32794de6b8e5ffd9123afb71d67b3f1115b5dd3d53e619"
+        "rule/Clash/BardAI/BardAI.list": "0fbfaf0365e7779a627447393f15c4cfd31d888a6843d5bc4aa28c107b569f7a"
       },
       "post": {
-        "rule/Clash/BardAI/BardAI.list": "3dc3871ee3dcd4045d32794de6b8e5ffd9123afb71d67b3f1115b5dd3d53e619"
+        "rule/Clash/BardAI/BardAI.list": "0fbfaf0365e7779a627447393f15c4cfd31d888a6843d5bc4aa28c107b569f7a"
       }
     },
     "41e7f224d0749e3db00842fd8d34103bbd85060c3c11f4a00cddef34f2bef4eb": {
@@ -4422,6 +4598,14 @@
       },
       "post": {
         "rule/Clash/Dailymotion/Dailymotion.list": "7dac1624b3a50d4d2b110d3d3d30d94c578ab8294275b4279d36b1174a8377af"
+      }
+    },
+    "42ff885d3152cc114646dbab1ce74139ed322edf955e995ebc7fd5aa996d74cb": {
+      "files": {
+        "rule/Loon/OpenAI/OpenAI.list": "ea0bfce54c121a50e740ceb02357b01d4e8976ca4b41caad0211437ed0f75d70"
+      },
+      "post": {
+        "rule/Loon/OpenAI/OpenAI.list": "ea0bfce54c121a50e740ceb02357b01d4e8976ca4b41caad0211437ed0f75d70"
       }
     },
     "43532e4edf82a8344edac1bf6053057efff8693ae56c195638e3970b26559c7d": {
@@ -4960,6 +5144,14 @@
         "rule/Clash/DouBan/DouBan.list": "49b368896f4e38f4a31ac911b8e13fee923575884afe0d27a3cb1a0735551742"
       }
     },
+    "4a0e209c61083cdc71f31f55026a4e309c0191a2008642433a357082a5499478": {
+      "files": {
+        "rule/Clash/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      },
+      "post": {
+        "rule/Clash/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      }
+    },
     "4a22b29fd28cba841a1d120e84bc75b618feec60241f326166cf958776e36b63": {
       "files": {
         "rule/Clash/EasyPrivacy/EasyPrivacy_Classical_No_Resolve.yaml": "6bddc9e3c650d5066171ba13576b156d210e40fc512968b60e60c57da93d48d7"
@@ -5002,10 +5194,10 @@
     },
     "4a8c0c220af05b52444e20279eb3795f30776408ff3eb90f958f1ec091ec0947": {
       "files": {
-        "rule/Clash/Claude/Claude.list": "870e7e25d798e7f00338507f773b0eea4dfd15e25e9df0a27d5ae421ae1ab378"
+        "rule/Clash/Claude/Claude.list": "9831a7a330b252668ad976b738b4b81688c7d2dbf0c0fdbb4504fb9d5c8eafb9"
       },
       "post": {
-        "rule/Clash/Claude/Claude.list": "870e7e25d798e7f00338507f773b0eea4dfd15e25e9df0a27d5ae421ae1ab378"
+        "rule/Clash/Claude/Claude.list": "9831a7a330b252668ad976b738b4b81688c7d2dbf0c0fdbb4504fb9d5c8eafb9"
       }
     },
     "4aa2dc8416951fe3e17ec1ecd53914a89d97531b61f3b6609417fadaec06a9b8": {
@@ -5022,6 +5214,14 @@
       },
       "post": {
         "rule/Clash/Haveibeenpwned/Haveibeenpwned_No_Resolve.yaml": "7754e2796c901a18ac7e39608975746de173ebc1e7e492d54e089ac8d9aa42b6"
+      }
+    },
+    "4ac57fe2479ad87419510f738b77244e5b01d22fe83a73e8f3399682faf7ad5c": {
+      "files": {
+        "rule/Surge/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
+      },
+      "post": {
+        "rule/Surge/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
       }
     },
     "4ad6ae3bcc553c97cd26f49e1c16cbe6e67862ca1c00a73a5e2f2840f8fc381f": {
@@ -5808,6 +6008,14 @@
         "rule/Clash/AppleTV/AppleTV.list": "92ca64869704522524fd023066ea8b11666817122e1b4f743aab3df5224dab2e"
       }
     },
+    "56cc02fd261b3d6bc7811108365a88e237d93934de17e0f4fe8b0ef810bc8dce": {
+      "files": {
+        "rule/Clash/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      },
+      "post": {
+        "rule/Clash/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      }
+    },
     "57166d9fbb79061767a664cb4735ba14e3a9cbddebc4c13e5d9b4d8271c9ffa3": {
       "files": {
         "rule/Clash/Linguee/Linguee.list": "ac3ca2df808f5ddff607f8c925c9828d37b0a823e64574d31b3e6f70a47ec2f9"
@@ -5862,6 +6070,14 @@
       },
       "post": {
         "rule/Clash/Cloud/CloudGlobal/CloudGlobal.list": "34f561470c0ce30e61ce5dfd0532ba2174f547b3d3b5b3d140ac7c47238e6439"
+      }
+    },
+    "57d99ca74dabcdfa1ced02c98f171c21fbbd62786138650845d2bdd4ad41e888": {
+      "files": {
+        "rule/Shadowrocket/OpenAI/OpenAI_Resolve.list": "2565a93630c38320fde11ef422c8d50fa18e333e5e15f6d658b98f1d7a05e1bc"
+      },
+      "post": {
+        "rule/Shadowrocket/OpenAI/OpenAI_Resolve.list": "2565a93630c38320fde11ef422c8d50fa18e333e5e15f6d658b98f1d7a05e1bc"
       }
     },
     "57efe7ad68aed9a4c4e1edaf5a442a81dca44974f019004b518c8b092a25b154": {
@@ -5952,6 +6168,14 @@
         "rule/Clash/Sharethis/Sharethis.yaml": "df9dfeeeaedf45bcb37dd5470d55c9ccd311080277b2135ab2dceca4941af40b"
       }
     },
+    "599c36fd1702712e2d26ce2242d8c0465d7cf3d1db0c1ac8306870ead6bee05c": {
+      "files": {
+        "rule/Loon/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      },
+      "post": {
+        "rule/Loon/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      }
+    },
     "59bb9ebc521654b05c7a89241c682bb883a6b9db7bf51c056b07eb46c43fbe12": {
       "files": {
         "rule/Clash/Blued/Blued.yaml": "580bb0d9330182d746855eda42ea5c8f019da653f10c44007bec5aeae57deaf7"
@@ -5998,6 +6222,14 @@
       },
       "post": {
         "rule/Clash/Addthis/Addthis.list": "df6419147be8263d628742e0ac2b147b87d638ce87231116faede705d651b6c2"
+      }
+    },
+    "5ad09d5495f0e9cc6cc60827215b81f2b55a3c1d490525662cedb6cb59add0b8": {
+      "files": {
+        "rule/Clash/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      },
+      "post": {
+        "rule/Clash/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
       }
     },
     "5ad70773cfb7e7345438bb6da3343b74d8a79b377fa6eee237e375b0f19a7c9b": {
@@ -6086,6 +6318,14 @@
       },
       "post": {
         "rule/Clash/ZhongWeiShiJi/ZhongWeiShiJi.list": "416e4a3a899d14141f34c1396de3a8c85f32a16df9fbf01ee697463963b6f418"
+      }
+    },
+    "5b83cb7f506f4b885b5aadde3f99f64d5a9c655b6bbbcd492522940d439d0c50": {
+      "files": {
+        "rule/Surge/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      },
+      "post": {
+        "rule/Surge/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
       }
     },
     "5b86863d51db172a821e4a5e85205861295ebb1b2afc979a15f4dff5821242be": {
@@ -6246,6 +6486,14 @@
       },
       "post": {
         "rule/Clash/Spark/Spark_No_Resolve.yaml": "f34c61bf9ea8261fe6a3e073d85e89289487594f0c37493dc27c4f7fe17cf453"
+      }
+    },
+    "5da8349a80958eaa4577e01d809c5b90d21653527abb2290ba2e25ac32e7126d": {
+      "files": {
+        "rule/QuantumultX/Anthropic/Anthropic.list": "bb71b2a9c12da72cf24d849636e01c61595f5e99424a2ac7fe8a38870aa5beac"
+      },
+      "post": {
+        "rule/QuantumultX/Anthropic/Anthropic.list": "bb71b2a9c12da72cf24d849636e01c61595f5e99424a2ac7fe8a38870aa5beac"
       }
     },
     "5dcda65fc540d48bee710c4dc022f3707d78a71be3320e6eb36671a70ef46b10": {
@@ -6568,6 +6816,14 @@
         "rule/Clash/3dm/3dm.yaml": "2b4f49eda70762a1e896fd97581db7b5c6af3b399eb5064cc17beca479ba4ec8"
       }
     },
+    "61ca6e8a1a34ebdde64214f41840c36b36584b43a5aadbb77d2519fe4ef79639": {
+      "files": {
+        "rule/Clash/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      },
+      "post": {
+        "rule/Clash/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      }
+    },
     "61e5f088684d298dbebedbf177518516082a28b9cfc80571b79d9856ee9f5045": {
       "files": {
         "rule/Clash/XueErSi/XueErSi_No_Resolve.yaml": "8ebbda60dbafba6eba5ce61601f5614388fc41c66dc6b977c113647815d12c7a"
@@ -6606,6 +6862,14 @@
       },
       "post": {
         "rule/Clash/Dell/Dell_No_Resolve.yaml": "f3aceed18ff5358fa9c805fa512089a50d9f0ccbbd3f5cc975f2eff20665f14e"
+      }
+    },
+    "626574de1a54b35f2914455b60a28c6e98b088e2fed476a8c859c4f672ae462e": {
+      "files": {
+        "rule/Clash/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      },
+      "post": {
+        "rule/Clash/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
       }
     },
     "62f9dafd9644b792ff19529254f446d3f97dea54215fb092c1c3c41c766965da": {
@@ -7042,10 +7306,10 @@
     },
     "68b8a112acead9167cc32110787f80685f4e035bfe57cf812c40802e42833974": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI.list": "6cf1efebc937d6cb40a1c852291912cb4b997df16f02bebf336ac7bde8207efa"
+        "rule/Clash/OpenAI/OpenAI.list": "4dba784b73ab21e8ae9704f8ac3f0ea952749d8bab47cb455b6915c0dd57d664"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI.list": "6cf1efebc937d6cb40a1c852291912cb4b997df16f02bebf336ac7bde8207efa"
+        "rule/Clash/OpenAI/OpenAI.list": "4dba784b73ab21e8ae9704f8ac3f0ea952749d8bab47cb455b6915c0dd57d664"
       }
     },
     "68c7db76a496f23d5d96030d852e90191da7e9faf1802c5fdaa2ac39b267ba44": {
@@ -7224,6 +7488,14 @@
         "rule/Clash/AdobeActivation/AdobeActivation.yaml": "decda2819a1aef0604bc5dfea50d43e36acb9eedd040a4c8e1dd6565435e792d"
       }
     },
+    "6c07a96f1428cc94942e16fd8197f26f9898e0abf0f7e22347f43411a4406d33": {
+      "files": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      },
+      "post": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      }
+    },
     "6c0b30a54a289cc45b727e24a56ce21779abfa80d40ecb6d7c0751db86e22565": {
       "files": {
         "rule/Clash/Zoho/Zoho.yaml": "b35854402b9cbffc8434537283c3ab41e456dad84e933e653f35b319e8b7dfaa"
@@ -7270,6 +7542,14 @@
       },
       "post": {
         "rule/Clash/Shanling/Shanling_No_Resolve.yaml": "bcb88efcbe5eb9627a75f86cafce95c4353bb2e294e4cdab6028e9653936ec93"
+      }
+    },
+    "6ca8365a53142cb6490d02a1e68f4f66618196db82c26e7674980d37626b4a62": {
+      "files": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.yaml": "15a761bcefd4c8400f900174f457f488c6cd3300e76699667f1df3fbb046bc9f"
+      },
+      "post": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.yaml": "15a761bcefd4c8400f900174f457f488c6cd3300e76699667f1df3fbb046bc9f"
       }
     },
     "6cab5914162cdf95144ef4688fa44c95d70ffae0bbb6acc8c5fc3b4024dc11a0": {
@@ -7334,6 +7614,14 @@
       },
       "post": {
         "rule/Clash/Geely/Geely.list": "9858d5da581336a0f44b8e0dea87852847e880cee915a76341d60f393a76907a"
+      }
+    },
+    "6d54b9abe117801a482c3e3828f2d4ded46dd7b0a9bee1bc6b175c1c01aa51f6": {
+      "files": {
+        "rule/QuantumultX/Gemini/Gemini.list": "d53d25719f3be5e6be1554cfc8018854071b78c8642c5c16a7bbafe30343aad8"
+      },
+      "post": {
+        "rule/QuantumultX/Gemini/Gemini.list": "d53d25719f3be5e6be1554cfc8018854071b78c8642c5c16a7bbafe30343aad8"
       }
     },
     "6d5d205f6a8476188599762e0307c981ac7ef756bb932a091cad63904869192e": {
@@ -7414,6 +7702,14 @@
       },
       "post": {
         "rule/Clash/Apple/Apple_Classical_No_Resolve.yaml": "80de1a1a402455022658b97885b6024a65504f2f25e31a29880e06022b7cb1ec"
+      }
+    },
+    "6ee8a7d316e93fc531b92f06143530e7f30108228c3d54abe9d19f92ab4487f7": {
+      "files": {
+        "rule/Shadowrocket/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      },
+      "post": {
+        "rule/Shadowrocket/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
       }
     },
     "6eeaa9bf6fc3c048f0b2134cab0327de39dd225abfcdada4ce2aca9bdee1c2c1": {
@@ -7510,6 +7806,14 @@
       },
       "post": {
         "rule/Clash/AppStore/AppStore_No_Resolve.yaml": "96b8bdfd20cd3937ab08b2eaba286eac7e83e3e580c1e967861f7622ad9d43bf"
+      }
+    },
+    "70e9f44a213dc4eec4a9baac25bd6e3da7262c73e9a95ea7fc20ee92defe8c28": {
+      "files": {
+        "rule/Loon/Copilot/Copilot_Resolve.list": "7eec3ffdde7c03868532179ebd98144035c429545c22ec01b2ce580a9abda508"
+      },
+      "post": {
+        "rule/Loon/Copilot/Copilot_Resolve.list": "7eec3ffdde7c03868532179ebd98144035c429545c22ec01b2ce580a9abda508"
       }
     },
     "70eced3a0a854f9bad61e5c1f65f75789ca69056ab4922be7e1c228a043dd2a3": {
@@ -7792,6 +8096,14 @@
         "rule/Clash/Spotify/Spotify.yaml": "e74599390a87e5ed6da929f80be9c173cf3017e41b8f69362c2028d248875a79"
       }
     },
+    "7461fead38a180caad46cd65a3ef13179cee0f299f36a3d98cc055bddca4f9db": {
+      "files": {
+        "rule/Clash/Mistral/Mistral.yaml": "34c3210cd983b59e5caa196e21b087baefce29f1256ff6a32f45a902cac9253d"
+      },
+      "post": {
+        "rule/Clash/Mistral/Mistral.yaml": "34c3210cd983b59e5caa196e21b087baefce29f1256ff6a32f45a902cac9253d"
+      }
+    },
     "7465925b67b7789083ab5ea398843c9a58677d8f1fcaff57d6e47c3868605b36": {
       "files": {
         "rule/Clash/BaiShanYunKeJi/BaiShanYunKeJi_No_Resolve.yaml": "41ae6da90246c8ad901e83c67867e7d53ff4859841ac241e4bfa85f1988cd924"
@@ -7864,6 +8176,14 @@
         "rule/Clash/BeStore/BeStore_No_Resolve.yaml": "3d104d84dfc94c5ce8a14e22d47f103d895d7b965501a55d420a8d888750dffa"
       }
     },
+    "7503e36191c3c2ed854047b1fa33ffb0f50345d5509526b3287630d5bc3f655c": {
+      "files": {
+        "rule/Clash/Claude/Claude.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
+      },
+      "post": {
+        "rule/Clash/Claude/Claude.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
+      }
+    },
     "750b6f3c78642cf778cc818563ee56653353ff5a99f66c31ff1cd9d88f789e70": {
       "files": {
         "rule/Clash/Duckduckgo/Duckduckgo.list": "60b68051c8e59658a27a6d25a5e377d526ad71115cd393492954baba7e509632"
@@ -7902,6 +8222,14 @@
       },
       "post": {
         "rule/Clash/ZDNS/ZDNS_No_Resolve.yaml": "654e7307d6e4b26a2cdd8458524a16440d81302b3a62a5c19c2f3d0c47bb30cd"
+      }
+    },
+    "7596e30f1f5bd09e9282cde5ec6833c53c8aff42fe81bd4abe5e851ca546ed11": {
+      "files": {
+        "rule/Surge/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
+      },
+      "post": {
+        "rule/Surge/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
       }
     },
     "75bc75ecfa44584fbe704a1f6d7d5cb8d9f7dc5d15b210f6787b9eadb57b0356": {
@@ -7944,12 +8272,20 @@
         "rule/Clash/myTVSUPER/myTVSUPER_No_Resolve.yaml": "e4887b878169ee029eaa69c82f8bfdd4f401db411fb97b57fae6da1adbf1c32e"
       }
     },
-    "7603b4f0e7f542d3d74125dd6dfb653e2173aa6522f53729792d68d9f1598e35": {
+    "75fad9680e85a460a548fd6c9967d0ca7c2b79cc196cac69b2d3a41c1f193a8d": {
       "files": {
-        "rule/Clash/Claude/Claude.yaml": "ef21df39005b17dbd84aa65a47162b36fb5e72754cd32384146474ed488df482"
+        "rule/Clash/Mistral/Mistral.yaml": "34c3210cd983b59e5caa196e21b087baefce29f1256ff6a32f45a902cac9253d"
       },
       "post": {
-        "rule/Clash/Claude/Claude.yaml": "ef21df39005b17dbd84aa65a47162b36fb5e72754cd32384146474ed488df482"
+        "rule/Clash/Mistral/Mistral.yaml": "34c3210cd983b59e5caa196e21b087baefce29f1256ff6a32f45a902cac9253d"
+      }
+    },
+    "7603b4f0e7f542d3d74125dd6dfb653e2173aa6522f53729792d68d9f1598e35": {
+      "files": {
+        "rule/Clash/Claude/Claude.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
+      },
+      "post": {
+        "rule/Clash/Claude/Claude.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
       }
     },
     "762ad7274c667a2ea85374f3f8230ff4409833c8be551e5672aafede6a7a0fe5": {
@@ -8034,10 +8370,10 @@
     },
     "780942a736a063bac231e3299fa189ee4e3e3353bc2bd4e208c6b1dc5ba05bf4": {
       "files": {
-        "rule/Clash/Gemini/Gemini.yaml": "d76e9822f72a69860b7d3086db61bbbef53014c57e3dc12472150c62a4f6434b"
+        "rule/Clash/Gemini/Gemini.yaml": "d67f83c64e511fe6419fae2674c8ae1e688370f2253562f4cd1a80db21b4560b"
       },
       "post": {
-        "rule/Clash/Gemini/Gemini.yaml": "d76e9822f72a69860b7d3086db61bbbef53014c57e3dc12472150c62a4f6434b"
+        "rule/Clash/Gemini/Gemini.yaml": "d67f83c64e511fe6419fae2674c8ae1e688370f2253562f4cd1a80db21b4560b"
       }
     },
     "781c609bb527b1d6306142ce3678d6c83549cfde69a886d0fa11c035b567de3a": {
@@ -8192,6 +8528,14 @@
         "rule/Clash/CAS/CAS_No_Resolve.yaml": "fd385b7d120a007f5ea45f4792866e2a5f0c1fc8490d5e884a7aea1f9c6dac44"
       }
     },
+    "7a404dfc02ccf6f086d79bf1497474f3a53bcbda17a7d5aa77740b5506c06c9f": {
+      "files": {
+        "rule/Clash/Gemini/Gemini.yaml": "d67f83c64e511fe6419fae2674c8ae1e688370f2253562f4cd1a80db21b4560b"
+      },
+      "post": {
+        "rule/Clash/Gemini/Gemini.yaml": "d67f83c64e511fe6419fae2674c8ae1e688370f2253562f4cd1a80db21b4560b"
+      }
+    },
     "7a51ab103a267a6d4af65f192fa5ff5bfa4a1bea1d22157bb6dec499a3c7dad9": {
       "files": {
         "rule/Clash/ChinaMax/ChinaMax_IP_No_IPv6.yaml": "bade14ba82d3ea3f98152a608c3f3fd19441f0a64f472250a36fd69ff6a4a942"
@@ -8272,6 +8616,14 @@
         "rule/Clash/AirWick/AirWick_No_Resolve.yaml": "cd64a490d3e8e0ede06fc39a4b051eb1ba0ddaa747417909afae47e949ee69b1"
       }
     },
+    "7bf76f123b0ab49485f1f83dde4b750fca6d842e9ebd28ad2a59c51c13152337": {
+      "files": {
+        "rule/Surge/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      },
+      "post": {
+        "rule/Surge/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      }
+    },
     "7c13209b199f3ce717dd257c37260cadee10709632c25c3b31527cb14f1dadeb": {
       "files": {
         "rule/Clash/ShiNongZhiKe/ShiNongZhiKe.yaml": "a44fd227a6a968230765af5dfba04d47ffd707d37c423340bcf81b5694bb0db3"
@@ -8286,6 +8638,14 @@
       },
       "post": {
         "rule/Clash/Anaconda/Anaconda.yaml": "0980af1b2213a1619d49bab449c5fe1ebe7e19420915233a198eeb5bd7e197f6"
+      }
+    },
+    "7c4c85d7d97df11836517ed8f5de8c3395743115ea3d8bc37246bce4abcb0f5e": {
+      "files": {
+        "rule/Clash/Perplexity/Perplexity.yaml": "682abba577859dee7f550585ebcd7b0f12692e27418700c12090fa4549e269b2"
+      },
+      "post": {
+        "rule/Clash/Perplexity/Perplexity.yaml": "682abba577859dee7f550585ebcd7b0f12692e27418700c12090fa4549e269b2"
       }
     },
     "7c4c879df86568ee4865202f48c908374154bba0269f9e1997eef75c467f7353": {
@@ -8662,6 +9022,14 @@
       },
       "post": {
         "rule/Clash/Game/GameDownload/GameDownload.yaml": "dd72a47d8d49bbcb0108667238efa2e881c205b0e18e382002ca2d92db0e6d6c"
+      }
+    },
+    "80d043f69ca62415e64361e6e7d93af9d10f84f063d7fbb3e383b80e7eb25fc0": {
+      "files": {
+        "rule/Shadowrocket/Copilot/Copilot.list": "719bbc44e38433d259f3cbd5b2361d1d7e1ef382e50b7d6e56962b05f76f2b6b"
+      },
+      "post": {
+        "rule/Shadowrocket/Copilot/Copilot.list": "719bbc44e38433d259f3cbd5b2361d1d7e1ef382e50b7d6e56962b05f76f2b6b"
       }
     },
     "80d19f8a57cf3657ef36ecdd1cbd0cd08ad6f1c40988f6d9fabfdb2245e1fbd8": {
@@ -9176,6 +9544,14 @@
         "rule/Clash/Blizzard/Blizzard.list": "0ccab4f1bb94504abc671f4c901cbccf3a8e4f871c1f8d30b785c87c7a58b446"
       }
     },
+    "87759307dc1dfca449412697efbf69bea00b1d9136b259b8fb51fac77323b074": {
+      "files": {
+        "rule/Shadowrocket/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
+      },
+      "post": {
+        "rule/Shadowrocket/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
+      }
+    },
     "879cc70d0ff787be1287048c7b188b77578f42c9dc863805b00266dd99a3f9c1": {
       "files": {
         "rule/Clash/NGA/NGA.list": "acf705830496c010eb93ac41e13e0caf65200e5dcc2059bf975e46ea783f061c"
@@ -9392,6 +9768,22 @@
         "rule/Clash/Americasvoice/Americasvoice.list": "fdfe8c62a7205984bf89427432f773b927ebab6f9c297e6c7edfccf31c274775"
       }
     },
+    "8a625951a3033acb264bd38392942e1540cd51b987e84e9ee201da2281aca18e": {
+      "files": {
+        "rule/Clash/Copilot/Copilot.list": "b27ed5ce6ce36e6304ea88da5f3388da738c00dceb4e284b0f4ca27d94db14f1"
+      },
+      "post": {
+        "rule/Clash/Copilot/Copilot.list": "b27ed5ce6ce36e6304ea88da5f3388da738c00dceb4e284b0f4ca27d94db14f1"
+      }
+    },
+    "8a85027081a7fc122def70f7dd2a33ba3593dddf5ac8b9835dbe12d9697507d4": {
+      "files": {
+        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
+      },
+      "post": {
+        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
+      }
+    },
     "8a8f5150560ec38922f7a96cd7cfc4247f54aef284c729a202144e545e51aa73": {
       "files": {
         "rule/Clash/DaMai/DaMai_No_Resolve.yaml": "da389cde914b23680f23dba5e679bde47209902fd7c65b6322dd855c3dcdbe69"
@@ -9552,6 +9944,14 @@
         "rule/Clash/U17/U17_No_Resolve.yaml": "bc417b748a5ab7a7ef38e6bf171055ce2246e675fd917f6a021643fc730fd1bc"
       }
     },
+    "8cad05f7770c78504ef5d87abd21dacd75ba19eb6f0da24cbf52cf224d4fb916": {
+      "files": {
+        "rule/Loon/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      },
+      "post": {
+        "rule/Loon/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      }
+    },
     "8cd4777c6a5fbd1c0b62c0a8b522828678337101075a847c11c6afcdb3c2efcc": {
       "files": {
         "rule/Clash/Lan/Lan.list": "65decf7849f37cbc66cff8e1155ea1d6344c748c6ead772db2f9e9c7e6a1d546"
@@ -9704,6 +10104,14 @@
         "rule/Clash/XueQiu/XueQiu.list": "210e000358cc1d28d828c7ed80ce1024aded83567814c54d37320aacbcc1395d"
       }
     },
+    "8f56d5f052dfc671f8a48c496a38692d92929eed948731d0e913a2c78c80b185": {
+      "files": {
+        "rule/Clash/Anthropic/Anthropic.list": "6b546651b264848a3e44731a52a8f35032f9be776e1925d8f1b9106ab29b49e0"
+      },
+      "post": {
+        "rule/Clash/Anthropic/Anthropic.list": "6b546651b264848a3e44731a52a8f35032f9be776e1925d8f1b9106ab29b49e0"
+      }
+    },
     "8fd76c6d5555cd73eb9b2f3376ec89dac031a1eb569bc05324481e3ddf99b60b": {
       "files": {
         "rule/Clash/Threads/Threads.list": "e9b86a51952a33ee50ad3b31dc98bcb09699bbeb4d21371762b1124cb0091e86"
@@ -9758,6 +10166,14 @@
       },
       "post": {
         "rule/Clash/Japonx/Japonx.yaml": "64e8aa544d5374127dccda72f64729b4906f6a5163ca05cb6112b4109675e19b"
+      }
+    },
+    "90f18586d924c70b9033c4b07e7711d1e1744165823300e207263b38b226c432": {
+      "files": {
+        "rule/Loon/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
+      },
+      "post": {
+        "rule/Loon/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
       }
     },
     "9129a39c2bbc65731b37bfebe852e0a244029230fe2d2efdb5ea6093e972a6c6": {
@@ -10126,6 +10542,14 @@
       },
       "post": {
         "rule/Clash/Instagram/Instagram_No_Resolve.yaml": "3ea6152876ff1c998b9434761898af1242bcc6bcaeaed74023910d9d08c64e39"
+      }
+    },
+    "971188824a294fdbdedfae0285de13dd2a936386afa90a54111db8e6e5802e0e": {
+      "files": {
+        "rule/Clash/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      },
+      "post": {
+        "rule/Clash/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
       }
     },
     "974c8a5e7337fd1ce81ed7f6783abfcd4844e0f6570bed335f6029f4ffaae641": {
@@ -10776,6 +11200,14 @@
         "rule/Clash/Picsee/Picsee.yaml": "54899ada951b0e52b94c542b4858431b7ee31b6410a6a7419e503a6479d1c1b8"
       }
     },
+    "a0898ef02b04720a3dfecc1d08e904386769e68d027bd6b87fa5464afe7be327": {
+      "files": {
+        "rule/QuantumultX/Mistral/Mistral.list": "5045cd5a6d3dc4c01e82e5a5d10c9980a2c6fb5a4db36a9c058f2e4b0a07cf99"
+      },
+      "post": {
+        "rule/QuantumultX/Mistral/Mistral.list": "5045cd5a6d3dc4c01e82e5a5d10c9980a2c6fb5a4db36a9c058f2e4b0a07cf99"
+      }
+    },
     "a100ce6bae6863878d3052f7dc07b7d3b37ec12bb1f6f5ec5947378316601fa5": {
       "files": {
         "rule/Clash/Gucci/Gucci.yaml": "5558af726ae40335cedc058fe3eb8a3bda052ae7d203979180e39c7d1d4abad0"
@@ -10814,6 +11246,14 @@
       },
       "post": {
         "rule/Clash/AppleProxy/AppleProxy.yaml": "683103c41509c1f660c71d39ce5290e1a13a4176ec061822f4e8e83934afba4b"
+      }
+    },
+    "a12ef27c486a8d0865b43b96b595874aa26650e829494c53e912b093b8e9bcee": {
+      "files": {
+        "rule/Shadowrocket/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
+      },
+      "post": {
+        "rule/Shadowrocket/Claude/Claude.list": "e16f9ef02b19d43c0ad57f5814ec907c0f5e1a1cdc283ecdb3ce83c5011867a3"
       }
     },
     "a1350387ac1f2b4ac00ddc2a37db428e4594d1e933ac582cad5c6e74ab108de6": {
@@ -10896,6 +11336,14 @@
         "rule/Clash/Ubisoft/Ubisoft.yaml": "9c9c5a1f1fde1e6030313030883bd43aa0e44ee1d77fec882cdff97e8368a955"
       }
     },
+    "a236c9218baf1bb60926de65c21fd65c55119a5b57feeb14c029ba1c021c153c": {
+      "files": {
+        "rule/Surge/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
+      },
+      "post": {
+        "rule/Surge/Gemini/Gemini.list": "3dbbe5864d7170e2c22cc77f4d4b788b7103b735852f2c1a40a0fc21f12938ee"
+      }
+    },
     "a23926c671fac8642e58b7cdba14d1a2631100155ef12e7eb5a09f176fbfce3f": {
       "files": {
         "rule/Clash/KuangShi/KuangShi_No_Resolve.yaml": "47d19119437750c394565ca12bac13ac5a0c5eb4651fcf2a3c4655807012b4dd"
@@ -10960,6 +11408,14 @@
         "rule/Clash/Scaleflex/Scaleflex_No_Resolve.yaml": "5ae3ba4468d52a76b814144b7b5fe4a1872bde73cd8da3bfdc03b7b737fdbcdd"
       }
     },
+    "a2f8285435aef4b3e9da05b1f24d2e71deb62ce9a5d37fd80204de604f4a936b": {
+      "files": {
+        "rule/Clash/DeepSeek/DeepSeek.yaml": "95eec403e32f86e303a862a863b47dd2891eb461895a1ec3be28b5f95b37b491"
+      },
+      "post": {
+        "rule/Clash/DeepSeek/DeepSeek.yaml": "95eec403e32f86e303a862a863b47dd2891eb461895a1ec3be28b5f95b37b491"
+      }
+    },
     "a303f32c873f5f42a04defca7111789ed58b768ac1ee730e2753baf05ada392c": {
       "files": {
         "rule/Clash/Tumblr/Tumblr.list": "5a7c922263c12cc73599b655d9a99f339698f35e1c1d9c40bb6141a288c33d90"
@@ -11022,6 +11478,14 @@
       },
       "post": {
         "rule/Clash/XueErSi/XueErSi.yaml": "8ebbda60dbafba6eba5ce61601f5614388fc41c66dc6b977c113647815d12c7a"
+      }
+    },
+    "a388f03342d6aa29e146df913f70ea9fde513f5d630fc9af4d7c28bf57e830bd": {
+      "files": {
+        "rule/Shadowrocket/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
+      },
+      "post": {
+        "rule/Shadowrocket/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
       }
     },
     "a38cb50d102cea1ec71b22a14963edd9b8c44bbfd7f95acf8f1c76a71f3f6bad": {
@@ -11090,10 +11554,10 @@
     },
     "a4a392b2ce779e6b48077e4a1b60b6b3b0e318b29fb4ff487080a24698cd125c": {
       "files": {
-        "rule/Clash/BardAI/BardAI.yaml": "d25962c56c02227c961c46ac905dd2d5878bdda9994e92437f2c2b81b59d9b82"
+        "rule/Clash/BardAI/BardAI.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       },
       "post": {
-        "rule/Clash/BardAI/BardAI.yaml": "d25962c56c02227c961c46ac905dd2d5878bdda9994e92437f2c2b81b59d9b82"
+        "rule/Clash/BardAI/BardAI.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       }
     },
     "a4d8fd9954c1d98be2d0640477a0b41ce642a7c6bf699872773a2bb8686e31f9": {
@@ -11214,6 +11678,14 @@
       },
       "post": {
         "rule/Clash/AmazonTrust/AmazonTrust.yaml": "4a62208a66e7c73b255b02476c3c31557b6c499e8234ff02fe3bd4d4bcbe2363"
+      }
+    },
+    "a6a6c3a5f40132ff849dcb6334ab6b5f09e3518d8ab193fe4fce5433ef2a6dbe": {
+      "files": {
+        "rule/Loon/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      },
+      "post": {
+        "rule/Loon/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
       }
     },
     "a6afa2c64f46951d95eb15b7342d9c942af0dd24006d454bca46ab30d184717c": {
@@ -11480,6 +11952,14 @@
         "rule/Clash/HunanTV/HunanTV.yaml": "d13b59329242d53519d47842c4f7d8207feb2a444bf7adfe1b101ca4ed5e4908"
       }
     },
+    "a99edd50fcbef80e88b100fd7695a01da3c9230233bf20a63c64f326329c9643": {
+      "files": {
+        "rule/QuantumultX/OpenAI/OpenAI.list": "eaca54dcbfa5576ff6d6c5b0c74328763ed0c338efebbd691e98dd37a9e47f03"
+      },
+      "post": {
+        "rule/QuantumultX/OpenAI/OpenAI.list": "eaca54dcbfa5576ff6d6c5b0c74328763ed0c338efebbd691e98dd37a9e47f03"
+      }
+    },
     "aa172778695fd8c9294b401856fdb52658d36ac88b589b78313972fbc9d8e3fd": {
       "files": {
         "rule/Clash/Overcast/Overcast.list": "94e67fd10d6599fff0ccea6da49825ad4011405bc36f1710a144bc3b9b78b9e9"
@@ -11672,6 +12152,14 @@
         "rule/Clash/Vancl/Vancl.list": "547adef2df5baa220f4e98d3c8944e95454fb47d864c6a2ec110911b251031ff"
       }
     },
+    "ae4471305cb1ce8bfe9b95e38a106f23490a0405cbe34afd1c68cdb8f5e68f93": {
+      "files": {
+        "rule/Clash/Claude/Claude.list": "9831a7a330b252668ad976b738b4b81688c7d2dbf0c0fdbb4504fb9d5c8eafb9"
+      },
+      "post": {
+        "rule/Clash/Claude/Claude.list": "9831a7a330b252668ad976b738b4b81688c7d2dbf0c0fdbb4504fb9d5c8eafb9"
+      }
+    },
     "ae5a01dcb47fd79b0c8cbdcfdf8e5da842ff38892c1fde348c0a2eabe7a355e6": {
       "files": {
         "rule/Clash/ChinaDNS/ChinaDNS.yaml": "d944168ef7c0fb51d93e26f6a12597ff0b3be7bdbb1d58377c2c1902ad3f1925"
@@ -11792,12 +12280,28 @@
         "rule/Clash/TIDAL/TIDAL_No_Resolve.yaml": "f9c3c8c2b3f778500ff062bd8b43dda6b89a166dc9515bf16419f4339e4e115f"
       }
     },
+    "b08437050449e6d808a3599ae0fd5340dedaa6ba132eb623213a7134986ad77c": {
+      "files": {
+        "rule/Surge/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      },
+      "post": {
+        "rule/Surge/Grok/Grok.list": "edc15f87d12cf3bd4d6e8432fb2bdb89f15681fd232013f9e1559855cc5b3dc1"
+      }
+    },
     "b09cc3d21f4b7415edd23affd2026d30e6accae12f7d121d9607964b03caf09d": {
       "files": {
         "rule/Clash/DaMai/DaMai.yaml": "da389cde914b23680f23dba5e679bde47209902fd7c65b6322dd855c3dcdbe69"
       },
       "post": {
         "rule/Clash/DaMai/DaMai.yaml": "da389cde914b23680f23dba5e679bde47209902fd7c65b6322dd855c3dcdbe69"
+      }
+    },
+    "b09f670957b1b6f4496b16528a341e90412436ed33e814d5f644bbf4ee58ac95": {
+      "files": {
+        "rule/Shadowrocket/Copilot/Copilot_Resolve.list": "3ad82c4c711aca965dfe3b2b3753455b7742a3d96d934b3768717e8deb8f1d26"
+      },
+      "post": {
+        "rule/Shadowrocket/Copilot/Copilot_Resolve.list": "3ad82c4c711aca965dfe3b2b3753455b7742a3d96d934b3768717e8deb8f1d26"
       }
     },
     "b0a9434645c5a8b505d7b6feda4180c393ae602339fbafce4e51d0e8a62ea3be": {
@@ -12024,6 +12528,14 @@
         "rule/Clash/NowE/NowE.yaml": "e4de45b39effd8a50e969e29c039dd15f133d6128026d68388678651e1df2b82"
       }
     },
+    "b42a9e1deaa5836ffda280fbb7bb0d1c3ac51b5808532b0ab47562078a1a6ddd": {
+      "files": {
+        "rule/Clash/Poe/Poe.yaml": "d535c2bc8d5abf069797e65f9eda226de6a676098b76caa213b91972d7499071"
+      },
+      "post": {
+        "rule/Clash/Poe/Poe.yaml": "d535c2bc8d5abf069797e65f9eda226de6a676098b76caa213b91972d7499071"
+      }
+    },
     "b449fcdc2c57a7499f2ac0a24688db59d856025da5fb7cac2e5a4f9dc6d8da2c": {
       "files": {
         "rule/Clash/360/360_No_Resolve.yaml": "5441b3b376da7b1c9e3717c81b353f8c6f52c548c10d64d319534d41ebef7483"
@@ -12058,10 +12570,10 @@
     },
     "b4a28a2aaca838bac8c4a9dd8402297c0eff013f2c42f726151ce231605ff755": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "fb067f6822debe787b9d1acff5e157292a693b995be49e62b40088b074583dbe"
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "e01a1d4f426d4b70018b276808bddbfcf0efaf02d42ba89d80a5a806a0271f6c"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "fb067f6822debe787b9d1acff5e157292a693b995be49e62b40088b074583dbe"
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "e01a1d4f426d4b70018b276808bddbfcf0efaf02d42ba89d80a5a806a0271f6c"
       }
     },
     "b4b1931386bc044d9efd235f5c0a066a4e6f9c86dff6af76045c37228eec70fd": {
@@ -12232,6 +12744,14 @@
         "rule/Clash/XiaoYuanKeJi/XiaoYuanKeJi_No_Resolve.yaml": "ed77ce3192e25fe5ed7d6f63d37af93ddc5e77389c0e7af4241038e948b12ab1"
       }
     },
+    "b79e015252178bf24b3349b97cce6202853a59d000468a07b8a72a2bffc4161a": {
+      "files": {
+        "rule/Clash/Perplexity/Perplexity.yaml": "682abba577859dee7f550585ebcd7b0f12692e27418700c12090fa4549e269b2"
+      },
+      "post": {
+        "rule/Clash/Perplexity/Perplexity.yaml": "682abba577859dee7f550585ebcd7b0f12692e27418700c12090fa4549e269b2"
+      }
+    },
     "b7ddfc3a053931e48ef9a2c8e9e81f0c7290ee24111b49e6488bba4ff91f6d3f": {
       "files": {
         "rule/Clash/FlipBoard/FlipBoard.list": "a0ef8c232054f5b4ed562addae7b6003be866437d0fbe48236af3dcd82abda3d"
@@ -12358,6 +12878,14 @@
       },
       "post": {
         "rule/Clash/FanFou/FanFou_No_Resolve.yaml": "0c2fefceef6d841ada5ece475e3573f3cc40e396ddc1498875a45c6fce34a96f"
+      }
+    },
+    "b92767760b36972c8c2d836d49754c54d47691c576040a65549b2798e4d76316": {
+      "files": {
+        "rule/QuantumultX/GitHubCopilot/GitHubCopilot.list": "3c19ebbc325b3eba1f74ff905ce95e142b81e320530e52bf2001e84a4b77fcd7"
+      },
+      "post": {
+        "rule/QuantumultX/GitHubCopilot/GitHubCopilot.list": "3c19ebbc325b3eba1f74ff905ce95e142b81e320530e52bf2001e84a4b77fcd7"
       }
     },
     "b92916fd5fd7a27b52ee5c22a4a957086b09d590f6e80fd8dc35acb9ff2faea4": {
@@ -12584,6 +13112,22 @@
         "rule/Clash/AOL/AOL_No_Resolve.yaml": "e12bb3840db2f581fea0691e4db2487bb82e8e65aa03a2babd0cabe76bb39b48"
       }
     },
+    "bc75c7ed763e53b90f5d8f689cc0c20e49d9cb9be4adc86dd9f8c0e291ecc1a3": {
+      "files": {
+        "rule/Clash/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      },
+      "post": {
+        "rule/Clash/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      }
+    },
+    "bc7d0fdd43e317017e266bdf59f79e68d2d746013a58137076075d836b587c76": {
+      "files": {
+        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "b53b8deeea3150008383784c28f9b560ade6a2c244fd9263f423003edce6f000"
+      },
+      "post": {
+        "rule/Clash/Gemini/Gemini_No_Resolve.yaml": "b53b8deeea3150008383784c28f9b560ade6a2c244fd9263f423003edce6f000"
+      }
+    },
     "bc822dfe0b0c757282e41463bfd9a6d4d5439c1f53f051943639a0e425d50193": {
       "files": {
         "rule/Clash/Accuweather/Accuweather.list": "ddb34138290071c409de674011debcbf22bd0dbccbb7e3bab75d63d063178f64"
@@ -12598,6 +13142,14 @@
       },
       "post": {
         "rule/Clash/ViuTV/ViuTV.yaml": "7e6e5adaa558f46584d2232a55dcaefb75328e07a05119fee877ba3a2893cfcc"
+      }
+    },
+    "bcc911442057096cdf0b09def48f425f4678e0ef1e454b5f28fb628dd1532d1f": {
+      "files": {
+        "rule/Shadowrocket/OpenAI/OpenAI.list": "50d96ca16dcbc57ff76daa772505c0f56142c125e05e5a098e0749b2544d81ec"
+      },
+      "post": {
+        "rule/Shadowrocket/OpenAI/OpenAI.list": "50d96ca16dcbc57ff76daa772505c0f56142c125e05e5a098e0749b2544d81ec"
       }
     },
     "bd2ebc6045f61833151e4fdefd0d24f5c763ca90bc072508129620c9708b5482": {
@@ -12720,6 +13272,14 @@
         "rule/Clash/XiamiMusic/XiamiMusic_No_Resolve.yaml": "cdb4c9344424166f24389072e53c0a6cc151a5ed3b22dc1aedf6da5f8030a2a6"
       }
     },
+    "be68c316e87581bbe0b01f5f5425d9fb13259afa3fcfb82fd9246a2089fa2e0b": {
+      "files": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      },
+      "post": {
+        "rule/Clash/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      }
+    },
     "be6ee2197dc8071bd6b8164874fbfebca7f57dc6cca041d253f92ea317574e08": {
       "files": {
         "rule/Clash/WoLai/WoLai.yaml": "f63f394b329a6ddb15bbc3edc05739fb0b3af246d20e01ae21af289f8422568b"
@@ -12750,6 +13310,14 @@
       },
       "post": {
         "rule/Clash/Game/Roblox/Roblox.list": "f3f0d37d41ed60765a443dc13baebdd918c52c45740263834f57f3fe6b0a0e6b"
+      }
+    },
+    "bef9e37851d175e3ad2605150f686911a3956d389f68bd2463b6f3f4a4578abe": {
+      "files": {
+        "rule/Surge/Copilot/Copilot_Resolve.list": "3ad82c4c711aca965dfe3b2b3753455b7742a3d96d934b3768717e8deb8f1d26"
+      },
+      "post": {
+        "rule/Surge/Copilot/Copilot_Resolve.list": "3ad82c4c711aca965dfe3b2b3753455b7742a3d96d934b3768717e8deb8f1d26"
       }
     },
     "befb3257ade373a8014af854069e97f70ed065a11487f0f5776c99acd2f7f06f": {
@@ -12802,10 +13370,18 @@
     },
     "bf7cdb6c001833f8f32cf2b4a78b2afa4c324bca791645d904bef776e6c22e08": {
       "files": {
-        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "dc39026e399eebe8f4f3912bd79e5225b2c268e4fc4eed1cf5a09d71ad1252d3"
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "07e19412128d48d6aea521e907daefcc08f837729753a4771e700bf4cba05d95"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "dc39026e399eebe8f4f3912bd79e5225b2c268e4fc4eed1cf5a09d71ad1252d3"
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "07e19412128d48d6aea521e907daefcc08f837729753a4771e700bf4cba05d95"
+      }
+    },
+    "bf7f1c881f6bfec301252dd09f43036859485dd134b2df27d7a23feefc7fcc48": {
+      "files": {
+        "rule/Shadowrocket/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      },
+      "post": {
+        "rule/Shadowrocket/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
       }
     },
     "bf80cdb4de2a9a2b39352c97d3ccc44634ec1e92659d443d26ff2f77b8457c48": {
@@ -12918,6 +13494,14 @@
       },
       "post": {
         "rule/Clash/ABC/ABC.list": "695955a9cef29d62b733dcbd77047f3958d8f6c42149dc89c4241ca456fcde06"
+      }
+    },
+    "c0c7b126bacfcfb2361ac5c3113ffe309c891ee1bc7d581da5b23b906f4f31b5": {
+      "files": {
+        "rule/Loon/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
+      },
+      "post": {
+        "rule/Loon/Poe/Poe.list": "1fd44dffe3125db19a01b7ed133385d78e23e2352639875f7f9e4158cbe79cfb"
       }
     },
     "c10b7af8285d942626f66ff30671e0320665d38bf082749f86347c350337c176": {
@@ -13080,6 +13664,14 @@
         "rule/Clash/XueQiu/XueQiu.yaml": "7cb17ea4eec3cf93f43a5adcf65d66356343e1c633e3d0cd57764b5136fdeb92"
       }
     },
+    "c3183a18e74655645e5c2d2507e9a3465c43171b74810fe0d6bc3b93c42b6c8c": {
+      "files": {
+        "rule/Loon/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
+      },
+      "post": {
+        "rule/Loon/Anthropic/Anthropic.list": "3902b21fda052511e5a8fb9a112dab5b291805a9fafad5a8d09c88dd13c82ac4"
+      }
+    },
     "c36caf5875ed58238c83b6004828216df99a0a7dd13a5a7ae88310b32bdd0c62": {
       "files": {
         "rule/Clash/Ali213/Ali213_No_Resolve.yaml": "598459d3e0b5d25a67da3569ecf523c2fdf6e2f8860d71e61b612c7e641e7367"
@@ -13146,10 +13738,10 @@
     },
     "c444d5d7e443cab8c0562b8eefc0eef33f9c7c812f22a96f8eb4df7754946d15": {
       "files": {
-        "rule/Clash/Gemini/Gemini.list": "db8f69154426dca76792ab80b3ad6b0e2d078ebe0e52e76faec1724245a4ec49"
+        "rule/Clash/Gemini/Gemini.list": "c9c33ce58b94242121cde023d34c69159c4e1ffb8d166a7bab36e97c5bb0fa13"
       },
       "post": {
-        "rule/Clash/Gemini/Gemini.list": "db8f69154426dca76792ab80b3ad6b0e2d078ebe0e52e76faec1724245a4ec49"
+        "rule/Clash/Gemini/Gemini.list": "c9c33ce58b94242121cde023d34c69159c4e1ffb8d166a7bab36e97c5bb0fa13"
       }
     },
     "c479dd4349bd33301f6b25b25b133e647c42b11bc4f4bac4817fca4263cdfea5": {
@@ -13182,6 +13774,14 @@
       },
       "post": {
         "rule/Clash/JiGuangTuiSong/JiGuangTuiSong.yaml": "74548d4a19a27407ab04797ce0b6ea3d3be09d98ce12be5f89c83f10e05eec9f"
+      }
+    },
+    "c4f61461ecf929b8c1e83466dc4a8d55c643afe25ce290d562fe62738e7b8aed": {
+      "files": {
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "07e19412128d48d6aea521e907daefcc08f837729753a4771e700bf4cba05d95"
+      },
+      "post": {
+        "rule/Clash/Copilot/Copilot_No_Resolve.yaml": "07e19412128d48d6aea521e907daefcc08f837729753a4771e700bf4cba05d95"
       }
     },
     "c54220cb413f13c53ac81c0a4c6a481e1c84595a4e44ace090477c2c94a0bcc0": {
@@ -13230,6 +13830,14 @@
       },
       "post": {
         "rule/Clash/TongCheng/TongCheng.yaml": "a2e6f0b2b7bb6a1918648b92ddca897afe922a02a837e4280989cc367d547e2d"
+      }
+    },
+    "c61cb66c26556efc449b30d04e6d943387f4287ad0d402795c06c960e8c14d36": {
+      "files": {
+        "rule/Clash/Grok/Grok.yaml": "f0ee3a606042265189d2d1452d03f1f3dd1b64521d94692dd19e946bcc19d02e"
+      },
+      "post": {
+        "rule/Clash/Grok/Grok.yaml": "f0ee3a606042265189d2d1452d03f1f3dd1b64521d94692dd19e946bcc19d02e"
       }
     },
     "c635121a429b79322de1b36607e2f2793e7fa0e2648da172ffe279772ca0d134": {
@@ -13462,6 +14070,14 @@
       },
       "post": {
         "rule/Clash/Alibaba/Alibaba_Domain.yaml": "0fb38e364c3a1662ecc8f97a19ad2e8adecbf6e5119ad653cc8ff35ea7a66122"
+      }
+    },
+    "ca126b28483c7b72c31742d23342f190c0a71353037ba4619f5c78ac3c9ae1e0": {
+      "files": {
+        "rule/Clash/Poe/Poe.yaml": "d535c2bc8d5abf069797e65f9eda226de6a676098b76caa213b91972d7499071"
+      },
+      "post": {
+        "rule/Clash/Poe/Poe.yaml": "d535c2bc8d5abf069797e65f9eda226de6a676098b76caa213b91972d7499071"
       }
     },
     "ca46fd1b6ba343a03b725b95eda19352bd079c0fca5c900219935c386d3324ac": {
@@ -13920,6 +14536,14 @@
         "rule/Clash/UnionPay/UnionPay.yaml": "ec00aadea470ca813aea3952f78a2fedcbe43bdf4bfe00404877efd392ccce51"
       }
     },
+    "d16594413a6dd21b5717dd72447e9afaaa63b5e44ea06a33353910ab37abd12e": {
+      "files": {
+        "rule/QuantumultX/DeepSeek/DeepSeek.list": "094d1a6925cc057dac2d68d57ecf1590e17634a08bc11a952ce87cbaf0493b8d"
+      },
+      "post": {
+        "rule/QuantumultX/DeepSeek/DeepSeek.list": "094d1a6925cc057dac2d68d57ecf1590e17634a08bc11a952ce87cbaf0493b8d"
+      }
+    },
     "d193366aaf9ce63e537dd54023a9bda98d84c502765fc6c7ae42045e39cc5434": {
       "files": {
         "rule/Clash/Tencent/Tencent.yaml": "0a5f578e2b837c757de278bed80e6a5092aa22741d723ffc722095f4ba99b420"
@@ -14066,10 +14690,18 @@
     },
     "d301eb7ecd4d0365ab532bb4c94bccb0ae440d5042c2f638de641c8dbabdac3d": {
       "files": {
-        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "af16ff9b3d5d587f93fa1761292401c8cc716fd52e7263f8ced577b90d7507c5"
+        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
       },
       "post": {
-        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "af16ff9b3d5d587f93fa1761292401c8cc716fd52e7263f8ced577b90d7507c5"
+        "rule/Clash/Anthropic/Anthropic_No_Resolve.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
+      }
+    },
+    "d307a33384dc1e06feba3c84c9a48e66f342bcecb2e550ed2c0e0f3b7be7883b": {
+      "files": {
+        "rule/Loon/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
+      },
+      "post": {
+        "rule/Loon/DeepSeek/DeepSeek.list": "48c866bf17f6b5add04a587668bef8b295233d94adbb37c76df531fadacc4229"
       }
     },
     "d35b67ba057e006c5d0788d6af9d9dc3e4cd77aa1313fff9aed3b3f43d2fb618": {
@@ -14102,6 +14734,14 @@
       },
       "post": {
         "rule/Clash/TencentVideo/TencentVideo_No_Resolve.yaml": "e20b7842706929163b75194c41f90200bdcb54335a5e8118290660a703741d01"
+      }
+    },
+    "d3b2c20c96bc25f90f0e44270e19a5ed98f5a72a5b2464993be8e22ecb40774f": {
+      "files": {
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "e01a1d4f426d4b70018b276808bddbfcf0efaf02d42ba89d80a5a806a0271f6c"
+      },
+      "post": {
+        "rule/Clash/OpenAI/OpenAI_No_Resolve.yaml": "e01a1d4f426d4b70018b276808bddbfcf0efaf02d42ba89d80a5a806a0271f6c"
       }
     },
     "d3b410152265414ca56dea49d3adf4ab6716587387aa8534591a8bb47a49241f": {
@@ -14206,6 +14846,14 @@
       },
       "post": {
         "rule/Clash/Americasvoice/Americasvoice.yaml": "e63e84cd9ea231aad844a838e104bc75c1721172b59afc9df1b75d64c19b832e"
+      }
+    },
+    "d5293ec0673c0b6f79c68ddc4e10dcc2344c6d0845d22be4b25e35af995238f6": {
+      "files": {
+        "rule/Surge/Copilot/Copilot.list": "719bbc44e38433d259f3cbd5b2361d1d7e1ef382e50b7d6e56962b05f76f2b6b"
+      },
+      "post": {
+        "rule/Surge/Copilot/Copilot.list": "719bbc44e38433d259f3cbd5b2361d1d7e1ef382e50b7d6e56962b05f76f2b6b"
       }
     },
     "d56af65b7a6b859aa4cffdc2ba3e94e9c5f8b6839e58a8a876592bf01028251d": {
@@ -14414,6 +15062,14 @@
       },
       "post": {
         "rule/Clash/Electron/Electron.list": "e03bb72a6aa546a453bd8557bd6ac0f2a126e7bf2e5dda5339911f5626f88a01"
+      }
+    },
+    "d88ed5691fecfdbf7630147a1040fc0dce9a2c52b19ba9eee8487b5b9adc81ce": {
+      "files": {
+        "rule/Clash/BardAI/BardAI.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
+      },
+      "post": {
+        "rule/Clash/BardAI/BardAI.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       }
     },
     "d8e6cdd786822265f1bcb6a42b8f6697faab7263339235f72c16d98bb5dd5bb9": {
@@ -14842,10 +15498,10 @@
     },
     "df9ea1799f1fa4078739917a22654fdbb5838c93ce304993ac0da3573e02fae3": {
       "files": {
-        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ef21df39005b17dbd84aa65a47162b36fb5e72754cd32384146474ed488df482"
+        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
       },
       "post": {
-        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ef21df39005b17dbd84aa65a47162b36fb5e72754cd32384146474ed488df482"
+        "rule/Clash/Claude/Claude_No_Resolve.yaml": "ff750eb5d854e83b81485fc1e004926719e0bfff58c58228e16a2b9e5c15ea90"
       }
     },
     "dfaac0b6bce78554f3b43f7d8a7215559dce669c1fc184962ed1e58bcfad3cdf": {
@@ -15162,10 +15818,10 @@
     },
     "e3244f944af496ff16ba52b08b5de0f22c1d7d94429b92dead4d212a5a1c1a4c": {
       "files": {
-        "rule/Clash/Anthropic/Anthropic.yaml": "af16ff9b3d5d587f93fa1761292401c8cc716fd52e7263f8ced577b90d7507c5"
+        "rule/Clash/Anthropic/Anthropic.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
       },
       "post": {
-        "rule/Clash/Anthropic/Anthropic.yaml": "af16ff9b3d5d587f93fa1761292401c8cc716fd52e7263f8ced577b90d7507c5"
+        "rule/Clash/Anthropic/Anthropic.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
       }
     },
     "e340afc8aa36c13169e18eaaee3fcc3de36c2f9b27e9fdcc1a9e987551bdec0d": {
@@ -15214,6 +15870,14 @@
       },
       "post": {
         "rule/Clash/LastPass/LastPass_No_Resolve.yaml": "770a436220f2be3e98dfcd92c37f74914ccf667bbd392f6e2f6d0416a3db4a7d"
+      }
+    },
+    "e40e949e84edab35a4253c7d94b157869e8379ab91e239a879af79775d2fbf6a": {
+      "files": {
+        "rule/Clash/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
+      },
+      "post": {
+        "rule/Clash/Mistral/Mistral.list": "809d541a23fbd978af0452a35122930b51327a3a8f06427913af030b26d49e8f"
       }
     },
     "e43cddad3c8a76f399129d01bf491f8df0a4037c398ec3bad21809d15d9c2dc5": {
@@ -15600,12 +16264,28 @@
         "rule/Clash/Whatsapp/Whatsapp_No_Resolve.yaml": "e6ea0d35606df7cab5314e43e26e9396777cbbbab074483d3e1229bc7571b2a7"
       }
     },
+    "e9c7d2c57717ce011869499ffae6c6fea6776e72b79c93ba59a00a7894e05579": {
+      "files": {
+        "rule/Loon/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
+      },
+      "post": {
+        "rule/Loon/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
+      }
+    },
     "e9d731f66f383777a48a6aa7e3a202cb8097432d938f42901be604099c5fbc9c": {
       "files": {
         "rule/Clash/BiliBili/BiliBili.yaml": "fba635689995726aebbb522699f157f5dd910783950daa4bb475f167fe7b40de"
       },
       "post": {
         "rule/Clash/BiliBili/BiliBili.yaml": "fba635689995726aebbb522699f157f5dd910783950daa4bb475f167fe7b40de"
+      }
+    },
+    "e9e35a1806721cea56763dc0c14fd560719bc699021bb525fc1087ac1aaa4c12": {
+      "files": {
+        "rule/Shadowrocket/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      },
+      "post": {
+        "rule/Shadowrocket/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
       }
     },
     "e9e4426b74d666c518f2a16504542c527f18ab108d9e224bd7e93464c59cae20": {
@@ -15730,10 +16410,10 @@
     },
     "eb7cb4ccc092d6c40fcb088d177428cbce057e93eb0df60b6bd7566fde7fbfd7": {
       "files": {
-        "rule/Clash/OpenAI/OpenAI.yaml": "5aaceb449517b415ab63b1b28c3e7dc8544ad623022f7345ade5edadbac353b3"
+        "rule/Clash/OpenAI/OpenAI.yaml": "704f0fb4d2ff3705c21428ee784dc4a9384068a194f56697b9096a348256e41c"
       },
       "post": {
-        "rule/Clash/OpenAI/OpenAI.yaml": "5aaceb449517b415ab63b1b28c3e7dc8544ad623022f7345ade5edadbac353b3"
+        "rule/Clash/OpenAI/OpenAI.yaml": "704f0fb4d2ff3705c21428ee784dc4a9384068a194f56697b9096a348256e41c"
       }
     },
     "eb8ca305f6dfc00e571af6b94f998c9fd1f610a19d455efd00b74e9070bffa9f": {
@@ -15774,6 +16454,14 @@
       },
       "post": {
         "rule/Clash/AirChina/AirChina_No_Resolve.yaml": "3a0f6436fa79c57e1a6b78d4cfda91a2136214b02036ba9df53a8589ceab9ac8"
+      }
+    },
+    "ec5f8a8d1bf88c74517e1c0affdbf8a0ce195e02187e3c448071f8f268c12a81": {
+      "files": {
+        "rule/QuantumultX/Perplexity/Perplexity.list": "35b049fbcfa07d70852a181b4fdc14d1aab9c1fc1d8e9f1bb694f2163f692193"
+      },
+      "post": {
+        "rule/QuantumultX/Perplexity/Perplexity.list": "35b049fbcfa07d70852a181b4fdc14d1aab9c1fc1d8e9f1bb694f2163f692193"
       }
     },
     "ec741eb44fe4af38899d2ba0548228fd90beb4839c34218e8692d629c66f1d84": {
@@ -15830,6 +16518,14 @@
       },
       "post": {
         "rule/Clash/HBOAsia/HBOAsia.list": "e08596d641a2f61d3e23e4cb75af5d787d9627982d1d506714cd0eee460753cf"
+      }
+    },
+    "ecfc9e2d12c3779aecdfce0ee8ec58d73540b1f4fd8ecb513256c04967792a81": {
+      "files": {
+        "rule/QuantumultX/Claude/Claude.list": "6d8a0af21dfbba919c2850a2491431dadb1510b52db840d1e1c92597a14bf876"
+      },
+      "post": {
+        "rule/QuantumultX/Claude/Claude.list": "6d8a0af21dfbba919c2850a2491431dadb1510b52db840d1e1c92597a14bf876"
       }
     },
     "ed131ab6ecdd6650c094574d1086bd59d9e37eaebe6e65b37cb2768e8a299b0e": {
@@ -16130,10 +16826,10 @@
     },
     "f09ca239d6aa71ee832269432d69dae0107f0e37ce997d2417b0de1fb1e1eb0b": {
       "files": {
-        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "d25962c56c02227c961c46ac905dd2d5878bdda9994e92437f2c2b81b59d9b82"
+        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       },
       "post": {
-        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "d25962c56c02227c961c46ac905dd2d5878bdda9994e92437f2c2b81b59d9b82"
+        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       }
     },
     "f0a166bc5e0801ec44e2c429d922975a69346cc988b9931bc4c21598e76fc4c7": {
@@ -16178,10 +16874,26 @@
     },
     "f1269aeb62af8bdb498c56aa10f75b0916fe0e0bca74460fd713f9b4b83873ac": {
       "files": {
-        "rule/Clash/Copilot/Copilot.yaml": "07a267ff7da26ccc1723dabccccf0980bb6a2498230ea7c67edf4a58a7d2d694"
+        "rule/Clash/Copilot/Copilot.yaml": "9babd0c85e199ba7df3b23c724ca732cbf90a8bd9ae3ad22a1005c85840021a0"
       },
       "post": {
-        "rule/Clash/Copilot/Copilot.yaml": "07a267ff7da26ccc1723dabccccf0980bb6a2498230ea7c67edf4a58a7d2d694"
+        "rule/Clash/Copilot/Copilot.yaml": "9babd0c85e199ba7df3b23c724ca732cbf90a8bd9ae3ad22a1005c85840021a0"
+      }
+    },
+    "f18776b0c5b7c7176e03359bf32435e1e43f69d78f2291561c4b57771b62de67": {
+      "files": {
+        "rule/QuantumultX/Grok/Grok.list": "7ac6c9e2f1c95534e8845bbc803f83886ee487b3008510aef0a0f0fed2b0be71"
+      },
+      "post": {
+        "rule/QuantumultX/Grok/Grok.list": "7ac6c9e2f1c95534e8845bbc803f83886ee487b3008510aef0a0f0fed2b0be71"
+      }
+    },
+    "f188b5bfdcc0789108ac1d662576d52fc68679f85ead2993fa0b7c2b5e13a2f5": {
+      "files": {
+        "rule/Clash/Anthropic/Anthropic.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
+      },
+      "post": {
+        "rule/Clash/Anthropic/Anthropic.yaml": "085e25a562494d8a96cbdce3fd06421732be9f19113485f80f72d11f4a12e4cf"
       }
     },
     "f18e43b1e7631f69da296565f12969b5c18a904396b611619499e1a5677ce969": {
@@ -16278,6 +16990,14 @@
       },
       "post": {
         "rule/Clash/Siri/Siri_No_Resolve.yaml": "b388a3df5ba407e810df018e896c10363484bdbdd9801c5301090e5733a0e9ac"
+      }
+    },
+    "f30d4a4a7077282119ffe95dc9a74011d1b7c705a17cc389817e4fed35bb5674": {
+      "files": {
+        "rule/Clash/DeepSeek/DeepSeek.yaml": "95eec403e32f86e303a862a863b47dd2891eb461895a1ec3be28b5f95b37b491"
+      },
+      "post": {
+        "rule/Clash/DeepSeek/DeepSeek.yaml": "95eec403e32f86e303a862a863b47dd2891eb461895a1ec3be28b5f95b37b491"
       }
     },
     "f316f3f55a324a82f92a9cfaac144328cbac3d6c29cebad3665da6405b561ddc": {
@@ -16584,6 +17304,14 @@
         "rule/Clash/Viki/Viki.yaml": "6894fdd76cf1cfedc7b20f5e970677900455eaf3793ee9f9d8ba60b7a6c0d532"
       }
     },
+    "f69a89a463077d1204b0ca654fd0b1cc22ed928aeac0a0c1b6ef4ee5ae594d44": {
+      "files": {
+        "rule/Loon/Copilot/Copilot.list": "04470842d7fc414ce4f2e2660933f6b61f55139dfa41f61f159667e70c729a19"
+      },
+      "post": {
+        "rule/Loon/Copilot/Copilot.list": "04470842d7fc414ce4f2e2660933f6b61f55139dfa41f61f159667e70c729a19"
+      }
+    },
     "f6f2f559d7e93002ec40705142576d52bf0eb1ffcd1fc7366d62f4208400554d": {
       "files": {
         "rule/Clash/HKedcity/HKedcity.list": "99df485bac3eb9d0110bf0a5383d78053cade0ee6a04f865a795c9b8ba91145a"
@@ -16616,6 +17344,14 @@
         "rule/Clash/DiDi/DiDi.list": "9d5739b3946601d1251388dcbbaa0cf52795d0f19b37d11f2fed4db11ee89e74"
       }
     },
+    "f78cc59e83486f08862ded649ba9e15984d44dd76f5a220a5962dd049ce7e50f": {
+      "files": {
+        "rule/Clash/Copilot/Copilot.yaml": "9babd0c85e199ba7df3b23c724ca732cbf90a8bd9ae3ad22a1005c85840021a0"
+      },
+      "post": {
+        "rule/Clash/Copilot/Copilot.yaml": "9babd0c85e199ba7df3b23c724ca732cbf90a8bd9ae3ad22a1005c85840021a0"
+      }
+    },
     "f791f350549bb6c915cc9c6513d5784fcd620edb8e70c22024d6267166c6b806": {
       "files": {
         "rule/Clash/Abema/Abema.list": "e10b18c45ed518538a0efb9a003efa1c9fda2a7125a87ac3684f2cd6f5857789"
@@ -16638,6 +17374,14 @@
       },
       "post": {
         "rule/Clash/EHGallery/EHGallery.yaml": "6ebd7a002ca5224e24fcebe541cc442accd06481d4335a3a10fecc3cb05ef104"
+      }
+    },
+    "f7e42a862f8a07d442c629f991a73ed38fb403aa7e11a3925ceee47a354d3e9d": {
+      "files": {
+        "rule/Surge/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
+      },
+      "post": {
+        "rule/Surge/BardAI/BardAI.list": "0b582aaf0645c5929a4d72d5879d6e77b41cda9eccdb6304ce7de90d396dc2eb"
       }
     },
     "f7e4a2affb952ccd6d8be7b6d273e46a65e7bbdffdf151edca8a2fb628266830": {
@@ -16864,6 +17608,14 @@
         "rule/Clash/Ubisoft/Ubisoft.list": "943e40e084bc7aa96b24ed3aaf0c778db79550505639a4feb4575f5f4de0d6f5"
       }
     },
+    "f9d5bf99c1649828d31568e28c5ba3e322de30771e38e219001d8f45f8daceeb": {
+      "files": {
+        "rule/Shadowrocket/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      },
+      "post": {
+        "rule/Shadowrocket/GitHubCopilot/GitHubCopilot.list": "b815d02a96372d4700fb9526b7bf43cb5541cee6b2d82ebc7ffbfebb3f61553b"
+      }
+    },
     "fa0c06ace9726a96c23a22cb54344c04370efa3545bb4d9b390b7fadd7241aec": {
       "files": {
         "rule/Clash/CMB/CMB.list": "f74e32d571eb603904e33e5cd965c820063c60ab9b1bc9439df588aeac39fea6"
@@ -16982,6 +17734,14 @@
       },
       "post": {
         "rule/Clash/Developer/Developer.yaml": "3763d2387fcc1babf5641603de18f9faec1b823724cf9af5c090fc6977cd153d"
+      }
+    },
+    "fbe3f9229ac58f17fcd51eaf38dff0a130e10424c337026c8cf6db64174d2302": {
+      "files": {
+        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
+      },
+      "post": {
+        "rule/Clash/BardAI/BardAI_No_Resolve.yaml": "9c9b1528b3a3fe9addcd867e47e542bc0676d6d9024d2545d1105b69d869ba3b"
       }
     },
     "fbe6def9cc6d0ccc0c5c4ec5844239c5fab3f72f217552c1da494096416d2cda": {
@@ -17134,6 +17894,14 @@
       },
       "post": {
         "rule/Clash/PrimeVideo/PrimeVideo_No_Resolve.yaml": "472c6ef0b6066a6cecb718a3638a353a952e2331ae843078cae26f0faab08a00"
+      }
+    },
+    "fdf5cef6478f4747e7796c94817e83fdba89150eb129571f91c6cf4c004db299": {
+      "files": {
+        "rule/Surge/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
+      },
+      "post": {
+        "rule/Surge/Perplexity/Perplexity.list": "b9beb50cf41547b64ffa03f486ae7209cfa9c4471ebebc43b6b87cd156d6771b"
       }
     },
     "fe2f831520367c2a257372b23803fc2c36859e1f91cfa1fa0a59eb2e6d28c5a5": {
